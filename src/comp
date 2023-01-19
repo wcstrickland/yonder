@@ -1,0 +1,58 @@
+#!/usr/bin/env node
+
+const fs = require('fs') // require file system
+const componentName = process.argv[2]; // first and second command line args are locked
+
+// react class component boiler plate
+const jsContent = `import React from 'react';
+import './${componentName}.css';
+
+function ${componentName}(){
+    return(
+        <>
+
+        </>
+    );
+}
+
+export default ${componentName};
+`
+
+// css boilerplate
+const cssContent = `
+.${componentName}{
+
+}
+.${componentName}-title{
+
+}
+
+.${componentName}-img{
+
+}
+
+.${componentName}-misc{
+
+}
+
+`
+if ((process.cwd()).includes("src")) {
+    fs.mkdirSync(`./components/${componentName}`)
+    fs.writeFile(`./components/${componentName}/${componentName}.css`, cssContent, err => {
+        if (err) {
+            console.error(err)
+            return
+        }
+    //file written successfully
+    })
+
+    fs.writeFile(`./components/${componentName}/${componentName}.js`, jsContent, err => {
+        if (err) {
+            console.error(err)
+            return
+        }
+    //file written successfully
+    })
+    } else {
+        console.log("The current working directory is not 'src'")
+    }
