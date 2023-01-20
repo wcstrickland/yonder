@@ -1,17 +1,16 @@
 import './App.css';
+import {Routes, Route} from "react-router-dom"
 import React from 'react';
-import Nav from './components/nav/nav';
-import Sheet from './components/Sheet/Sheet';
+import HomePage from './components/HomePage/HomePage';
+import MonsterSearchPage from './components/MonsterSearchPage/MonsterSearchPage'
+import MonsterPage from './components/MonsterPage/MonsterPage';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <Nav />
-      <div className="main container">
-        <Sheet/>
-      </div>
-    </div>
+    <Routes>
+      <Route path="/" element={<HomePage/>} />
+      <Route path="/monsters" element={<MonsterSearchPage/>} />
+      <Route path="/monster/:id" element={<MonsterPage/>} />
+    </Routes>
   );
 }
-
-export default App;

@@ -7,15 +7,13 @@ const componentName = process.argv[2]; // first and second command line args are
 const jsContent = `import React from 'react';
 import './${componentName}.css';
 
-function ${componentName}(){
+export default function ${componentName}(){
     return(
         <>
 
         </>
     );
 }
-
-export default ${componentName};
 `
 
 // css boilerplate
