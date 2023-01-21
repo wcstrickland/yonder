@@ -1,7 +1,56 @@
 import React from 'react';
 import './SheetSection.css';
+import RollerButton from '../RollerButton/RollerButton'
 
 function SheetSection(props) {
+
+    function extractRoll(sectionString) {
+        const result = {}
+        const damageArr = []
+        const re = /\+(\d{1,2}) to hit/
+        let toHit = sectionString.match(re)
+        if (toHit !== null) {
+            result["toHit"] = toHit[1]
+        }
+        const damRe = /\((\d{1,2})d(\d{1,2})\+?(\d{0,2})\)/g
+        let damages = sectionString.matchAll(damRe)
+        for (const e of damages) {
+            if (e !== null) {
+                damageArr.push({ "num": e[1] ?? "", "sides": e[2] ?? "", "mod": e[3] ?? "" })
+            }
+        }
+        if(damageArr.length>0){
+            result["damageArr"] = damageArr
+        }
+        return result
+    }
+
+    function extractDamageNumbers(data){
+        let returnValue = ""
+        let returnList = []
+        if(Object.keys(extractRoll(data)).length>0){
+            if(extractRoll(data)["damageArr"] && extractRoll(data)["damageArr"].length>0){
+                for (const dam of extractRoll(data)["damageArr"]) {
+                    returnList.push(makeDamageRollButton(dam["sides"], dam["num"], dam["mod"]))
+                }
+            }
+        }
+        if(returnValue === ""){
+            console.log(returnList)
+            return returnList
+        }else{
+            return returnValue
+        }
+    }
+
+    function makeDamageRollButton(sides, num, mod){
+
+        return(
+            <RollerButton sides={sides} number={num} mod={mod} />
+        )
+    }
+
+
 
     // the value passed from the parent. Might be a nested object might be the end of the line
     let data = props.value
@@ -66,9 +115,20 @@ function SheetSection(props) {
     function renderResult() {
         if (isTerminal) {
             if (strData.length > 0) {
-                return strData
+                return (
+                    <>
+                        {strData}
+                        {extractDamageNumbers(strData)}
+                    </>
+                )
             }
-            return data
+
+            return (
+                <>
+                    {data}
+                    {extractDamageNumbers(data)}
+                </>
+            )
         }
         return subProperties.map(sp => <SheetSection property={sp.property} value={sp.value} children={sp.children} />)
     }

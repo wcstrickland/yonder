@@ -7,11 +7,12 @@ function Nav() {
         <>
             <nav className='nav'>
                 <ul>
-                    <li style={{marginLeft : "1em"}}><strong>Brand</strong></li>
+                    <li style={{marginLeft : "1em"}}><strong>Yonder</strong></li>
                 </ul>
                 <ul>
                     <li><Link to="/">Home</Link></li>
-                    <li><Link to="/monsters">Monsters</Link></li>
+                    <li><Link to="/roller">Roller</Link></li>
+                    <li><Link to="/test">test</Link></li>
                     <li style={{marginRight: "1em"}}><a href="#" role="button">Button</a></li>
                 </ul>
             </nav>
