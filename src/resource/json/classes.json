@@ -2,7 +2,7 @@
   "class": [
     {
       "name": "Artificer",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Intelligence, Constitution",
       "spellAbility": "Intelligence",
       "autolevel": [
@@ -616,7 +616,7 @@
     },
     {
       "name": "Barbarian",
-      "hd": "12",
+      "hp": "12",
       "proficiency": "Strength, Constitution",
       "autolevel": [
         {
@@ -1219,7 +1219,7 @@
     },
     {
       "name": "Bard",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Dexterity, Charisma",
       "spellAbility": "Charisma",
       "autolevel": [
@@ -1833,7 +1833,7 @@
     },
     {
       "name": "Cleric",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Wisdom, Charisma",
       "spellAbility": "Wisdom",
       "autolevel": [
@@ -2821,7 +2821,7 @@
     },
     {
       "name": "Druid",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Intelligence, Wisdom",
       "spellAbility": "Wisdom",
       "autolevel": [
@@ -3350,7 +3350,7 @@
     },
     {
       "name": "Fighter",
-      "hd": "10",
+      "hp": "10",
       "proficiency": "Strength, Constitution",
       "spellAbility": "Intelligence",
       "autolevel": [
@@ -4487,7 +4487,7 @@
     },
     {
       "name": "Monk",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Strength, Dexterity",
       "spellAbility": "Wisdom",
       "autolevel": [
@@ -5115,7 +5115,7 @@
     },
     {
       "name": "Mystic (UA)",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Intelligence, Wisdom",
       "spellAbility": "Intelligence",
       "autolevel": [
@@ -5752,7 +5752,7 @@
     },
     {
       "name": "Paladin",
-      "hd": "10",
+      "hp": "10",
       "proficiency": "Wisdom, Charisma",
       "spellAbility": "Charisma",
       "autolevel": [
@@ -6586,7 +6586,7 @@
     },
     {
       "name": "Ranger",
-      "hd": "10",
+      "hp": "10",
       "proficiency": "Strength, Dexterity",
       "spellAbility": "Wisdom",
       "autolevel": [
@@ -7252,7 +7252,7 @@
     },
     {
       "name": "Ranger (Revised)",
-      "hd": "10",
+      "hp": "10",
       "proficiency": "Strength, Dexterity",
       "spellAbility": "Wisdom",
       "autolevel": [
@@ -7932,7 +7932,7 @@
     },
     {
       "name": "Rogue",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Dexterity, Intelligence",
       "spellAbility": "Intelligence",
       "autolevel": [
@@ -8611,7 +8611,7 @@
     },
     {
       "name": "Sorcerer",
-      "hd": "6",
+      "hp": "6",
       "proficiency": "Constitution, Charisma",
       "spellAbility": "Charisma",
       "autolevel": [
@@ -9690,7 +9690,7 @@
     },
     {
       "name": "Warlock",
-      "hd": "8",
+      "hp": "8",
       "proficiency": "Wisdom, Charisma",
       "spellAbility": "Charisma",
       "autolevel": [
@@ -13234,7 +13234,7 @@
     },
     {
       "name": "Wizard",
-      "hd": "6",
+      "hp": "6",
       "proficiency": "Intelligence, Wisdom",
       "spellAbility": "Intelligence",
       "autolevel": [

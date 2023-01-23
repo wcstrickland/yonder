@@ -1,0 +1,25 @@
+
+.SkillCheck{
+
+}
+
+.skill-row{
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.SkillCheck-title{
+
+}
+
+.SkillCheck-img{
+
+}
+
+.SkillCheck-misc{
+
+}
+
