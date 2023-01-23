@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from "react-router-dom"
 import './MonsterPage.css';
 import monsterJson from '../../resource/json/monsters.json'
-import Sheet from '../../components/Sheet/Sheet'
+import MonsterSheet from '../MonsterSheet/MonsterSheet';
 
 
 export default function MonsterPage(){
@@ -13,7 +13,7 @@ export default function MonsterPage(){
     return(
         <>
             <div className='MonsterPage container'>
-                <Sheet entity={monster}/>
+                <MonsterSheet entity={monster}/>
             </div>
         </>
     );

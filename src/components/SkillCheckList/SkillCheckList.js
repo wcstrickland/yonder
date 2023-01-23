@@ -4,7 +4,7 @@ import SkillCheck from '../SkillCheck/SkillCheck';
 
 export default function SkillCheckList(props) {
 
-    let skills = ["Acrobatics", "Animal Handling", "Arcana", "Athletics", "Deception", "History", "Insight", "Intimidation", "Investigation", "Medicine", "Nature", "Perception", "Performance", "Persuasion", "Religion", "Sleight of Hand", "Stealth", "Survival"]
+    let skills = props.skills
     let mods = ["DEX", "WIS", "INT", "STR", "CHA", "INT", "WIS", "CHA", "INT", "WIS", "INT", "WIS", "CHA", "CHA", "INT", "DEX", "DEX", "WIS"]
 
     return (
@@ -16,7 +16,7 @@ export default function SkillCheckList(props) {
                     <div>Skill</div>
                     <div>Bonus</div>
                 </div>
-                {Array(18).fill(1).map((sk, idx) => <SkillCheck prof={"Yes"} mod={mods[idx]} skill={skills[idx]} bonus={1} />)}
+                {skills.map((sk, idx) => <SkillCheck prof={sk["prof"]} mod={mods[idx]} skill={sk["skill"]} bonus={sk["prof"] === "y" ? sk["mod"] + parseInt(props.profBonus) : sk["mod"]} />)}
             </article>
         </>
     );

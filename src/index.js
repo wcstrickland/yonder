@@ -5,6 +5,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Nav from './components/nav/nav';
+import ToggleRollerButton from './components/ToggleRollerButton/ToggleRollerButton';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,6 +13,7 @@ root.render(
     <BrowserRouter>
       <Nav />
       <App />
+      <ToggleRollerButton />
     </BrowserRouter>
   </React.StrictMode>
 );

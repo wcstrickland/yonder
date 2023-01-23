@@ -1,8 +1,8 @@
 import React from 'react';
-import './Sheet.css';
+import './MonsterSheet.css';
 import SheetSection from '../SheetSection/SheetSection';
 
-function Sheet(props){
+function MonsterSheet(props){
 
     const monster = props.entity
 
@@ -21,4 +21,4 @@ function Sheet(props){
     );
 }
 
-export default Sheet;
+export default MonsterSheet;

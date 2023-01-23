@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import './Roller.css';
-import RollerModal from '../RollerModal/RollerModal';
+import OutcomeModal from '../OutComeModal/OutComeModal'
 
 
-export default function Roller() {
+export default function Roller(props) {
 
     const [sides, setSides] = useState(0)
     const [number, setNumber] = useState(0)
@@ -11,6 +11,7 @@ export default function Roller() {
     function useInput(opts) {
         const [value, setValue] = React.useState('0');
         const input = <input
+            style={{width: "50%", marginTop: "1em"}}
             value={value}
             onChange={e => setValue(e.target.value)}
             {...opts} />
@@ -29,39 +30,38 @@ export default function Roller() {
                 return (<td><button onClick={() => {
                     setSides(row)
                     setNumber(n)
+                    setModalVisible(true)
                 }}>{n}d{row}</button></td>)
             })}
         </tr>)
     })
 
 
+    const [modalVisible, setModalVisible] = useState(false)
+
+    function closeModal(){
+        setModalVisible(false)
+    }
 
     return (
         <>
-            <main className="container Roller">
-                <div className="grid">
-                    <div>
-                        <label htmlFor="modifier">
-                            Modifier
-                            {modInput}
-                        </label>
-                    </div>
-                    <div></div>
-                    <div></div>
-                </div>
-                <table>
-                    <thead>
-                        <tr>
-                            <th scope="col">🎲</th>
-                            {[...Array(6).keys()].map(x => <th scope="col">{x + 1}</th>)}
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {rows}
-                    </tbody>
-                </table>
-                <RollerModal mod={mod} sides={sides} number={number} />
-            </main>
+            <div className="container modal" >
+                <article className='modal-content'>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th style={{width: "15%"}} scope="col">{modInput}</th>
+                                {[...Array(6).keys()].map(x => <th scope="col">{x + 1}</th>)}
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {rows}
+                        </tbody>
+                    </table>
+                    <button onClick={()=> props.closeModal()}>Close</button>
+                    {modalVisible && <OutcomeModal closeModal={closeModal} mod={mod} sides={sides} number={number} />}
+                </article>
+            </div>
         </>
     );
 }

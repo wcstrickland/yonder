@@ -19,33 +19,32 @@ function SheetSection(props) {
                 damageArr.push({ "num": e[1] ?? "", "sides": e[2] ?? "", "mod": e[3] ?? "" })
             }
         }
-        if(damageArr.length>0){
+        if (damageArr.length > 0) {
             result["damageArr"] = damageArr
         }
         return result
     }
 
-    function extractDamageNumbers(data){
+    function extractDamageNumbers(data) {
         let returnValue = ""
         let returnList = []
-        if(Object.keys(extractRoll(data)).length>0){
-            if(extractRoll(data)["damageArr"] && extractRoll(data)["damageArr"].length>0){
+        if (Object.keys(extractRoll(data)).length > 0) {
+            if (extractRoll(data)["damageArr"] && extractRoll(data)["damageArr"].length > 0) {
                 for (const dam of extractRoll(data)["damageArr"]) {
                     returnList.push(makeDamageRollButton(dam["sides"], dam["num"], dam["mod"]))
                 }
             }
         }
-        if(returnValue === ""){
-            console.log(returnList)
+        if (returnValue === "") {
             return returnList
-        }else{
+        } else {
             return returnValue
         }
     }
 
-    function makeDamageRollButton(sides, num, mod){
+    function makeDamageRollButton(sides, num, mod) {
 
-        return(
+        return (
             <RollerButton sides={sides} number={num} mod={mod} />
         )
     }
@@ -115,18 +114,22 @@ function SheetSection(props) {
     function renderResult() {
         if (isTerminal) {
             if (strData.length > 0) {
+                console.log("strData")
+                console.log(strData)
                 return (
                     <>
                         {strData}
-                        {extractDamageNumbers(strData)}
+                        {strData && extractDamageNumbers(JSON.stringify(strData))}
                     </>
                 )
             }
 
+            console.log("data")
+            console.log(data)
             return (
                 <>
                     {data}
-                    {extractDamageNumbers(data)}
+                    {data && extractDamageNumbers(JSON.stringify(data))}
                 </>
             )
         }

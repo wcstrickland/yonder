@@ -1,0 +1,132 @@
+{
+  "name": "bob",
+  "size": "M",
+  "type": "humanoid",
+  "alignment": "chaotic good",
+  "ac": "17",
+  "hp": "58",
+  "speed": "30",
+  "str": "16",
+  "dex": "13",
+  "con": "14",
+  "int": "10",
+  "wis": "11",
+  "cha": "10",
+  "prof": "2",
+  "initiative": "4",
+  "skills": [
+    {
+      "skill": "Acrobatics",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Animal Handling",
+      "mod": 3,
+      "prof": "n"
+    },
+    {
+      "skill": "Arcana",
+      "mod": -1,
+      "prof": "n"
+    },
+    {
+      "skill": "Athletics",
+      "mod": 5,
+      "prof": "n"
+    },
+    {
+      "skill": "Deception",
+      "mod": 0,
+      "prof": "n"
+    },
+    {
+      "skill": "History",
+      "mod": 1,
+      "prof": "y"
+    },
+    {
+      "skill": "Insight",
+      "mod": 2,
+      "prof": "n"
+    },
+    {
+      "skill": "Intimidation",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Investigation",
+      "mod": 2,
+      "prof": "n"
+    },
+    {
+      "skill": "Medicine",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Nature",
+      "mod": 2,
+      "prof": "n"
+    },
+    {
+      "skill": "Perception",
+      "mod": 2,
+      "prof": "n"
+    },
+    {
+      "skill": "Performance",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Persuasion",
+      "mod": 2,
+      "prof": "n"
+    },
+    {
+      "skill": "Religion",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Sleight of Hand",
+      "mod": 8,
+      "prof": "n"
+    },
+    {
+      "skill": "Stealth",
+      "mod": 2,
+      "prof": "y"
+    },
+    {
+      "skill": "Survival",
+      "mod": 3,
+      "prof": "n"
+    }
+  ],
+  "passive": "12",
+  "languages": "any one language (usually Common)",
+  "action": [
+    {
+      "name": "Multiattack",
+      "text": "The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack."
+    },
+    {
+      "name": "Longsword",
+      "text": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+      "attack": "|5|1d8+3"
+    },
+    {
+      "name": "Shortsword",
+      "text": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+      "attack": "|5|1d6+3"
+    },
+    {
+      "name": "Heavy Crossbow",
+      "text": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+      "attack": "|3|1d10+1"
+    }
+  ]
+}
