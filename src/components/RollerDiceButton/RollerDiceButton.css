@@ -1,0 +1,29 @@
+.RollerDiceIndicator{
+    border-radius: 20%;
+    background-color: rgb(75, 77, 114);
+    color:rgb(223, 211, 211);
+    padding-right: 3px;
+    padding-left: 3px;
+    position:relative;
+    bottom: 5px;
+    right:30px;
+    margin-top: 10%;
+}
+
+.RollerDiceButton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+}
+
+.RollerDiceText{
+}
+.RollerDiceButton-img{
+
+}
+
+.RollerDiceButton-misc{
+
+}
+

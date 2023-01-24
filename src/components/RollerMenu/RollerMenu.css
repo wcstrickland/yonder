@@ -1,0 +1,14 @@
+
+.RollerMenu{
+    display: flex;
+    flex-direction: column-reverse;
+    position: fixed;
+    bottom: 110px;
+    right: 20px;
+    width: 100px;
+}
+
+.execute-roll{
+    background-color: rgb(70, 3, 3);
+    border-color: rgb(70,3,3);
+}

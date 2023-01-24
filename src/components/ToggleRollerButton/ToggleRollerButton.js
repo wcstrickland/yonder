@@ -1,22 +1,22 @@
-import React, {useState} from 'react';
-import Roller from '../Roller/Roller';
+import React, { useState } from 'react';
 import './ToggleRollerButton.css';
+import RollerMenu from '../RollerMenu/RollerMenu';
 
-export default function ToggleRollerButton(){
+export default function ToggleRollerButton() {
 
 
 
-    const [modalVisible, setModalVisible] = useState(false)
+    const [menuVisible, setMenuVisible] = useState(false)
 
-    function closeModal(){
-        setModalVisible(false)
+    function closeMenu() {
+        setMenuVisible(false)
     }
 
 
-    return(
+    return (
         <>
-            <button className='ToggleRollerButton' onClick={()=> setModalVisible(true)}>Roll</button>
-            {modalVisible && <Roller closeModal={()=>closeModal()} />}
+            <button className='ToggleRollerButton' onClick={() => setMenuVisible(!menuVisible)}>{menuVisible ? "Close" : "Roll" }</button>
+            {menuVisible && <RollerMenu />}
         </>
     );
 }
