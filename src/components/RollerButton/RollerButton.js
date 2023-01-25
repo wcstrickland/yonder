@@ -36,7 +36,12 @@ export default function RollerButton(props) {
     return (
         <>
             <div className='RollerButton'>
-                <button style={{ marginTop: "1em", marginBottom: "1em" }} onClick={() => setOutPut(diceRollModal(sides, number))}>{number}d{sides}+{processedMod}</button>
+                <button style={{ marginTop: "1em", marginBottom: "1em" }} onClick={() => {
+                    let op = diceRollModal(sides, number)
+                    
+                    setOutPut(op)
+                    navigator.clipboard.writeText(op)
+                }}>{number}d{sides}+{processedMod}</button>
                 <input style={{ marginTop: "1em", marginBottom: "1em" }} disabled value={outPut} />
             </div>
         </>

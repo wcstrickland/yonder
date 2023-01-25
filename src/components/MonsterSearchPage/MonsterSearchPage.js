@@ -11,7 +11,9 @@ export default function MonsterSearchPage() {
     return (
         <>
             <div className='MonsterSearchPage container'>
-                <MonsterDropDown monsterList={monsters}/>
+                <article>
+                    <MonsterDropDown monsterList={monsters}/>
+                </article>
             </div>
         </>
     );

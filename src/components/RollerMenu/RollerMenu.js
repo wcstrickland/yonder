@@ -24,7 +24,7 @@ export default function RollerMenu() {
         return () => setStat(stat - 1)
     }
 
-    function executeRoll() {
+    function executeRoll(crit) {
         let total = 0
         let result = ""
         let rolls = [
@@ -45,16 +45,21 @@ export default function RollerMenu() {
             }
         }
         result = result[result.length-2] === "+" ? result.slice(0,result.length-2) : result
-        result += ` for a total of ${total}`
+        if(crit){
+            result += ` for a total of ${total} x 2 =  ${total*2}`
+        }else{
+            result += ` for a total of ${total}`
+        }
         return result
     }
 
     const [modalVisible, setModalVisible] = useState(false)
+    const [isCrit, setIsCrit] = useState(false)
     const [outCome, setOutcome] = useState('')
 
-    function toggleModal(){
+    function toggleModal(crit){
         if(!modalVisible){
-            setOutcome(executeRoll())
+            setOutcome(executeRoll(crit))
         }
         setModalVisible(!modalVisible)
     }
@@ -66,15 +71,46 @@ export default function RollerMenu() {
                 <p>
                     {outCome}
                 </p>
-                <footer><button onClick={()=> toggleModal()}>Close</button></footer>
+                <footer>
+                    <button onClick={()=> toggleModal(isCrit)}>Close</button>
+                    </footer>
             </article>
         </dialog>
+    )
+
+
+    let exRollButton = (
+                <button 
+                className='execute-roll' 
+                onClick={() => {
+                        toggleModal(isCrit)
+                        navigator.clipboard.writeText(outCome)
+                }}
+                onContextMenu={(e)=>{
+                    e.preventDefault()
+                    setIsCrit(true)
+                }}
+                >ROLL</button>
+    )
+
+    let critRollButton = (
+                <button 
+                className='execute-crit' 
+                onClick={() => {
+                        toggleModal(isCrit)
+                        navigator.clipboard.writeText(outCome)
+                }}
+                onContextMenu={(e)=>{
+                    e.preventDefault()
+                    setIsCrit(false)
+                }}
+                >CRIT</button>
     )
 
     return (
         <>
             <div className='RollerMenu'>
-                <button className='execute-roll' onClick={() => toggleModal()}>ROLL</button>
+                {isCrit ? critRollButton : exRollButton}
                 <RollerDiceButton text={20} increment={increment(d20, setD20)} decrement={decrement(d20, setD20)} />
                 <RollerDiceButton text={4} increment={increment(d4, setD4)} decrement={decrement(d4, setD4)} />
                 <RollerDiceButton text={6} increment={increment(d6, setD6)} decrement={decrement(d6, setD6)} />
