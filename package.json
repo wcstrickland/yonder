@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "concurrently": "^7.6.0",
     "cross-env": "^7.0.3",
-    "electron": "^22.1.0",
+    "electron-is-dev": "^2.0.0",
     "fuse.js": "^6.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -26,9 +26,23 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron": "electron .",
+    "ebuild": "electron-builder -c.extraMetadata.main=build/main.js",
     "electron:serve": "concurrently -k \"cross-env BROWSER=none npm start\" \"npm run electron:start\"",
-    "electron:build": "",
+    "electron:build": "electron-builder -c.extraMetadata.main=build/main.js",
     "electron:start": "wait-on tcp:3000 && electron ."
+  },
+  "build": {
+    "extends": null,
+    "appId": "yonder",
+    "files": [
+      "dist/**/*",
+      "build/**/*",
+      "node_modules/**/*",
+      "package.json"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    }
   },
   "eslintConfig": {
     "extends": [
@@ -49,6 +63,8 @@
     ]
   },
   "devDependencies": {
-    "@electron/remote": "^2.0.9"
+    "@electron/remote": "^2.0.9",
+    "electron": "^22.1.0",
+    "electron-builder": "^23.6.0"
   }
 }
