@@ -1,0 +1,51 @@
+{
+    "compendium": {
+        "monster": {
+            "name": "Drake Companion (UA)",
+            "size": "S",
+            "type": "dragon",
+            "alignment": "Any alignment",
+            "ac": "0",
+            "hp": "5",
+            "speed": "walk 40 ft.",
+            "str": "16",
+            "dex": "12",
+            "con": "15",
+            "int": "8",
+            "wis": "14",
+            "cha": "8",
+            "save": "",
+            "skill": "",
+            "passive": "12",
+            "languages": "Draconic",
+            "cr": "",
+            "resist": "",
+            "immune": "determined by the drake's draconic essence trait",
+            "vulnerable": "",
+            "conditionImmune": "",
+            "senses": "darkvision 60 ft.",
+            "trait": [
+                {
+                    "name": "Hit Points",
+                    "text": "5 + five times your ranger level (the drake has a number of hit dice [d10s] equal to your ranger level)"
+                },
+                {
+                    "name": "Draconic Essence",
+                    "text": "When you summon the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake's damage immunity, the damage of its bite, and the damage of its Infused Strikes trait."
+                }
+            ],
+            "action": {
+                "name": "Bite",
+                "text": "Melee Weapon Attack: +3 plus PB to hit, reach 5 ft., one target. 1d6 piercing damage plus PB damage of a type determined by the drake's Draconic Essence."
+            },
+            "reaction": {
+                "name": "Infused Strikes",
+                "text": "When another creature within 30 feet of the drake that it can see hits with a weapon attack, the drake infuses the strike with its essence, causing the attack to deal an extra 1d6 damage of the type determined by its Draconic Essence."
+            },
+            "description": "Source: Unearthed Arcana: 2020 Subclasses Pt5 p. 3",
+            "environment": ""
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

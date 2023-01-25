@@ -1,0 +1,84 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Armor of Agathys",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Bestow Curse",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Blight",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Charm Person",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Command",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Dominate Beast",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Paladin (Conquest (UA)), Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Fear",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Haste",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Insect Plague",
+                "classes": "Paladin (Conquest (UA))"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Mirror Image",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Passwall",
+                "classes": "Paladin (Treachery (UA))"
+            },
+            {
+                "name": "Spiritual Weapon",
+                "classes": "Paladin (Conquest (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Banishment",
+                "classes": "Ranger (Monster Slayer (UA))"
+            },
+            {
+                "name": "Counterspell",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Hold Monster",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Magic Circle",
+                "classes": "Ranger (Monster Slayer (UA))"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Planar Binding",
+                "classes": "Ranger (Monster Slayer (UA))"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Ranger (Monster Slayer (UA))"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Shield",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Sleep",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Paladin (Redemption (UA))"
+            },
+            {
+                "name": "Zone of Truth",
+                "classes": "Ranger (Monster Slayer (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

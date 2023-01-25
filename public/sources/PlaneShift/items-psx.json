@@ -1,0 +1,458 @@
+{
+    "compendium": {
+        "item": [
+            {
+                "name": "Amulet of dinosaur feathers (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Bronze spyglass (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Carved jade statuette (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Ceremonial silver dagger with gold pommel and black pearl (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Cloth-of-gold vestments (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Copper stein with silver filigree (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Eye patch with a mock eye set in blue sapphire and moonstone (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Feathered mantle with emerald clasp (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Fine gold chain with fire opals (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Fine robe with dinosaur feathers and silver embroidery (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Fine steel rapier with gold filigree hilt (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Finely articulated jade glove (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold basin with rubies (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold chalice (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Gold chalice set with emeralds (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold jewelry box with platinum filigree (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold locket with a painted portrait inside (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Gold music box (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold pendant with black onyx (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Gold ring with turquoise (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Gold-plated sextant with topaz (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Jade bowl (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Jade breastplate (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Jade headpiece (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Jade sword with amber (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Jade totem with diamond eyes (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Jeweled anklet (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Large gold bracelet (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Large jade totem (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Large well-made tapestry (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Lute crafted of exotic wood with mother-of-pearl inlay and zircon gems (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Marble font with gold inlay (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Masterpiece painting in mahogany frame with gold inlay (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Necklace of electrum medallions with red and blue tournalines (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Necklace of jade and pink pearls (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Pair of engraved bone dice (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Pewter mug with green spinels (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Platinum headdress with topaz sun symbol (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "2500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Platinum ring with yellow sapphire (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Platinum staff topped with amber (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Silver headdress with amber and red-coral feathers (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Silver medallion (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Silver necklace with an amber pendant (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Silver shoulder piece with amber and garnet (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "750.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Sun amulet on a beaded chain (Sun Empire)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Tiny jade figurine (River Heralds)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            },
+            {
+                "name": "Treasure chest crafted of exotic wood with gold fittings and opals (Brazen Coalition)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "7500.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 25"
+            },
+            {
+                "name": "Velvet doublet with gold buttons (Legion of Dusk)",
+                "detail": "",
+                "type": "$",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Plane Shift: Ixalan p. 24"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

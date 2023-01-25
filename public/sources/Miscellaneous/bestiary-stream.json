@@ -1,0 +1,49 @@
+{
+    "compendium": {
+        "monster": {
+            "name": "Blazing Skeleton",
+            "size": "M",
+            "type": "undead",
+            "alignment": "Chaotic Evil",
+            "ac": "14",
+            "hp": "27 (5d8+5)",
+            "speed": "walk 40 ft.",
+            "str": "7",
+            "dex": "18",
+            "con": "13",
+            "int": "8",
+            "wis": "10",
+            "cha": "14",
+            "save": "Dex +6, Cha +4",
+            "skill": "",
+            "passive": "10",
+            "languages": "Common, Abyssal",
+            "cr": "1",
+            "resist": "",
+            "immune": "fire, poison",
+            "vulnerable": "bludgeoning",
+            "conditionImmune": "exhaustion, poisoned",
+            "senses": "darkvision 60 ft.",
+            "trait": {
+                "name": "Fiery Aura",
+                "text": "A creature that enters the area or begins its turn within 5 feet of the blazing skeleton takes 3 (1d6) fire damage."
+            },
+            "action": [
+                {
+                    "name": "Fiery Touch",
+                    "text": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 6 (1d4 + 4) fire damage.",
+                    "attack": "Fiery Touch|+6|1d4+4"
+                },
+                {
+                    "name": "Explosive Ember",
+                    "text": "Ranged Weapon Attack: +6 to hit, range 120 ft., one target. 7 (1d6 + 4) fire damage, and creatures within 5 feet of the target take 3 (1d6) fire damage.",
+                    "attack": "Explosive Ember|+6|1d6+4"
+                }
+            ],
+            "description": "Source: Livestream p. -1",
+            "environment": ""
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

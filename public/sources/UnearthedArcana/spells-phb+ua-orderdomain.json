@@ -1,0 +1,48 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Command",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Commune",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Mass Healing Word",
+                "classes": "Cleric (Order (UA))"
+            },
+            {
+                "name": "Slow",
+                "classes": "Cleric (Order (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

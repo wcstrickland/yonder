@@ -1,0 +1,198 @@
+{
+    "compendium": {
+        "feat": [
+            {
+                "name": "Maneuver: Ambush",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll, provided you aren't incapacitated.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Infusion: Arcane Propulsion Armor",
+                "prerequisite": "14th level, A suit of armor (requires attunement)",
+                "text": "The wearer of this armor gains these benefits:\n\u2022\u00a0The wearer's walking speed increases by 5 feet.\n\u2022\u00a0The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.\n\u2022\u00a0The armor can't be removed against the wearer's will.\n\u2022\u00a0If the wearer is missing any limbs, the armor replaces those limbs\u2014hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.\nSource: Tasha's Cauldron of Everything p. 20"
+            },
+            {
+                "name": "Infusion: Armor of Magical Strength",
+                "prerequisite": "A suit of armor (requires attunement)",
+                "text": "This armor has 6 charges. The wearer can expend the armor's charges in the following ways:\n\u2022\u00a0When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.\n\u2022\u00a0If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.\nThe armor regains 1d6 expended charges daily at dawn.\nSource: Tasha's Cauldron of Everything p. 20"
+            },
+            {
+                "name": "Maneuver: Bait and Switch",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you're within 5 feet of a creature on your turn, you can expend one superiority die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and isn't incapacitated. This movement doesn't provoke opportunity attacks.\nRoll the superiority die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Invocation: Bond of the Talisman",
+                "prerequisite": "12th level, Pact of the Talisman",
+                "text": "While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you. The teleportation can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.\nSource: Tasha's Cauldron of Everything p. 70"
+            },
+            {
+                "name": "Infusion: Boots of the Winding Path",
+                "prerequisite": "6th level, A pair of boots (requires attunement)",
+                "text": "While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.\nSource: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Maneuver: Brace",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen a creature you can see moves into the reach you have with the melee weapon you're wielding, you can use your reaction to expend one superiority die and make one attack against the creature, using that weapon. If the attack hits, add the superiority die to the weapon's damage roll.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Rune: Cloud Rune",
+                "prerequisite": "",
+                "text": "This rune emulates the deceptive magic used by some cloud giants. While wearing or carrying an object inscribed with this rune, you have advantage on Dexterity (Sleight of Hand) checks and Charisma (Deception) checks.\nIn addition, when you or a creature you can see within 30 feet of you is hit by an attack roll, you can use your reaction to invoke the rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 44"
+            },
+            {
+                "name": "Maneuver: Commanding Presence",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make a Charisma (Intimidation), a Charisma (Performance), or a Charisma (Persuasion) check, you can expend one superiority die and add the superiority die to the ability check.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Invocation: Eldritch Mind",
+                "prerequisite": "",
+                "text": "You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Infusion: Enhanced Arcane Focus",
+                "prerequisite": "A rod, staff, or wand (requires attunement)",
+                "text": "While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.\nThe bonus increases to +2 when you reach 10th level in this class.\nSource: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Infusion: Enhanced Defense",
+                "prerequisite": "A suit of armor or a shield",
+                "text": "A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.\nThe bonus increases to +2 when you reach 10th level in this class.\nSource: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Infusion: Enhanced Weapon",
+                "prerequisite": "A simple or martial weapon",
+                "text": "This magic weapon grants a +1 bonus to attack and damage rolls made with it.\nThe bonus increases to +2 when you reach 10th level in this class.\nSource: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Invocation: Far Scribe",
+                "prerequisite": "5th level, Pact of the Tome",
+                "text": "A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.\nYou can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.\nAs an action, you can magically erase a name on the page by touching it.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Rune: Fire Rune",
+                "prerequisite": "",
+                "text": "This rune's magic channels the masterful craftsmanship of great smiths. While wearing or carrying an object inscribed with this rune, your proficiency bonus is doubled for any ability check you make that uses your proficiency with a tool.\nIn addition, when you hit a creature with an attack using a weapon, you can invoke the rune to summon fiery shackles: the target takes an extra 2d6 fire damage, and it must succeed on a Strength saving throw or be restrained for 1 minute. While restrained by the shackles, the target takes 2d6 fire damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, banishing the shackles on a success. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 44"
+            },
+            {
+                "name": "Rune: Frost Rune",
+                "prerequisite": "",
+                "text": "This rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom (Animal Handling) checks and Charisma (Intimidation) checks.\nIn addition, you can invoke the rune as a bonus action to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 45"
+            },
+            {
+                "name": "Invocation: Gift of the Protectors",
+                "prerequisite": "9th level, Pact of the Tome",
+                "text": "A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your proficiency bonus.\nWhen any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.\nAs an action, you can magically erase a name on the page by touching it.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Maneuver: Grappling Strike",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nImmediately after you hit a creature with a melee attack on your turn, you can expend one superiority die and then try to grapple the target as a bonus action (see the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Infusion: Helm of Awareness",
+                "prerequisite": "10th level, A helmet (requires attunement)",
+                "text": "While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can't be surprised, provided it isn't incapacitated.\nSource: Tasha's Cauldron of Everything p. 21"
+            },
+            {
+                "name": "Rune: Hill Rune",
+                "prerequisite": "7th level",
+                "text": "This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being poisoned, and you have resistance against poison damage.\nIn addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 45"
+            },
+            {
+                "name": "Infusion: Homunculus Servant",
+                "prerequisite": "A gem or crystal worth at least 100 gp",
+                "text": "You learn intricate methods for magically creating a special Homunculus Servant that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.\nYou determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.\nThe homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.\nIn combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.\nThe homunculus regains 2d6 hit points if the mending spell is cast on it. If it dies, it vanishes, leaving its heart in its space. If you or the homunculus dies, it vanishes, leaving its heart in its space.\nSource: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Invocation: Investment of the Chain Master",
+                "prerequisite": "Pact of the Chain",
+                "text": "When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:\n\u2022\u00a0The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.\n\u2022\u00a0As a bonus action, you can command the familiar to take the Attack action.\n\u2022\u00a0The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.\n\u2022\u00a0If the familiar forces a creature to make a saving throw, it uses your spell save DC.\n\u2022\u00a0When the familiar takes damage, you can use your reaction to grant it resistance against that damage.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Infusion: Mind Sharpener",
+                "prerequisite": "A suit of armor or robes",
+                "text": "The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.\nSource: Tasha's Cauldron of Everything p. 22"
+            },
+            {
+                "name": "Pact Boon: Pact of the Talisman",
+                "prerequisite": "",
+                "text": "Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.\nIf you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Invocation: Protection of the Talisman",
+                "prerequisite": "7th level, Pact of the Talisman",
+                "text": "When the wearer of your talisman fails a saving throw, they can add a d4 to the roll, potentially turning the save into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Maneuver: Quick Toss",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nAs a bonus action, you can expend one superiority die and make a ranged attack with a weapon that has the thrown property. You can draw the weapon as part of making this attack. If you hit, add the superiority die to the weapon's damage roll.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Infusion: Radiant Weapon",
+                "prerequisite": "6th level, A simple or martial weapon (requires attunement)",
+                "text": "This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.\nThe weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.\nSource: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Invocation: Rebuke of the Talisman",
+                "prerequisite": "Pact of the Talisman",
+                "text": "When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your proficiency bonus and push it up to 10 feet away from the talisman's wearer.\nSource: Tasha's Cauldron of Everything p. 71"
+            },
+            {
+                "name": "Infusion: Repeating Shot",
+                "prerequisite": "A simple or martial weapon with the ammunition property (requires attunement)",
+                "text": "This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.\nIf you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.\nSource: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 62"
+            },
+            {
+                "name": "Infusion: Replicate Magic Item",
+                "prerequisite": "",
+                "text": "Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables below. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.\nIn the tables, an item's entry tells you whether the item requires attunement. See the item's description in the Dungeon Master's Guide for more information about it, including the type of object required for its making.\nReplicable Items (2nd-Level Artificer)\nMagic Item | Attunement\nAlchemy jug | No\nBag of holding | No\nCap of water breathing | No\nGoggles of night | No\nRope of climbing | No\nSending stones | No\nWand of magic detection | No\nWand of secrets | No\nReplicable Items (6th-Level Artificer)\nMagic Item | Attunement\nBoots of elvenkind | No\nCloak of elvenkind | Yes\nCloak of the manta ray | No\nEyes of charming | Yes\nGloves of thievery | No\nLantern of revealing | No\nPipes of haunting | No\nRing of water walking | No\nReplicable Items (10th-Level Artificer)\nMagic Item | Attunement\nBoots of striding and springing | Yes\nBoots of the winterlands | Yes\nBracers of archery | Yes\nBrooch of shielding | Yes\nCloak of protection | Yes\nEyes of the eagle | Yes\nGauntlets of ogre power | Yes\nGloves of missile snaring | Yes\nGloves of swimming and climbing | Yes\nHat of disguise | Yes\nHeadband of intellect | Yes\nHelm of telepathy | Yes\nMedallion of thoughts | Yes\nNecklace of adaptation | Yes\nPeriapt of wound closure | Yes\nPipes of the sewers | Yes\nQuiver of Ehlonna | No\nRing of jumping | Yes\nRing of mind shielding | Yes\nSlippers of spider climbing | Yes\nVentilating lungs (detailed in chapter 5) | Yes\nWinged boots | Yes\nReplicable Items (14th-Level Artificer)\nMagic Item | Attunement\nAmulet of health | Yes\nArcane propulsion arm (detailed in chapter 5) | Yes\nBelt of Hill Giant Strength | Yes\nBoots of levitation | Yes\nBoots of speed | Yes\nBracers of defense | Yes\nCloak of the bat | Yes\nDimensional shackles | No\nGem of seeing | Yes\nHorn of blasting | No\nRing of free action | Yes\nRing of protection | Yes\nRing of the ram | Yes\nSource: Tasha's Cauldron of Everything p. 22, Eberron: Rising from the Last War p. 63"
+            },
+            {
+                "name": "Infusion: Repulsion Shield",
+                "prerequisite": "6th level, A shield (requires attunement)",
+                "text": "A creature gains a +1 bonus to Armor Class while wielding this shield.\nThe shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.\nSource: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63"
+            },
+            {
+                "name": "Infusion: Resistant Armor",
+                "prerequisite": "6th level, A suit of armor (requires attunement)",
+                "text": "While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.\nSource: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63"
+            },
+            {
+                "name": "Infusion: Returning Weapon",
+                "prerequisite": "A simple or martial weapon with the thrown property",
+                "text": "This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.\nSource: Tasha's Cauldron of Everything p. 23, Eberron: Rising from the Last War p. 63"
+            },
+            {
+                "name": "Infusion: Spell-Refueling Ring",
+                "prerequisite": "6th level, A ring (requires attunement)",
+                "text": "While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.\nSource: Tasha's Cauldron of Everything p. 23"
+            },
+            {
+                "name": "Rune: Stone Rune",
+                "prerequisite": "",
+                "text": "This rune's magic channels the judiciousness associated with stone giants. While wearing or carrying an object inscribed with this rune, you have advantage on Wisdom (Insight) checks, and you have darkvision out to a range of 120 feet.\nIn addition, when a creature you can see ends its turn within 30 feet of you, you can use your reaction to invoke the rune and force the creature to make a Wisdom saving throw. Unless the save succeeds, the creature is charmed by you for 1 minute. While charmed in this way, the creature has a speed of 0 and is incapacitated, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 45"
+            },
+            {
+                "name": "Rune: Storm Rune",
+                "prerequisite": "7th level",
+                "text": "Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this rune, you have advantage on Intelligence (Arcana) checks, and you can't be surprised as long as you aren't incapacitated.\nIn addition, you can invoke the rune as a bonus action to enter a prophetic state for 1 minute or until you're incapacitated. Until the state ends, when you or another creature you can see within 60 feet of you makes an attack roll, a saving throw, or an ability check, you can use your reaction to cause the roll to have advantage or disadvantage. Once you invoke this rune, you can't do so again until you finish a short or long rest.\nSource: Tasha's Cauldron of Everything p. 45"
+            },
+            {
+                "name": "Maneuver: Tactical Assessment",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make an Intelligence (Investigation), an Intelligence (History), or a Wisdom (Insight) check, you can expend one superiority die and add the superiority die to the ability check.\nSource: Tasha's Cauldron of Everything p. 42"
+            },
+            {
+                "name": "Invocation: Undying Servitude",
+                "prerequisite": "5th level",
+                "text": "You can cast animate dead without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.\nSource: Tasha's Cauldron of Everything p. 71"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

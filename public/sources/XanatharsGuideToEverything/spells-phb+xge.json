@@ -1,0 +1,316 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Animate Objects",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Antilife Shell",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Armor of Agathys",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Augury",
+                "classes": "Barbarian (Ancestral Guardian)"
+            },
+            {
+                "name": "Bane",
+                "classes": "Cleric (Grave), Sorcerer (Divine Soul)"
+            },
+            {
+                "name": "Banishing Smite",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Banishment",
+                "classes": "Ranger (Horizon Walker), Ranger (Monster Slayer)"
+            },
+            {
+                "name": "Bestow Curse",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Bless",
+                "classes": "Sorcerer (Divine Soul)"
+            },
+            {
+                "name": "Blight",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Blink",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Blur",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Calm Emotions",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Clairvoyance",
+                "classes": "Barbarian (Ancestral Guardian)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Command",
+                "classes": "Paladin (Conquest), Bard (Glamour)"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Counterspell",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Creation",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Warlock (Celestial), Sorcerer (Divine Soul)"
+            },
+            {
+                "name": "Darkness",
+                "classes": "Sorcerer (Shadow)"
+            },
+            {
+                "name": "Daylight",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Ranger (Gloom Stalker)"
+            },
+            {
+                "name": "Dominate Beast",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Druidcraft",
+                "classes": "Fighter (Arcane Archer)"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Warlock (Hexblade), Cleric (Forge)"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Fear",
+                "classes": "Paladin (Conquest), Ranger (Gloom Stalker)"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Ranger (Gloom Stalker)"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Guiding Bolt",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Haste",
+                "classes": "Ranger (Horizon Walker)"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Hold Monster",
+                "classes": "Paladin (Redemption), Ranger (Monster Slayer)"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Paladin (Conquest), Paladin (Redemption)"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Identify",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Inflict Wounds",
+                "classes": "Sorcerer (Divine Soul)"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Light",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Magic Circle",
+                "classes": "Ranger (Monster Slayer)"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Misty Step",
+                "classes": "Ranger (Horizon Walker)"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Planar Binding",
+                "classes": "Ranger (Monster Slayer)"
+            },
+            {
+                "name": "Prestidigitation",
+                "classes": "Fighter (Arcane Archer)"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Ranger (Horizon Walker), Ranger (Monster Slayer), Sorcerer (Divine Soul)"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Warlock (Celestial), Cleric (Grave)"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Ranger (Gloom Stalker)"
+            },
+            {
+                "name": "Sacred Flame",
+                "classes": "Warlock (Celestial)"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Cleric (Forge)"
+            },
+            {
+                "name": "Seeming",
+                "classes": "Ranger (Gloom Stalker)"
+            },
+            {
+                "name": "Shield",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Sleep",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Spare the Dying",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Spiritual Weapon",
+                "classes": "Paladin (Conquest)"
+            },
+            {
+                "name": "Staggering Smite",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Paladin (Conquest), Paladin (Redemption)"
+            },
+            {
+                "name": "Teleportation Circle",
+                "classes": "Ranger (Horizon Walker)"
+            },
+            {
+                "name": "Vampiric Touch",
+                "classes": "Cleric (Grave)"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Warlock (Celestial), Cleric (Forge)"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Paladin (Redemption)"
+            },
+            {
+                "name": "Wrathful Smite",
+                "classes": "Warlock (Hexblade)"
+            },
+            {
+                "name": "Zone of Truth",
+                "classes": "Ranger (Monster Slayer)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Absorb Elements",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Catapult",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Catnap",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Create Bonfire",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Elemental Bane",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Flame Arrows",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Frostbite",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Magic Stone",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Pyrotechnics",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Skill Empowerment",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Skywrite",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Snare",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Thunderclap",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Tiny Servant",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Transmute Rock",
+                "classes": "Artificer"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

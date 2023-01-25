@@ -1,0 +1,39 @@
+{
+    "compendium": {
+        "class": {
+            "name": "Ranger (Ambuscade) (UA)",
+            "hd": "6",
+            "proficiency": "Dexterity, Wisdom, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival",
+            "numSkills": "3",
+            "autolevel": {
+                "feature": {
+                    "name": "Starting Ranger (Ambuscade) (UA)",
+                    "text": [
+                        "As a 1st-level Ranger (Ambuscade) (UA), you begin play with 6+your Constitution modifier hit points.",
+                        "",
+                        "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
+                        "\u2022 Armor: light, shields",
+                        "\u2022 Weapons: simple, martial",
+                        "\u2022 Tools: herbalism kit",
+                        "\u2022 Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival",
+                        "",
+                        "You begin play with the following equipment, in addition to any equipment provided by your background.",
+                        "\u2022 leather armor",
+                        "\u2022 (a) two shortsword or (b) two martial melee weapons or (c) a martial weapon and a shield",
+                        "\u2022 (a) a dungeoneer's pack or (b) an explorer's pack",
+                        "\u2022 (a) a longbow and a quiver of arrows (20) or (b) a martial weapon",
+                        "",
+                        "Source: Unearthed Arcana: Ranger p. 2"
+                    ],
+                    "_optional": "YES"
+                },
+                "_level": "1"
+            },
+            "armor": "light, shields",
+            "weapons": "simple, martial",
+            "tools": "herbalism kit"
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

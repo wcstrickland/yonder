@@ -1,0 +1,56 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Burning Hands",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Daylight",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Ranger (Deep Stalker (UA))"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Ranger (Deep Stalker (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Ranger (Deep Stalker (UA))"
+            },
+            {
+                "name": "Light",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Ranger (Deep Stalker (UA))"
+            },
+            {
+                "name": "Sacred Flame",
+                "classes": "Warlock (Undying Light (UA))"
+            },
+            {
+                "name": "Seeming",
+                "classes": "Ranger (Deep Stalker (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

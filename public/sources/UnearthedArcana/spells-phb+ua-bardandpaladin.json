@@ -1,0 +1,48 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Commune",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Conjure Volley",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Enthrall",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Guiding Bolt",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Haste",
+                "classes": "Paladin (Heroism (UA))"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Paladin (Heroism (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

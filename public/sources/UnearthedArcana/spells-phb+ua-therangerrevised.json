@@ -1,0 +1,28 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Disguise Self",
+                "classes": "Ranger (Revised) (UA) (Deep Stalker Conclave)"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Ranger (Revised) (UA) (Deep Stalker Conclave)"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Ranger (Revised) (UA) (Deep Stalker Conclave)"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Ranger (Revised) (UA) (Deep Stalker Conclave)"
+            },
+            {
+                "name": "Seeming",
+                "classes": "Ranger (Revised) (UA) (Deep Stalker Conclave)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

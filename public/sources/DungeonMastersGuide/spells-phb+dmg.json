@@ -1,0 +1,80 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Animate Dead",
+                "classes": "Cleric (Death), Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Antilife Shell",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Bestow Curse",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Blight",
+                "classes": "Cleric (Death), Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Crown of Madness",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Darkness",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Hellish Rebuke",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Inflict Wounds",
+                "classes": "Paladin (Oathbreaker)"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Cleric (Death)"
+            },
+            {
+                "name": "Vampiric Touch",
+                "classes": "Cleric (Death)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

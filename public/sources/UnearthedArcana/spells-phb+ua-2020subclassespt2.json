@@ -1,0 +1,108 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Aid",
+                "classes": "Cleric (Unity (UA))"
+            },
+            {
+                "name": "Alarm",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Animate Objects",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Cleric (Unity (UA)), Cleric (Love (UA))"
+            },
+            {
+                "name": "Beacon of Hope",
+                "classes": "Cleric (Unity (UA)), Cleric (Love (UA))"
+            },
+            {
+                "name": "Charm Person",
+                "classes": "Cleric (Love (UA))"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Cleric (Love (UA))"
+            },
+            {
+                "name": "Counterspell",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Enthrall",
+                "classes": "Cleric (Love (UA))"
+            },
+            {
+                "name": "Find Traps",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Cleric (Unity (UA)), Cleric (Love (UA))"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Cleric (Unity (UA))"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Cleric (Unity (UA)), Cleric (Love (UA))"
+            },
+            {
+                "name": "Hold Monster",
+                "classes": "Cleric (Love (UA))"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Cleric (Love (UA))"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Rary's Telepathic Bond",
+                "classes": "Cleric (Unity (UA))"
+            },
+            {
+                "name": "Sending",
+                "classes": "Cleric (Unity (UA))"
+            },
+            {
+                "name": "Shield of Faith",
+                "classes": "Cleric (Unity (UA))"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Sorcerer (Clockwork Soul (UA))"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Cleric (Unity (UA)), Cleric (Love (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Arms of Hadar",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Calm Emotions",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Commune with Nature",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Control Water",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Create or Destroy Water",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Detect Thoughts",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Dissonant Whispers",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Evard's Black Tentacles",
+                "classes": "Sorcerer (Aberrant Mind (UA)), Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Hunger of Hadar",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Lightning Bolt",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Modify Memory",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Rary's Telepathic Bond",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Sending",
+                "classes": "Sorcerer (Aberrant Mind (UA))"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Silence",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Sleet Storm",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Warlock (Lurker in the Deep (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

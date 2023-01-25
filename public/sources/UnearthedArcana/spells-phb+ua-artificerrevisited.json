@@ -1,0 +1,452 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Acid Splash",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Aid",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Alarm",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Alter Self",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Animate Objects",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Arcane Lock",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Banishing Smite",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Bigby's Hand",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Blight",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Blinding Smite",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Blink",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Blur",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Comprehend Languages",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Continual Flame",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Create Food and Water",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Creation",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Dancing Lights",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Darkvision",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Detect Magic",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Detect Thoughts",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Dispel Magic",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Dissonant Whispers",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Faerie Fire",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Feather Fall",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Fire Bolt",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Fly",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Grease",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Guidance",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Haste",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Ice Storm",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Identify",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Jump",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Legend Lore",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Leomund's Secret Chest",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Levitate",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Light",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Locate Object",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Longstrider",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Mage Hand",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Magic Mouth",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Mass Cure Wounds",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Melf's Acid Arrow",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Mending",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Message",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Modify Memory",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Mordenkainen's Faithful Hound",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Mordenkainen's Private Sanctum",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Poison Spray",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Prestidigitation",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Purify Food and Drink",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Ray of Frost",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Resistance",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Scorching Ray",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "See Invisibility",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Shield",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Shocking Grasp",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Spare the Dying",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Spider Climb",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Staggering Smite",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Stinking Cloud",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Stone Shape",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Thorn Whip",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Tongues",
+                "classes": "Artificer (Revisited) (UA) (Archivist)"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            },
+            {
+                "name": "Wall of Stone",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Artificer (Revisited) (UA) (Battle Smith)"
+            },
+            {
+                "name": "Water Breathing",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Water Walk",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Web",
+                "classes": "Artificer (Revisited) (UA) (Alchemist)"
+            },
+            {
+                "name": "Wind Wall",
+                "classes": "Artificer (Revisited) (UA) (Artillerist)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

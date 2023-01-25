@@ -1,0 +1,200 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Aid",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Augury",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Aura of Life",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Bane",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Beacon of Hope",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Bestow Curse",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Bless",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Circle of Power",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Command",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Crusader's Mantle",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Destructive Wave",
+                "classes": "Cleric (Strength (PSA)), Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Dimension Door",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Divine Favor",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Dominate Beast",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Guiding Bolt",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Haste",
+                "classes": "Cleric (Strength (PSA)), Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Identify",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Insect Plague",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Legend Lore",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Mass Cure Wounds",
+                "classes": "Cleric (Solidarity (PSA))"
+            },
+            {
+                "name": "Mirror Image",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Modify Memory",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Nondetection",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Scrying",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Shield of Faith",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Speak with Dead",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Cleric (Strength (PSA))"
+            },
+            {
+                "name": "Suggestion",
+                "classes": "Cleric (Knowledge (PSA))"
+            },
+            {
+                "name": "Thunderous Smite",
+                "classes": "Cleric (Zeal (PSA))"
+            },
+            {
+                "name": "Vampiric Touch",
+                "classes": "Cleric (Ambition (PSA))"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Cleric (Solidarity (PSA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

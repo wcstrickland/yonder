@@ -1,0 +1,80 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Animate Dead",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Blight",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Command",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Commune",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Mass Healing Word",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Slow",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Zone of Truth",
+                "classes": "Cleric (Order)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

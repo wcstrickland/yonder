@@ -1,6 +1,6 @@
 import  React from 'react';
 import './MonsterSearchPage.css';
-import monsterJson from '../../resource/json/monsters.json'
+import monsterJson from '../../resource/json/all_monsters.json'
 import MonsterDropDown from '../MonsterDropDown/MonsterDropDown';
 
 

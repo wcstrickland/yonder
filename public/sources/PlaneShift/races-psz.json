@@ -1,0 +1,544 @@
+{
+    "compendium": {
+        "race": [
+            {
+                "name": "Elf (Zendikar) (Joraga Nation)",
+                "size": "M",
+                "speed": "35",
+                "ability": "Wis 2, Dex 1",
+                "proficiency": "Perception",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 19"
+                    },
+                    {
+                        "name": "Mask of the Wild",
+                        "text": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+                    },
+                    {
+                        "name": "Elf Weapon Training",
+                        "text": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+                    },
+                    {
+                        "name": "Fleet of Foot",
+                        "text": "Your ground speed increases to 35 feet."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Keen Senses",
+                        "text": "You have proficiency in the Perception skill."
+                    },
+                    {
+                        "name": "Fey Ancestry",
+                        "text": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+                    }
+                ]
+            },
+            {
+                "name": "Elf (Zendikar) (Mul Daya Nation)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Wis 2, Str 1",
+                "proficiency": "Perception",
+                "spellAbility": "Wisdom",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 19"
+                    },
+                    {
+                        "name": "Mul Daya Magic",
+                        "text": "You know the chill touch cantrip. When you reach 3rd level, you can cast the hex spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells."
+                    },
+                    {
+                        "name": "Sunlight Sensitivity",
+                        "text": "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+                    },
+                    {
+                        "name": "Elf Weapon Training",
+                        "text": "You have proficiency with the longsword, shortsword, shortbow, and longbow."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Superior Darkvision",
+                        "text": "Your Darkvision has a radius of 120 feet."
+                    },
+                    {
+                        "name": "Keen Senses",
+                        "text": "You have proficiency in the Perception skill."
+                    },
+                    {
+                        "name": "Fey Ancestry",
+                        "text": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+                    }
+                ]
+            },
+            {
+                "name": "Elf (Zendikar) (Tajuru Nation)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Wis 2, Cha 1",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 18"
+                    },
+                    {
+                        "name": "Skill Versatility",
+                        "text": "You have proficiency with any combination of two other skills or tools of your choice."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Keen Senses",
+                        "text": "You have proficiency in the Perception skill."
+                    },
+                    {
+                        "name": "Fey Ancestry",
+                        "text": "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+                    }
+                ]
+            },
+            {
+                "name": "Goblin (Zendikar) (Grotag Tribe)",
+                "size": "S",
+                "speed": "25",
+                "ability": "Con 2",
+                "proficiency": "Animal Handling",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 17"
+                    },
+                    {
+                        "name": "Grotag Tamer",
+                        "text": "You have proficiency in the Animal Handling skill."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most goblins are wildly chaotic, though they have no particular inclination toward good or evil."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Grit",
+                        "text": "You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Goblin."
+                    }
+                ]
+            },
+            {
+                "name": "Goblin (Zendikar) (Lavastep Tribe)",
+                "size": "S",
+                "speed": "25",
+                "ability": "Con 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 17"
+                    },
+                    {
+                        "name": "Lavastep Grit",
+                        "text": "You have advantage on Dexterity (Stealth) checks made to hide in rocky or subterranean environments."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most goblins are wildly chaotic, though they have no particular inclination toward good or evil."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Grit",
+                        "text": "You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Goblin."
+                    }
+                ]
+            },
+            {
+                "name": "Goblin (Zendikar) (Tuktuk Tribe)",
+                "size": "S",
+                "speed": "25",
+                "ability": "Con 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 17"
+                    },
+                    {
+                        "name": "Tuktuk Cunning",
+                        "text": "You have proficiency with thieves' tools."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Goblins mature faster than humans, reaching adulthood at around age 12. They also age noticeably faster than humans, and even the most cautious goblins rarely live longer than 50 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most goblins are wildly chaotic, though they have no particular inclination toward good or evil."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Grit",
+                        "text": "You have resistance to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Goblin."
+                    }
+                ]
+            },
+            {
+                "name": "Human (Zendikar)",
+                "size": "M",
+                "speed": "30",
+                "ability": "",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 9"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Humans reach adulthood in their late teens and live less than a century."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Humans tend toward no particular alignment. The best and the worst are found among them."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: vampire curses, Elvish musical expressions, merfolk scholarly jargon, and so on."
+                    }
+                ]
+            },
+            {
+                "name": "Kor",
+                "size": "M",
+                "speed": "30",
+                "ability": "Dex 2, Wis 1",
+                "proficiency": "Athletics, Acrobatics",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 10"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Kor mature at the same rate as humans and live about as long."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most kor are lawful good, with a strong dedication to community and the traditions of their ancestors."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Kor average nearly 6 feet tall, but are much lighter and more slender than humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Brave",
+                        "text": "You have advantage on saving throws against being frightened."
+                    },
+                    {
+                        "name": "Climbing",
+                        "text": "You also have a climbing speed of 30 feet as long as you are not encumbered or wearing heavy armor."
+                    },
+                    {
+                        "name": "Kor Climbing",
+                        "text": "You have proficiency in the Athletics and Acrobatics skills."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common, and communicate in the silent speech of the Kor."
+                    },
+                    {
+                        "name": "Lucky",
+                        "text": "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+                    }
+                ]
+            },
+            {
+                "name": "Merfolk (Zendikar) (Cosi Creed)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 1, Int 1, Cha 2",
+                "proficiency": "Sleight Of Hand, Stealth",
+                "spellAbility": "Charisma",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 13"
+                    },
+                    {
+                        "name": "Cantrip",
+                        "text": "You know one cantrip of your choice from the bard spell list. Charisma is your spellcasting ability for it."
+                    },
+                    {
+                        "name": "Creed of the Trickster",
+                        "text": "You have proficiency in the Sleight of Hand and Stealth skills."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most merfolk are neutral, though merfolk of the Emeria and Cosi creeds have chaotic leanings."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Merfolk are about the same size and build as humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Swimming",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common, Merfolk, and one extra language of your choice."
+                    }
+                ]
+            },
+            {
+                "name": "Merfolk (Zendikar) (Emeria Creed)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 1, Wis 2",
+                "proficiency": "Deception, Persuasion",
+                "spellAbility": "Wisdom",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 13"
+                    },
+                    {
+                        "name": "Cantrip",
+                        "text": "You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it."
+                    },
+                    {
+                        "name": "Wind Creed Manipulation",
+                        "text": "You have proficiency in the Deception and Persuasion skills."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most merfolk are neutral, though merfolk of the Emeria and Cosi creeds have chaotic leanings."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Merfolk are about the same size and build as humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Swimming",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common, Merfolk, and one extra language of your choice."
+                    }
+                ]
+            },
+            {
+                "name": "Merfolk (Zendikar) (Ula Creed)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 1, Int 2",
+                "proficiency": "Survival",
+                "spellAbility": "Intelligence",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 13"
+                    },
+                    {
+                        "name": "Cantrip",
+                        "text": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+                    },
+                    {
+                        "name": "Water Creed Navigation",
+                        "text": "You have proficiency with navigator's tools and in the Survival skill."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most merfolk are neutral, though merfolk of the Emeria and Cosi creeds have chaotic leanings."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Merfolk are about the same size and build as humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Swimming",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common, Merfolk, and one extra language of your choice."
+                    }
+                ]
+            },
+            {
+                "name": "Vampire (Zendikar)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Int 1, Cha 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Zendikar p. 14"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Vampires don't mature and age in the same way that other races do. Every living vampire is either a bloodchief, infected by Ulamog's influence in the distant reaches of history, or was spawned by a bloodchief from a living human. Most vampires are thus very old, but few have any memory of their earliest years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Vampires have no innate tendency toward evil, but consuming the life energy of other creatures often pushes them to that end. Regardless of their moral bent, the strict hierarchies of their bloodchiefs inclines them toward a lawful alignment."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Vampires are about the same size and build as humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Blood Thirst",
+                        "text": "You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid killed in this way becomes a zombie."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Vampire."
+                    },
+                    {
+                        "name": "Vampiric Resistance",
+                        "text": "You have resistance to necrotic damage."
+                    }
+                ]
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

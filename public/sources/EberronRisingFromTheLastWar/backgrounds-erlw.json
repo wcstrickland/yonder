@@ -1,0 +1,28 @@
+{
+    "compendium": {
+        "background": {
+            "name": "House Agent",
+            "proficiency": "Investigation, Persuasion",
+            "trait": [
+                {
+                    "name": "Description",
+                    "text": "You have sworn fealty to a dragonmarked house. If you have a dragonmark, you're likely a member of one of the house's influential families; otherwise you're an outsider who hopes to make your fortune through the house. Your main task is to serve as the eyes of your house, but you could be called on at any time to act as its hand. Such missions can be perilous but lucrative.\n\u2022 Skill Proficiencies: Investigation, Persuasion\n\u2022 Tool Proficiency: Two proficiencies from the House Tool Proficiencies table\n\u2022 Equipment: A set of fine clothes, house signet ring, identification papers, and a purse containing 20 gp.\nHouse Tool Proficiencies\nYour House | Proficiencies\nCannith | Alchemist's supplies and tinker's tools\nDeneith | One gaming set and vehicles (land)\nGhallanda | Brewer's supplies and cook's utensils\nJorasco | Alchemist's supplies and herbalism kit\nKundarak | Thieves' tools and tinker's tools\nLyrandar | Navigator's tools and vehicles (sea and air)\nMedani | Disguise kit and thieves' tools\nOrien | One gaming set and vehicles (land)\nPhiarlan | Disguise kit and one musical instrument\nSivis | Calligrapher's supplies and forgery kit\nTharashk | One gaming set and thieves' tools\nThuranni | One musical instrument and poisoner's kit\nVadalis | herbalism kit and vehicles (land)\nSource: Eberron: Rising from the Last War p. 53, Wayfinder's Guide to Eberron p. 94"
+                },
+                {
+                    "name": "Role",
+                    "text": "You always gather information for your house, but when a baron give you a specific mission, what sort of work do you do? The House Agent Role table gives possibilities.\nHouse Agent Role\nd8 | Role\n1 | Acquisition\n2 | Investigation\n3 | Research & Development\n4 | Security\n5 | Intimidation\n6 | Exploration\n7 | Negotiation\n8 | Covert Operations"
+                },
+                {
+                    "name": "Feature: House Connections",
+                    "text": "As an agent of your house, you can always get food and lodging for yourself and your friends at a house enclave. When the house assigns you a mission, it will usually provide you with the necessary supplies and transportation. Beyond this, you have many old friends, mentors, and rivals in your house, and you may encounter one of them when you interact with a house business. The degree to which such acquaintances are willing to help you depends on your current standing in your house."
+                },
+                {
+                    "name": "Suggested Characteristics",
+                    "text": "House agents are diverse. Consider the house you serve and the work you do when choosing characteristics.\nPersonality Traits\nd6 | Personality Trait\n1 | I'm always looking to improve efficiency.\n2 | I love to share trivia about my house's business.\n3 | I never forget an insult against me or my house.\n4 | I'm enthusiastic about everything my house does.\n5 | I represent my house and take pride in my looks.\n6 | I'm critical of monarchies and limits on the houses.\n\nIdeals\nd6 | Ideal\n1 | Common Good. My house serves a vital function, and its prosperity will help everyone. (Good)\n2 | Tradition. I uphold traditions of my house and bring honor to my family. (Lawful)\n3 | Innovation. Abandon old traditions and find better ways to do things. (Chaotic)\n4 | Power. I want to ensure the prosperity of my house and wield its power myself. (Evil)\n5 | Discovery. I want to learn all I can, both for my house and for my own curiosity. (Any)\n6 | Comfort. I want to ensure that me and mine enjoy the best things in life. (Any)\n\nBonds\nd6 | Bond\n1 | My house is my family. I would do anything for it.\n2 | I love someone from another house, but the relationship is forbidden.\n3 | Someone I love was killed by a rival faction within my house, and I will have revenge.\n4 | I don't care about the house as a whole, but I would do anything for my old mentor.\n5 | My house must evolve, and I'll lead the evolution.\n6 | I'm determined to impress the leaders of my house, and to become a leader myself.\n\nFlaws\nd6 | Flaw\n1 | I'm fixated on following official protocols.\n2 | I'm obsessed with conspiracy theories and worried about secret societies and hidden demons.\n3 | My house and bloodline make me the best!\n4 | My secret could get me expelled from my house.\n5 | My religious beliefs aren't widespread in my house.\n6 | I'm working for a hidden faction in my house that gives me secret assignments."
+                }
+            ]
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

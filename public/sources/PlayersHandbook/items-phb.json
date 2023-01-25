@@ -1,0 +1,1827 @@
+{
+    "compendium": {
+        "item": [
+            {
+                "name": "Abacus",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Acid (vial)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "25.0",
+                "property": "",
+                "text": "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.\nSource: Player's Handbook p. 148",
+                "roll": "2d6"
+            },
+            {
+                "name": "Alchemist's Fire (flask)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "50.0",
+                "property": "",
+                "text": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.\nSource: Player's Handbook p. 148",
+                "roll": "1d4"
+            },
+            {
+                "name": "Alchemist's Supplies",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "8",
+                "value": "50.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Ale (Gallon)",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.2",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Ale (Mug)",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.04",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Amulet",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "1",
+                "value": "5.0",
+                "property": "",
+                "text": "A holy symbol is a representation of a god or pantheon.\nA cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Antitoxin (vial)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "50.0",
+                "property": "",
+                "text": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Backpack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "2.0",
+                "property": "",
+                "text": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Bagpipes",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "6",
+                "value": "30.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Ball Bearing",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.002",
+                "value": "0.001",
+                "property": "",
+                "text": "Most commonly found inside a Ball Bearings (Bag of 1,000).\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Ball Bearings (bag of 1,000)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "1.0",
+                "property": "",
+                "text": "As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Barrel",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "70",
+                "value": "2.0",
+                "property": "",
+                "text": "A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Basic Poison (vial)",
+                "detail": "Adventuring Gear, Poison",
+                "type": "G",
+                "weight": "",
+                "value": "100.0",
+                "property": "",
+                "text": "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.\nSource: Player's Handbook p. 153",
+                "roll": "1d4"
+            },
+            {
+                "name": "Basket",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "0.4",
+                "property": "",
+                "text": "A basket holds 2 cubic feet or 40 pounds of gear.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Bedroll",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "7",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Bell",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Bit and bridle",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "1",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Blanket",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Block and Tackle",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "1.0",
+                "property": "",
+                "text": "A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Book",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "25.0",
+                "property": "",
+                "text": "A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Brewer's Supplies",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "9",
+                "value": "20.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Bucket",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "0.05",
+                "property": "",
+                "text": "A bucket holds 3 gallons of liquid or \u00bd cubic foot of solids.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Bullseye Lantern",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "10.0",
+                "property": "",
+                "text": "A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Burglar's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "44.5",
+                "value": "16.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a Ball Bearings (Bag of 1,000)\n\u2022\u00a010 feet of string\n\u2022\u00a0a bell\n\u2022\u00a05 candle\n\u2022\u00a0a crowbar\n\u2022\u00a0a hammer\n\u2022\u00a010 piton\n\u2022\u00a0a hooded lantern\n\u2022\u00a02 Oil (flask)\n\u2022\u00a05 days Rations (1 day)\n\u2022\u00a0a tinderbox\n\u2022\u00a0a waterskin\n\u2022\u00a0Hempen Rope (50 feet)\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Calligrapher's Supplies",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Caltrop",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.1",
+                "value": "0.05",
+                "property": "",
+                "text": "As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Caltrops (bag of 20)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "1.0",
+                "property": "",
+                "text": "As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Camel",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "50.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Candle",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.01",
+                "property": "",
+                "text": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Canvas (1 sq. yd.)",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Carpenter's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "6",
+                "value": "8.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Carriage",
+                "detail": "Vehicle (land)",
+                "type": "G",
+                "weight": "600",
+                "value": "100.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Cart",
+                "detail": "Vehicle (land)",
+                "type": "G",
+                "weight": "200",
+                "value": "15.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Cartographer's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "6",
+                "value": "15.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Chain (10 feet)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "5.0",
+                "property": "",
+                "text": "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Chalk (1 piece)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.01",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Chariot",
+                "detail": "Vehicle (land)",
+                "type": "G",
+                "weight": "100",
+                "value": "250.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Chest",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "25",
+                "value": "5.0",
+                "property": "",
+                "text": "A chest holds 12 cubic feet or 300 pounds of gear.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Chicken",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "0.02",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Chunk of Meat",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.3",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Cinnamon",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Climber's Kit",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "12",
+                "value": "25.0",
+                "property": "",
+                "text": "A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Cloves",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "3.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Cobbler's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Common Clothes",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Common Wine (Pitcher)",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.2",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Component Pouch",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "25.0",
+                "property": "",
+                "text": "A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Cook's Utensils",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "8",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Copper",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Copper (cp)",
+                "detail": "",
+                "type": "$",
+                "weight": "0.02",
+                "value": "0.01",
+                "property": "",
+                "text": "Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).\nWith one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.\nOne gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.\nOne silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.\nIn addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.\nA standard coin weighs about a third of an ounce, so fifty coins weigh a pound.\nSource: Player's Handbook p. 143"
+            },
+            {
+                "name": "Costume Clothes",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Cotton Cloth (1 sq. yd.)",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Cow",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Crossbow Bolt Case",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "1.0",
+                "property": "",
+                "text": "This wooden case can hold up to twenty crossbow bolt.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Crowbar",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "2.0",
+                "property": "",
+                "text": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Dice Set",
+                "detail": "Gaming Set",
+                "type": "G",
+                "weight": "",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Diplomat's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "36",
+                "value": "39.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a chest\n\u2022\u00a02 Map or Scroll Case\n\u2022\u00a0a set of fine clothes\n\u2022\u00a0a Ink (1-ounce bottle)\n\u2022\u00a0an ink pen\n\u2022\u00a0a lamp\n\u2022\u00a02 Oil (flask)\n\u2022\u00a05 Paper (one sheet)\n\u2022\u00a0a Perfume (vial)\n\u2022\u00a0sealing wax\n\u2022\u00a0soap\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Disguise Kit",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "3",
+                "value": "25.0",
+                "property": "",
+                "text": "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Donkey",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "8.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Draft Horse",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "50.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Dragonchess Set",
+                "detail": "Gaming Set",
+                "type": "G",
+                "weight": "0.5",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Drum",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "3",
+                "value": "6.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Dulcimer",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "10",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Dungeoneer's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "61.5",
+                "value": "12.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a crowbar\n\u2022\u00a0a hammer\n\u2022\u00a010 piton\n\u2022\u00a010 torch\n\u2022\u00a0a tinderbox\n\u2022\u00a010 days of Rations (1 day)\n\u2022\u00a0a waterskin\n\u2022\u00a0Hempen Rope (50 feet)\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Electrum (ep)",
+                "detail": "",
+                "type": "$",
+                "weight": "0.02",
+                "value": "0.5",
+                "property": "",
+                "text": "Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).\nWith one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.\nOne gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.\nOne silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.\nIn addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.\nA standard coin weighs about a third of an ounce, so fifty coins weigh a pound.\nSource: Player's Handbook p. 143"
+            },
+            {
+                "name": "Elephant",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "200.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Emblem",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "value": "5.0",
+                "property": "",
+                "text": "A holy symbol is a representation of a god or pantheon.\nA cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Entertainer's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "38",
+                "value": "40.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a bedroll\n\u2022\u00a02 Costume Clothes\n\u2022\u00a05 candle\n\u2022\u00a05 days of Rations (1 day)\n\u2022\u00a0a waterskin\n\u2022\u00a0a disguise kit\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Exotic Saddle",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "40",
+                "value": "60.0",
+                "property": "",
+                "text": "An exotic saddle is required for riding any aquatic or flying mount.\nSource: Player's Handbook p. 157"
+            },
+            {
+                "name": "Explorer's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "59",
+                "value": "10.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a bedroll\n\u2022\u00a0a mess kit\n\u2022\u00a0a tinderbox\n\u2022\u00a010 torch\n\u2022\u00a010 days of Rations (1 day)\n\u2022\u00a0a waterskin\n\u2022\u00a0Hempen Rope (50 feet)\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Feed (per day)",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "10",
+                "value": "0.05",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Fine Clothes",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "6",
+                "value": "15.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Fine Wine (Bottle)",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Fishing Tackle",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "1.0",
+                "property": "",
+                "text": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Flask",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.02",
+                "property": "",
+                "text": "A flask holds 1 pint of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Flour",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "0.02",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Flute",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "1",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Forgery Kit",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "15.0",
+                "property": "",
+                "text": "This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Ginger",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Glass Bottle",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "2.0",
+                "property": "",
+                "text": "A bottle holds 1\u00bd pints of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Glassblower's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "30.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Goat",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Gold",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "50.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Gold (gp)",
+                "detail": "",
+                "type": "$",
+                "weight": "0.02",
+                "value": "1.0",
+                "property": "",
+                "text": "Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).\nWith one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.\nOne gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.\nOne silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.\nIn addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.\nA standard coin weighs about a third of an ounce, so fifty coins weigh a pound.\nSource: Player's Handbook p. 143"
+            },
+            {
+                "name": "Grappling Hook",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Hammer",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Healer's Kit",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "5.0",
+                "property": "",
+                "text": "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Hempen Rope (50 feet)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "1.0",
+                "property": "",
+                "text": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Herbalism Kit",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "3",
+                "value": "5.0",
+                "property": "",
+                "text": "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Holy Water (flask)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "25.0",
+                "property": "",
+                "text": "As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.\nA cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.\nSource: Player's Handbook p. 151",
+                "roll": "2d6"
+            },
+            {
+                "name": "Hooded Lantern",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "5.0",
+                "property": "",
+                "text": "A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Horn",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "2",
+                "value": "3.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Hourglass",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Hunk of Cheese",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Hunting Trap",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "25",
+                "value": "5.0",
+                "property": "",
+                "text": "When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.\nSource: Player's Handbook p. 152",
+                "roll": "1d4"
+            },
+            {
+                "name": "Ink (1-ounce bottle)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "10.0",
+                "property": "",
+                "text": "Ink (1-ounce bottle)\nSource: Player's Handbook p. 150"
+            },
+            {
+                "name": "Ink Pen",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.02",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Iron",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Iron Pot",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "2.0",
+                "property": "",
+                "text": "An iron pot holds 1 gallon of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Iron Spike",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.5",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Iron Spikes (10)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Jeweler's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "2",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Jug",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "0.02",
+                "property": "",
+                "text": "A jug holds 1 gallon of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Ladder (10-foot)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "25",
+                "value": "0.1",
+                "property": "",
+                "text": "Ladder (10-foot)\nSource: Player's Handbook p. 150"
+            },
+            {
+                "name": "Lamp",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.5",
+                "property": "",
+                "text": "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Leatherworker's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Linen (1 sq. yd.)",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Loaf of Bread",
+                "detail": "Food and Drink",
+                "type": "G",
+                "weight": "",
+                "value": "0.02",
+                "property": "",
+                "text": "Source: Player's Handbook p. 158"
+            },
+            {
+                "name": "Lock",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "10.0",
+                "property": "",
+                "text": "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Lute",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "2",
+                "value": "35.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Lyre",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "2",
+                "value": "30.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Magnifying Glass",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "100.0",
+                "property": "",
+                "text": "This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Manacles",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "6",
+                "value": "2.0",
+                "property": "",
+                "text": "These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Map or Scroll Case",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "1.0",
+                "property": "",
+                "text": "This cylindrical leather case can hold up to ten rolled-up paper (one sheet) or five rolled-up parchment (one sheet).\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Mason's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "8",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Mastiff",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "25.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Merchant's Scale",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "5.0",
+                "property": "",
+                "text": "A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Mess Kit",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.2",
+                "property": "",
+                "text": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Military Saddle",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "30",
+                "value": "20.0",
+                "property": "",
+                "text": "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted.\nSource: Player's Handbook p. 157"
+            },
+            {
+                "name": "Miner's Pick",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Mule",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "8.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Navigator's Tools",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "2",
+                "value": "25.0",
+                "property": "",
+                "text": "This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Oil (flask)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.1",
+                "property": "",
+                "text": "Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.\nSource: Player's Handbook p. 152"
+            },
+            {
+                "name": "Ox",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "15.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Pack Saddle",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "15",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Painter's Supplies",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Pan Flute",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "2",
+                "value": "12.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Paper (one sheet)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.2",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Parchment (one sheet)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.1",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Pepper",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Perfume (vial)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Pig",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "3.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Pitcher",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "0.02",
+                "property": "",
+                "text": "A pitcher holds 1 gallon of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Piton",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.25",
+                "value": "0.05",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Platinum",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "500.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Platinum (pp)",
+                "detail": "",
+                "type": "$",
+                "weight": "0.02",
+                "value": "10.0",
+                "property": "",
+                "text": "Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).\nWith one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.\nOne gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.\nOne silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.\nIn addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.\nA standard coin weighs about a third of an ounce, so fifty coins weigh a pound.\nSource: Player's Handbook p. 143"
+            },
+            {
+                "name": "Playing Card Set",
+                "detail": "Gaming Set",
+                "type": "G",
+                "weight": "",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Poisoner's Kit",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "2",
+                "value": "50.0",
+                "property": "",
+                "text": "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.\nAdditionally, the Crafting and Harvesting Poison rules require the use of a poisoner's kit.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Pole (10-foot)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "7",
+                "value": "0.05",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Pony",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "30.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Portable Ram",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "35",
+                "value": "4.0",
+                "property": "",
+                "text": "You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Potter's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "3",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Pouch",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.5",
+                "property": "",
+                "text": "A cloth or leather pouch can hold up to 20 sling bullet or 50 blowgun needle, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to \u2155 cubic foot or 6 pounds of gear.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Priest's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "24",
+                "value": "19.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a blanket\n\u2022\u00a010 candle\n\u2022\u00a0a tinderbox\n\u2022\u00a0an alms box\n\u2022\u00a02 blocks of incense\n\u2022\u00a0a censer\n\u2022\u00a0vestments\n\u2022\u00a02 days of Rations (1 day)\n\u2022\u00a0a waterskin.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Quiver",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "1.0",
+                "property": "",
+                "text": "A quiver can hold up to 20 arrow.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Rations (1 day)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "2",
+                "value": "0.5",
+                "property": "",
+                "text": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Reliquary",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "2",
+                "value": "5.0",
+                "property": "",
+                "text": "A holy symbol is a representation of a god or pantheon.\nA cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Riding Horse",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "75.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Riding Saddle",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "25",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Robes",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Sack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.5",
+                "value": "0.01",
+                "property": "",
+                "text": "A sack can hold up to 1 cubic foot or 30 pounds of gear.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Saddlebags",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "8",
+                "value": "4.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Saffron",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "15.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Salt",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "0.05",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Scholar's Pack",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "40.0",
+                "property": "",
+                "text": "Includes:\n\u2022\u00a0a backpack\n\u2022\u00a0a book of lore\n\u2022\u00a0a Ink (1-ounce bottle)\n\u2022\u00a0an ink pen\n\u2022\u00a010 Parchment (one sheet)\n\u2022\u00a0a little bag of sand\n\u2022\u00a0a small knife.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Sealing Wax",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Shawm",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "1",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Sheep",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Shovel",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Signal Whistle",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.05",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Signet Ring",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Silk (1 sq. yd.)",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "",
+                "value": "10.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Silk Rope (50 feet)",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "10.0",
+                "property": "",
+                "text": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Silver",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Silver (sp)",
+                "detail": "",
+                "type": "$",
+                "weight": "0.02",
+                "value": "0.1",
+                "property": "",
+                "text": "Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).\nWith one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.\nOne gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.\nOne silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.\nIn addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.\nA standard coin weighs about a third of an ounce, so fifty coins weigh a pound.\nSource: Player's Handbook p. 143"
+            },
+            {
+                "name": "Sled",
+                "detail": "Vehicle (land)",
+                "type": "G",
+                "weight": "300",
+                "value": "20.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Sledgehammer",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "10",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Smith's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "8",
+                "value": "20.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Soap",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "0.02",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Spellbook",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "3",
+                "value": "50.0",
+                "property": "",
+                "text": "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Sprig of Mistletoe",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "A druid can use this object as a spellcasting focus.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Spyglass",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "1000.0",
+                "property": "",
+                "text": "Objects viewed through a spyglass are magnified to twice their size.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Stabling (per day)",
+                "detail": "Tack and Harness",
+                "type": "G",
+                "weight": "",
+                "value": "0.5",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Steel Mirror",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "0.5",
+                "value": "5.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Tankard",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.02",
+                "property": "",
+                "text": "A tankard holds 1 pint of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Thieves' Tools",
+                "detail": "Tools",
+                "type": "G",
+                "weight": "1",
+                "value": "25.0",
+                "property": "",
+                "text": "This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Three-Dragon Ante Set",
+                "detail": "Gaming Set",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Tinderbox",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.5",
+                "property": "",
+                "text": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch\u2014or anything else with abundant, exposed fuel\u2014takes an action. Lighting any other fire takes 1 minute.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Tinker's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "10",
+                "value": "50.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Torch",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.01",
+                "property": "",
+                "text": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Totem",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "A druid can use this object as a spellcasting focus.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Traveler's Clothes",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "4",
+                "value": "2.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Trinket",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creatures pockets.\nPlayer's Handbook Trinket Table\nd100 | Trinket\n01 | A mummified goblin hand\n02 | A piece of crystal that faintly glows in the moonlight\n03 | A gold coin minted in an unknown land\n04 | A diary written in a language you don't know\n05 | A brass ring that never tarnishes\n06 | An old chess piece made from glass\n07 | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips\n08 | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it\n09 | A rope necklace from which dangles four mummified elf fingers\n10 | The deed for a parcel of land in a realm unknown to you\n11 | A 1-ounce block made from an unknown material\n12 | A small cloth doll skewered with needles\n13 | A tooth from an unknown beast\n14 | An enormous scale, perhaps from a dragon\n15 | A bright green feather\n16 | An old divination card bearing your likeness\n17 | A glass orb filled with moving smoke\n18 | A 1-pound egg with a bright red shell\n19 | A pipe that blows bubbles\n20 | A glass jar containing a weird bit of flesh floating in pickling fluid\n21 | A tiny gnome-crafted music box that plays a song you dimly remember from your childhood\n22 | A small wooden statuette of a smug halfling\n23 | A brass orb etched with strange runes\n24 | A multicolored stone disk\n25 | A tiny silver icon of a raven\n26 | A bag containing forty-seven humanoid teeth, one of which is rotten\n27 | A shard of obsidian that always feels warm to the touch\n28 | A dragon's bony talon hanging from a plain leather necklace\n29 | A pair of old socks\n30 | A blank book whose pages refuse to hold ink, chalk, graphite, or any other substance or marking\n31 | A silver badge in the shape of a five-pointed star\n32 | A knife that belonged to a relative\n33 | A glass vial filled with nail clippings\n34 | A rectangular metal device with two tiny metal cups on one end that throws sparks when wet\n35 | A white, sequined glove sized for a human\n36 | A vest with one hundred tiny pockets\n37 | A small, weightless stone block\n38 | A tiny sketch portrait of a goblin\n39 | An empty glass vial that smells of perfume when opened\n40 | A gemstone that looks like a lump of coal when examined by anyone but you\n41 | A scrap of cloth from an old banner\n42 | A rank insignia from a lost legionnaire\n43 | A tiny silver bell without a clapper\n44 | A mechanical canary inside a gnomish lamp\n45 | A tiny chest carved to look like it has numerous feet on the bottom\n46 | A dead sprite inside a clear glass bottle\n47 | A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice)\n48 | A glass orb filled with water, in which swims a clockwork goldfish\n49 | A silver spoon with an 'M' engraved on the handle\n50 | A whistle made from gold-colored wood\n51 | A dead scarab beetle the size of your hand\n52 | Two toy soldiers, one with a missing head \n53 | A small box filled with different-sized buttons\n54 | A candle that can't be lit\n55 | A tiny cage with no door\n56 | An old key\n57 | An indecipherable treasure map\n58 | A hilt from a broken sword\n59 | A rabbit's foot\n60 | A glass eye\n61 | A cameo carved in the likeness of a hideous person\n62 | A silver skull the size of a coin\n63 | An alabaster mask\n64 | A pyramid of sticky black incense that smells very bad\n65 | A nightcap that, when worn, gives you pleasant dreams\n66 | A single caltrop made from bone\n67 | A gold monocle frame without the lens\n68 | A 1-inch cube, each side painted a different color\n69 | A crystal knob from a door\n70 | A small packet filled with pink dust\n71 | A fragment of a beautiful song, written as musical notes on two pieces of parchment\n72 | A silver teardrop earring made from a real teardrop\n73 | The shell of an egg painted with scenes of human misery in disturbing detail\n74 | A fan that, when unfolded, shows a sleeping cat\n75 | A set of bone pipes\n76 | A four-leaf clover pressed inside a book discussing manners and etiquette\n77 | A sheet of parchment upon which is drawn a complex mechanical contraption\n78 | An ornate scabbard that fits no blade you have found so far\n79 | An invitation to a party where a murder happened\n80 | A bronze pentacle with an etching of a rat's head in its center\n81 | A purple handkerchief embroidered with the name of a powerful archmage\n82 | Half of a floorplan for a temple, castle, or some other structure\n83 | A bit of folded cloth that, when unfolded, turns into a stylish cap\n84 | A receipt of deposit at a bank in a far-flung city\n85 | A diary with seven missing pages\n86 | An empty silver snuffbox bearing an inscription on the surface that says \"dreams\"\n87 | An iron holy symbol devoted to an unknown god\n88 | A book that tells the story of a legendary hero's rise and fall, with the last chapter missing\n89 | A vial of dragon blood\n90 | An ancient arrow of elven design\n91 | A needle that never bends\n92 | An ornate brooch of dwarven design\n93 | An empty wine bottle bearing a pretty label that says, \"The Wizard of Wines Winery, Red Dragon Crush, 331422-W\"\n94 | A mosaic tile with a multicolored, glazed surface\n95 | A petrified mouse\n96 | A black pirate flag adorned with a dragon's skull and crossbones\n97 | A tiny mechanical crab or spider that moves about when it's not being observed\n98 | A glass jar containing lard with a label that reads, \"Griffon Grease\"\n99 | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body\n100 | A metal urn containing the ashes of a hero\nSource: Player's Handbook p. 159"
+            },
+            {
+                "name": "Two-Person Tent",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "20",
+                "value": "2.0",
+                "property": "",
+                "text": "A simple and portable canvas shelter, a tent sleeps two.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Vial",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "",
+                "value": "1.0",
+                "property": "",
+                "text": "A vial can hold up to 4 ounces of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Viol",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "1",
+                "value": "30.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Wagon",
+                "detail": "Vehicle (land)",
+                "type": "G",
+                "weight": "400",
+                "value": "35.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Warhorse",
+                "detail": "Mount",
+                "type": "G",
+                "weight": "",
+                "value": "400.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Waterskin",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "5",
+                "value": "0.2",
+                "property": "",
+                "text": "A waterskin can hold up to 4 pints of liquid.\nSource: Player's Handbook p. 153"
+            },
+            {
+                "name": "Weaver's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Wheat",
+                "detail": "Trade Good",
+                "type": "G",
+                "weight": "1",
+                "value": "0.01",
+                "property": "",
+                "text": "Source: Player's Handbook p. 157"
+            },
+            {
+                "name": "Whetstone",
+                "detail": "Adventuring Gear",
+                "type": "G",
+                "weight": "1",
+                "value": "0.01",
+                "property": "",
+                "text": "Source: Player's Handbook p. 150"
+            },
+            {
+                "name": "Woodcarver's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "5",
+                "value": "1.0",
+                "property": "",
+                "text": "Source: Player's Handbook p. 154"
+            },
+            {
+                "name": "Wooden Staff",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "4",
+                "value": "5.0",
+                "property": "V",
+                "dmg1": "1d6",
+                "dmg2": "1d8",
+                "dmgType": "B",
+                "text": "A druid can use this object as a spellcasting focus.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Yew Wand",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "1",
+                "value": "10.0",
+                "property": "",
+                "text": "A druid can use this object as a spellcasting focus.\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Arcane Focus",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "An arcane focus is a special item\u2013an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item\u2013designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.\nCrystal\nOrb\nRod\nStaff\nWand\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Artisan's Tools",
+                "detail": "Artisan Tools",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Alchemist's Supplies\nBrewer's Supplies\nCalligrapher's Supplies\nCarpenter's Tools\nCartographer's Tools\nCobbler's Tools\nCook's Utensils\nGlassblower's Tools\nJeweler's Tools\nLeatherworker's Tools\nMason's Tools\nPainter's Supplies\nPotter's Tools\nSmith's Tools\nTinker's Tools\nWeaver's Tools\nWoodcarver's Tools\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Druidic Focus",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.\nSprig of mistletoe\nTotem\nWooden staff\nYew wand\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Gaming Set",
+                "detail": "Gaming Set",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Dice Set\nDragonchess Set\nPlaying Card Set\nThree-Dragon Ante Set\nSource: Player's Handbook p. 154"
+            },
+            {
+                "name": "Holy Symbol",
+                "detail": "Spellcasting Focus",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.\nAmulet\nEmblem\nReliquary\nSource: Player's Handbook p. 151"
+            },
+            {
+                "name": "Musical Instrument",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Bagpipes\nDrum\nDulcimer\nFlute\nHorn\nLute\nLyre\nPan Flute\nShawm\nViol\nSource: Player's Handbook p. 154"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

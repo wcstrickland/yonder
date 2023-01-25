@@ -1,0 +1,88 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Armor of Agathys",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Bestow Curse",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Burning Hands",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Command",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Daylight",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Dominate Beast",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Fear",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Warlock (Celestial (UA))"
+            },
+            {
+                "name": "Spiritual Weapon",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Paladin (Conquest v2 (UA))"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Warlock (Celestial (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Aid",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Alarm",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Alter Self",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Arcane Lock",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Blink",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Blur",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Continual Flame",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Darkvision",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Fly",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Haste",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Jump",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Leomund's Secret Chest",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Longstrider",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Mordenkainen's Faithful Hound",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Mordenkainen's Private Sanctum",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Shield of Faith",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Spider Climb",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Stone Shape",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Water Breathing",
+                "classes": "Artificer (UA)"
+            },
+            {
+                "name": "Water Walk",
+                "classes": "Artificer (UA)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

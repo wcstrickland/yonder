@@ -1,0 +1,18 @@
+{
+    "compendium": {
+        "feat": [
+            {
+                "name": "Invocation: Mariner (UA)",
+                "prerequisite": "",
+                "text": "As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.\nSource: Unearthed Arcana: Waterborne Adventures p. 3"
+            },
+            {
+                "name": "Maneuver: Mariner (UA) (UA)",
+                "prerequisite": "",
+                "text": "As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.\nSource: Unearthed Arcana: Waterborne Adventures p. 3\nSource: Unearthed Arcana: Waterborne Adventures p. 3"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

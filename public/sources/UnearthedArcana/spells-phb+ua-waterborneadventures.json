@@ -1,0 +1,44 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Call Lightning",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Conjure Elemental",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Conjure Minor Elementals",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Fog Cloud",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Ice Storm",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Levitate",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Sleet Storm",
+                "classes": "Sorcerer (Storm (UA))"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Sorcerer (Storm (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

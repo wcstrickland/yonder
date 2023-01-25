@@ -1,0 +1,93 @@
+{
+    "compendium": {
+        "feat": [
+            {
+                "name": "Maneuver: Ambush (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make a Dexterity (Stealth) check or an initiative roll, you can expend one superiority die and add the die to the roll.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Maneuver: Bait and Switch (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you're within 5 feet of an ally on your turn, you can expend one superiority die and switch places with that ally, provided you spend at least 5 feet of movement. This movement doesn't provoke opportunity attacks.\nRoll the superiority die. Until the start of your next turn, the ally gains a bonus to AC equal to the number rolled.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Invocation: Bond of the Talisman (UA)",
+                "prerequisite": "12th level, Pact of the Talisman",
+                "text": "While someone else is wearing your talisman, you can use your action to teleport to the unoccupied space closest to them, provided the two of you are on the same plane of existence. The wearer of your talisman can do the same thing, using their action to teleport to you.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Maneuver: Brace (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen an enemy you can see moves within 5 feet of you, you can use your reaction to expend one superiority die and make one weapon attack against that creature. If the attack hits, add the superiority die to the attack's damage roll.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Invocation: Chain Master's Fury (UA)",
+                "prerequisite": "9th level, Pact of the Chain",
+                "text": "As a bonus action, you can command your familiar to make one attack.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Eldritch Armor (UA)",
+                "prerequisite": "Pact of the Blade",
+                "text": "As an action, you can touch a suit of armor that isn't being worn or carried by anyone and instantly don it, provided you aren't wearing armor already. You are proficient with this suit of armor until it's removed.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Eldritch Mind (UA)",
+                "prerequisite": "Pact of the Tome",
+                "text": "You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Far Scribe (UA)",
+                "prerequisite": "5th level, Pact of the Tome",
+                "text": "A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).\nYou can cast the sending spell, targeting a creature whose name is on the page, without using a spell slot and without using material components. To do so, you must write the message on the page. The target hears the message in their mind, and if the target replies, their message appears on the page, rather than in your mind. The writing disappears after 1 minute.\nAs an action, you can magically erase a name on the page by touching the name on it.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Gift of the Protectors (UA)",
+                "prerequisite": "9th level, Pact of the Tome",
+                "text": "A new page appears in your Book of Shadows. With your permission, a creature can use its action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of 1).\nWhen any creature whose name is on the page is reduced to 0 hit points but not killed outright, the creature magically drops to 1 hit point instead. Once this magic is triggered, no creature can benefit from it until you finish a long rest.\nAs an action, you can magically erase a name on the page by touching the name on it.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Investment of the Chain Master (UA)",
+                "prerequisite": "Pact of the Chain",
+                "text": "When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:\n\u2022\u00a0The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet.\n\u2022\u00a0The familiar no longer needs to breathe.\n\u2022\u00a0The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks.\n\u2022\u00a0If the familiar forces a creature to make a saving throw, it uses your spell save DC.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Pact Boon: Pact of the Talisman (UA)",
+                "prerequisite": "",
+                "text": "Your patron gives you a special amulet, a talisman that can aid you, or anyone else who wears it, when the need is great. When the wearer makes an ability check with a skill in which they lack proficiency, they can add a d4 to the roll.\nIf you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet.\nThe talisman turns to ash when you die.\nSource: Unearthed Arcana: Class Feature Variants p. 11"
+            },
+            {
+                "name": "Invocation: Protection of the Talisman (UA)",
+                "prerequisite": "9th level, Pact of the Talisman",
+                "text": "When the wearer of your talisman makes a saving throw in which they lack proficiency, they can add a d4 to the roll.\nSource: Unearthed Arcana: Class Feature Variants p. 12"
+            },
+            {
+                "name": "Invocation: Rebuke of the Talisman (UA)",
+                "prerequisite": "Pact of the Talisman",
+                "text": "When the wearer of your talisman is hit by an attacker you can see within 30 feet of you, you can use your reaction to deal psychic damage to the attacker equal to your Charisma modifier (minimum of 1 damage) and push it up to 10 feet away from the talisman's wearer.\nSource: Unearthed Arcana: Class Feature Variants p. 12"
+            },
+            {
+                "name": "Maneuver: Restraining Strike (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nImmediately after you hit a creature with a melee weapon attack on your turn, you can expend one superiority die and use a bonus action to grapple the target (see chapter 9 in the Player's Handbook for rules on grappling). Add the superiority die to your Strength (Athletics) check. The target is also restrained while grappled in this way.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Maneuver: Silver Tongue (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make a Charisma (Deception) check or a Charisma (Persuasion) check, you can expend one superiority die, and add the superiority die to the ability check.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Maneuver: Snipe (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nAs a bonus action, you can expend one superiority die and make a ranged weapon attack. You can draw a thrown weapon as part of making this attack. If you hit, add the superiority die to the attack's damage roll.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            },
+            {
+                "name": "Maneuver: Studious Eye (UA)",
+                "prerequisite": "",
+                "text": "Maneuver: Battle Master\nWhen you make a Wisdom (Insight) check or an Intelligence (Investigation) check, you can expend one superiority die, and add the superiority die to the ability check.\nSource: Unearthed Arcana: Class Feature Variants p. 5"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

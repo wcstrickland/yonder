@@ -1,0 +1,80 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Armor of Agathys",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Burning Hands",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Entangle",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Fire Bolt",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Fog Cloud",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Minor Illusion",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Ray of Frost",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Resistance",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Shillelagh",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Shocking Grasp",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Spike Growth",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Sorcerer (Giant Soul (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

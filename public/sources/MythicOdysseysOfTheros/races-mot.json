@@ -1,0 +1,254 @@
+{
+    "compendium": {
+        "race": [
+            {
+                "name": "Centaur (Theros)",
+                "size": "M",
+                "speed": "40",
+                "ability": "Str 2, Wis 1",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Mythic Odysseys of Theros p. 18"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Centaurs mature and age at about the same rate as humans."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Centaurs are inclined toward neutrality. Lagonna centaurs tend to be more lawful, while Pheres centaurs are more often chaotic."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Centaurs stand between 6 and 7 feet tall, with their equine bodies reaching about 4 feet at the withers. Pheres centaurs tend to be slightly larger than Lagonna centaurs. Your size is Medium."
+                    },
+                    {
+                        "name": "Fey",
+                        "text": "Your creature type is fey, rather than humanoid."
+                    },
+                    {
+                        "name": "Charge",
+                        "text": "If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves."
+                    },
+                    {
+                        "name": "Hooves",
+                        "text": "Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                    },
+                    {
+                        "name": "Equine Build",
+                        "text": "You count as one size larger when determining your carrying capacity and the weight you can push or drag.\nIn addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot."
+                    },
+                    {
+                        "name": "Survivor",
+                        "text": "You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Sylvan."
+                    }
+                ]
+            },
+            {
+                "name": "Leonin",
+                "size": "M",
+                "speed": "35",
+                "ability": "Str 1, Con 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Mythic Odysseys of Theros p. 20"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Leonin mature and age at about the same rate as humans."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Claws",
+                        "text": "Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                    },
+                    {
+                        "name": "Hunter's Instincts",
+                        "text": "You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival."
+                    },
+                    {
+                        "name": "Daunting Roar",
+                        "text": "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Leonin."
+                    }
+                ]
+            },
+            {
+                "name": "Minotaur (Theros)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Str 2, Con 1",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "These traits are also suitable for minotaurs in other D&D worlds where these people have avoided the demonic influence of Baphomet.\nSource: Mythic Odysseys of Theros p. 22"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Minotaurs mature and age at about the same rate as humans."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Minotaurs who leave the walls of Skophos have the opportunity to be free of its culture and pursue chaotic alignments, while those who remain within the polis and its tyrannical regime tend toward lawful alignments."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Minotaurs average over 6 feet in height, and they have stocky builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Horns",
+                        "text": "Your horns are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                    },
+                    {
+                        "name": "Goring Rush",
+                        "text": "Immediately after you use the Dash action on your turn and move at least 20 feet, you can make one melee attack with your horns as a bonus action."
+                    },
+                    {
+                        "name": "Hammering Horns",
+                        "text": "Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can use a bonus action to attempt to shove that target with your horns. The target must be no more than one size larger than you and within 5 feet of you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you push it up to 10 feet away from you."
+                    },
+                    {
+                        "name": "Imposing Presence",
+                        "text": "You have proficiency in one of the following skills of your choice: Intimidation or Persuasion."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Minotaur."
+                    }
+                ]
+            },
+            {
+                "name": "Satyr",
+                "size": "M",
+                "speed": "35",
+                "ability": "Cha 2, Dex 1",
+                "proficiency": "Performance, Persuasion",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Mythic Odysseys of Theros p. 24"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Satyrs mature and age at about the same rate as humans."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Satyrs delight in living a life free of the mantle of law. They gravitate toward being good, but some have devious streaks and enjoy causing dismay."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Satyrs range from just under 5 feet to about 6 feet in height, with generally slender builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Fey",
+                        "text": "Your creature type is fey, rather than humanoid."
+                    },
+                    {
+                        "name": "Ram",
+                        "text": "You can use your head and horns to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier."
+                    },
+                    {
+                        "name": "Magic Resistance",
+                        "text": "You have advantage on saving throws against spells and other magical effects."
+                    },
+                    {
+                        "name": "Mirthful Leaps",
+                        "text": "Whenever you make a long or high jump, you can roll a d8 and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal."
+                    },
+                    {
+                        "name": "Reveler",
+                        "text": "You have proficiency in the Performance and Persuasion skills, and you have proficiency with one musical instrument of your choice."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Sylvan."
+                    }
+                ]
+            },
+            {
+                "name": "Triton (Theros)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Str 1, Cha 1, Con 1",
+                "proficiency": "",
+                "spellAbility": "Charisma",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Mythic Odysseys of Theros p. 26"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Tritons reach maturity around age 15 and can live up to 200 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Tritons tend toward neutrality. Their culture encourages them to be mindful of life's currents, knowing when to harness fate's tides and when to flow along with them."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Tritons are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
+                    },
+                    {
+                        "name": "Swim Speed",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Control Air and Water",
+                        "text": "A child of the sea, you can call on the magic of elemental air and water. You can cast fog cloud with this trait. Starting at 3rd level, you can cast gust of wind with it, and starting at 5th level, you can also cast wall of water with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Emissary of the Sea",
+                        "text": "Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return."
+                    },
+                    {
+                        "name": "Guardians of the Depths",
+                        "text": "Adapted to even the most extreme ocean depths, you have resistance to cold damage."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Primordial."
+                    }
+                ]
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "compendium": {
+        "monster": [
+            {
+                "name": "Anchorite of Talos",
+                "size": "M",
+                "type": "humanoid (half-orc, shapechanger)",
+                "alignment": "Neutral Evil",
+                "ac": "13 (hide armor)",
+                "hp": "58 (9d8+18)",
+                "speed": "walk 30 ft.",
+                "str": "16",
+                "dex": "13",
+                "con": "14",
+                "int": "9",
+                "wis": "15",
+                "cha": "12",
+                "save": "",
+                "skill": "Nature +1, Stealth +3, Survival +4",
+                "passive": "12",
+                "languages": "Common, Orc",
+                "cr": "3",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 60 ft.",
+                "trait": [
+                    {
+                        "name": "Shapechanger",
+                        "text": "The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+                    },
+                    {
+                        "name": "Innate Spellcasting",
+                        "text": [
+                            "The anchorite's innate spellcasting ability is Wisdom (spell save DC 12). It can innately cast the following spells, requiring no material components:",
+                            "3/day: thunderwave (2d8 damage)",
+                            "1/day each: augury, bless, lightning bolt (8d6 damage), revivify"
+                        ]
+                    }
+                ],
+                "action": [
+                    {
+                        "name": "Clawed Gauntlet (Humanoid Form Only)",
+                        "text": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 5 (1d4 + 3) slashing damage.",
+                        "attack": "Clawed Gauntlet (Humanoid Form Only)|+5|1d4+3"
+                    },
+                    {
+                        "name": "Tusk (Boar Form Only)",
+                        "text": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage.",
+                        "attack": "Tusk (Boar Form Only)|+5|1d6+3"
+                    }
+                ],
+                "spells": "thunderwave, augury, bless, lightning bolt, revivify",
+                "description": "These religious recluses are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.\nSource: Essentials Kit: Dragon of Icespire Peak p. 51, Essentials Kit: Divine Contention, Essentials Kit: Sleeping Dragon's Wake",
+                "environment": ""
+            },
+            {
+                "name": "Don-Jon Raskin",
+                "size": "M",
+                "type": "humanoid (human)",
+                "alignment": "Neutral",
+                "ac": "10",
+                "hp": "44 (8d8+8)",
+                "speed": "walk 30 ft.",
+                "str": "11",
+                "dex": "10",
+                "con": "13",
+                "int": "12",
+                "wis": "10",
+                "cha": "14",
+                "save": "Dex +2, Con +3",
+                "skill": "Deception +4, Persuasion +4",
+                "passive": "10",
+                "languages": "Common, Dwarvish",
+                "cr": "1/2",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "trait": [
+                    {
+                        "name": "Brave",
+                        "text": "Don-Jon has advantage on saving throws against being frightened."
+                    },
+                    {
+                        "name": "Not Dead Yet (Recharges after a Long Rest)",
+                        "text": "If damage reduces Don-Jon to 0 hit points, he drops to 1 hit point instead and gains advantage on attack rolls until the end of his next turn."
+                    }
+                ],
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "Don-Jon makes three melee attacks."
+                    },
+                    {
+                        "name": "Dagger",
+                        "text": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. 2 (1d4) piercing damage.",
+                        "attack": "Dagger|+2|1d4"
+                    },
+                    {
+                        "name": "Sling",
+                        "text": "Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. 2 (1d4) bludgeoning damage.",
+                        "attack": "Sling|+2|1d4"
+                    }
+                ],
+                "description": "Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.\nSource: Essentials Kit: Dragon of Icespire Peak p. 56",
+                "environment": ""
+            },
+            {
+                "name": "Falcon the Hunter",
+                "size": "M",
+                "type": "humanoid (human)",
+                "alignment": "Neutral Good",
+                "ac": "14 (studded leather armor)",
+                "hp": "112 (15d8+45)",
+                "speed": "walk 30 ft.",
+                "str": "14",
+                "dex": "15",
+                "con": "16",
+                "int": "11",
+                "wis": "16",
+                "cha": "15",
+                "save": "Dex +4, Wis +5",
+                "skill": "Athletics +4, Perception +7, Survival +5",
+                "passive": "17",
+                "languages": "Common",
+                "cr": "4",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "trait": [
+                    {
+                        "name": "Archer",
+                        "text": "A longbow or shortbow deals one extra die of its damage when Falcon hits with it (included in his longbow attack)."
+                    },
+                    {
+                        "name": "Sharpshooter",
+                        "text": "Falcon's ranged weapon attacks ignore half cover and three-quarters cover."
+                    }
+                ],
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "Falcon makes three melee attacks or two ranged attacks."
+                    },
+                    {
+                        "name": "Longsword",
+                        "text": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.",
+                        "attack": "Longsword|+4|1d8+2"
+                    },
+                    {
+                        "name": "Longbow",
+                        "text": "Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. 11 (2d8 + 2) piercing damage.",
+                        "attack": "Longbow|+4|2d8+2"
+                    }
+                ],
+                "description": "Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Neverwinter Wood.\nSource: Essentials Kit: Dragon of Icespire Peak p. 56",
+                "environment": ""
+            },
+            {
+                "name": "Gorthok the Thunder Boar",
+                "size": "H",
+                "type": "monstrosity",
+                "alignment": "Chaotic Evil",
+                "ac": "15 (natural armor)",
+                "hp": "73 (7d12+28)",
+                "speed": "walk 50 ft.",
+                "str": "20",
+                "dex": "11",
+                "con": "19",
+                "int": "6",
+                "wis": "10",
+                "cha": "14",
+                "save": "",
+                "skill": "",
+                "passive": "10",
+                "languages": "",
+                "cr": "6",
+                "resist": "bludgeoning, piercing, slashing from nonmagical attacks",
+                "immune": "lightning, thunder",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 60 ft.",
+                "trait": {
+                    "name": "Relentless (Recharges after a Short or Long Rest)",
+                    "text": "If Gorthok takes 27 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+                },
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "Gorthok makes two melee attacks: one with its lightning tusks and one with its thunder hooves."
+                    },
+                    {
+                        "name": "Lightning Tusks",
+                        "text": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage.",
+                        "attack": "Lightning Tusks|+8|2d6+5"
+                    },
+                    {
+                        "name": "Thunder Hooves",
+                        "text": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage.",
+                        "attack": "Thunder Hooves|+8|2d6+5"
+                    },
+                    {
+                        "name": "Lightning Bolt (Recharge 6)",
+                        "text": "Gorthok shoots a bolt of lightning at one creature it can see within 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.",
+                        "attack": "Lightning Bolt (Recharge 6)||4d8"
+                    }
+                ],
+                "description": "Gorthok is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.\nSource: Essentials Kit: Dragon of Icespire Peak p. 58",
+                "environment": ""
+            },
+            {
+                "name": "Rock Gnome Recluse",
+                "size": "S",
+                "type": "humanoid (gnome)",
+                "alignment": "Chaotic Neutral",
+                "ac": "10 (13 with mage armor)",
+                "hp": "7 (2d6)",
+                "speed": "walk 25 ft.",
+                "str": "6",
+                "dex": "11",
+                "con": "10",
+                "int": "15",
+                "wis": "10",
+                "cha": "13",
+                "save": "",
+                "skill": "Arcana +4, History +4",
+                "passive": "10",
+                "languages": "Common, Gnomish",
+                "cr": "1/4",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 60 ft.",
+                "trait": [
+                    {
+                        "name": "Gnome Cunning",
+                        "text": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+                    },
+                    {
+                        "name": "Spellcasting",
+                        "text": [
+                            "The gnome is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:",
+                            "Cantrips (at will): mage hand, prestidigitation, ray of frost (see \"Actions\" below)",
+                            "\u2022 1st level (3 slots): detect magic, mage armor, magic missile (see \"Actions\" below), shield"
+                        ]
+                    }
+                ],
+                "action": [
+                    {
+                        "name": "Magic Missile (Expends a 1st-Level Spell Slot)",
+                        "text": "The gnome creates three magical darts. Each dart hits a creature the gnome chooses within 120 feet of it and deals 3 (1d4 + 1) force damage."
+                    },
+                    {
+                        "name": "Ray of Frost",
+                        "text": "Ranged Spell Attack: +4 to hit, range 60 ft., one creature. 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until the start of the gnome's next turn.",
+                        "attack": "Ray of Frost|+4|1d8"
+                    }
+                ],
+                "slots": "3",
+                "spells": "mage hand, prestidigitation, ray of frost, detect magic, mage armor, magic missile, shield",
+                "description": "Rock gnome recluses are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.\nSource: Essentials Kit: Dragon of Icespire Peak p. 62",
+                "environment": ""
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

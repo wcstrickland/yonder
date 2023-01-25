@@ -1,0 +1,28 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Faerie Fire",
+                "classes": "Ranger (Swarmkeeper (UA))"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Ranger (Swarmkeeper (UA))"
+            },
+            {
+                "name": "Giant Insect",
+                "classes": "Ranger (Swarmkeeper (UA))"
+            },
+            {
+                "name": "Insect Plague",
+                "classes": "Ranger (Swarmkeeper (UA))"
+            },
+            {
+                "name": "Web",
+                "classes": "Ranger (Swarmkeeper (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

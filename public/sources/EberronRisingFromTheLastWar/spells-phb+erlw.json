@@ -1,0 +1,416 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Acid Splash",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Aid",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Alarm",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Alter Self",
+                "classes": "Artificer, Artificer (Alchemist)"
+            },
+            {
+                "name": "Animate Objects",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Arcane Lock",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Banishing Smite",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Bigby's Hand",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Blight",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Blink",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Blur",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Conjure Barrage",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Continual Flame",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Create Food and Water",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Creation",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Dancing Lights",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Darkvision",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Detect Magic",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Dispel Magic",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Faerie Fire",
+                "classes": "Artificer"
+            },
+            {
+                "name": "False Life",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Feather Fall",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fire Bolt",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Fly",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Grease",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Guidance",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Haste",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Healing Word",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Ice Storm",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Identify",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Jump",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Leomund's Secret Chest",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Levitate",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Light",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Longstrider",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mage Hand",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Magic Mouth",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mass Cure Wounds",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Mass Healing Word",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Melf's Acid Arrow",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Mending",
+                "classes": "Artificer, Artificer (Artillerist), Artificer (Battle Smith)"
+            },
+            {
+                "name": "Message",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mordenkainen's Faithful Hound",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mordenkainen's Private Sanctum",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Poison Spray",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Prestidigitation",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Purify Food and Drink",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Ray of Frost",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Resistance",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Scorching Ray",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "See Invisibility",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Shield",
+                "classes": "Artificer (Artillerist), Artificer (Battle Smith)"
+            },
+            {
+                "name": "Shocking Grasp",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Spare the Dying",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Spider Climb",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Stone Shape",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Thorn Whip",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Wall of Stone",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Water Breathing",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Water Walk",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Web",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Wind Wall",
+                "classes": "Artificer (Artillerist)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

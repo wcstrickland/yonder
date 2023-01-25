@@ -1,0 +1,172 @@
+{
+    "compendium": {
+        "monster": [
+            {
+                "name": "Expert",
+                "size": "M",
+                "type": "humanoid",
+                "alignment": "Any alignment",
+                "ac": "14 (studded leather armor)",
+                "hp": "11 (2d8+2)",
+                "speed": "walk 30 ft.",
+                "str": "10",
+                "dex": "15",
+                "con": "12",
+                "int": "13",
+                "wis": "10",
+                "cha": "14",
+                "save": "Dex +4",
+                "skill": "Acrobatics +4, Performance +4, Persuasion +4, Sleight of hand +4, Stealth +4",
+                "passive": "10",
+                "languages": "Common, plus one of your choice",
+                "cr": "",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "trait": [
+                    {
+                        "name": "Helpful",
+                        "text": "The expert can take the Help action as a bonus action."
+                    },
+                    {
+                        "name": "Tools",
+                        "text": "The expert has thieves' tools and a musical instrument."
+                    }
+                ],
+                "action": [
+                    {
+                        "name": "Shortsword",
+                        "text": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.",
+                        "attack": "Shortsword|+4|1d6+2"
+                    },
+                    {
+                        "name": "Dagger",
+                        "text": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage.",
+                        "attack": "Dagger|+4|1d4+2"
+                    },
+                    {
+                        "name": "Shortbow",
+                        "text": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. 5 (1d6 + 2) piercing damage.",
+                        "attack": "Shortbow|+4|1d6+2"
+                    }
+                ],
+                "description": "Source: Essentials Kit p. 63",
+                "environment": ""
+            },
+            {
+                "name": "Spellcaster",
+                "size": "M",
+                "type": "humanoid",
+                "alignment": "Any alignment",
+                "ac": "12 (leather armor)",
+                "hp": "9 (2d8)",
+                "speed": "walk 30 ft.",
+                "str": "10",
+                "dex": "12",
+                "con": "10",
+                "int": "15",
+                "wis": "14",
+                "cha": "13",
+                "save": "Wis +4",
+                "skill": "Arcana +4, Investigation +4, Religion +4",
+                "passive": "12",
+                "languages": "Common, plus one of your choice",
+                "cr": "",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "trait": [
+                    {
+                        "name": "Magical Role",
+                        "text": "Choose a role for the spellcaster: healer or mage. Your choice determines which Spellcasting trait to use below."
+                    },
+                    {
+                        "name": "Spellcasting (Healer)",
+                        "text": [
+                            "The spellcaster's spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following cleric spells prepared:",
+                            "Cantrips (at will): guidance, sacred flame",
+                            "\u2022 1st level (2 slots): cure wounds"
+                        ]
+                    },
+                    {
+                        "name": "Spellcasting (Mage)",
+                        "text": [
+                            "The spellcaster's spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The spellcaster has following wizard spells prepared:",
+                            "Cantrips (at will): fire bolt, light",
+                            "\u2022 1st level (2 slots): sleep"
+                        ]
+                    }
+                ],
+                "action": {
+                    "name": "Quarterstaff",
+                    "text": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands.",
+                    "attack": "Quarterstaff|+2|1d6"
+                },
+                "slots": [
+                    "2",
+                    "2"
+                ],
+                "spells": "guidance, sacred flame, cure wounds, fire bolt, light, sleep",
+                "description": "Source: Essentials Kit p. 63",
+                "environment": ""
+            },
+            {
+                "name": "Warrior",
+                "size": "M",
+                "type": "humanoid",
+                "alignment": "Any alignment",
+                "ac": "16 (chain shirt, shield)",
+                "hp": "13 (2d8+4)",
+                "speed": "walk 30 ft.",
+                "str": "15",
+                "dex": "13",
+                "con": "14",
+                "int": "10",
+                "wis": "12",
+                "cha": "10",
+                "save": "Con +4",
+                "skill": "Athletics +4, Perception +3, Survival +3",
+                "passive": "13",
+                "languages": "Common, plus one of your choice",
+                "cr": "",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "trait": {
+                    "name": "Martial Role",
+                    "text": [
+                        "The warrior has one of the following traits of your choice:",
+                        "\u2022 Attacker: The warrior gains a +2 bonus to attack rolls.",
+                        "\u2022 Defender: The warrior gains the Protection reaction below."
+                    ]
+                },
+                "action": [
+                    {
+                        "name": "Longsword",
+                        "text": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.",
+                        "attack": "Longsword|+4|1d8+2"
+                    },
+                    {
+                        "name": "Longbow",
+                        "text": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. 5 (1d8 + 1) piercing damage.",
+                        "attack": "Longbow|+3|1d8+1"
+                    }
+                ],
+                "reaction": {
+                    "name": "Protection (Defender Only)",
+                    "text": "The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker."
+                },
+                "description": "Source: Essentials Kit p. 63",
+                "environment": ""
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

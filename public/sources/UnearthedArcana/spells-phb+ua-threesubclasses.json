@@ -1,0 +1,44 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Animate Dead",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Blight",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Druid (Spores (UA))"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Druid (Spores (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

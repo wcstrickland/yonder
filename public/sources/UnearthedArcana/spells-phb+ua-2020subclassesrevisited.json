@@ -1,0 +1,112 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Blur",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Burning Hands",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Control Water",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Create Food and Water",
+                "classes": "Warlock (Genie (UA))"
+            },
+            {
+                "name": "Creation",
+                "classes": "Warlock (Genie (UA))"
+            },
+            {
+                "name": "Detect Evil and Good",
+                "classes": "Warlock (Genie (UA))"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Fog Cloud",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Meld into Stone",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Phantasmal Force",
+                "classes": "Warlock (Genie (UA))"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Warlock (Genie (UA))"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Scorching Ray",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Seeming",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Sleet Storm",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Spike Growth",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Stone Shape",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Wall of Stone",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Wind Wall",
+                "classes": "Warlock (Genie (UA)), Warlock (Genie (UA))"
+            },
+            {
+                "name": "Wish",
+                "classes": "Warlock (Genie (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

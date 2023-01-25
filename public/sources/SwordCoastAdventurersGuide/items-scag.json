@@ -1,0 +1,104 @@
+{
+    "compendium": {
+        "item": [
+            {
+                "name": "Birdpipes",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Pan pipes or satyr pipes, also known as the shalm, these are sacred to Lliira and popular with wood elf and wild elf bards.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Glaur",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Short, curved horns like a cornucopia. Played with valves, glaur sound like trumpets, while those without valves, known as gloon, have a more mournful sound.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Hand Drum",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A double-headed skin drum fitted with handles along its side.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Longhorn",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A Faer\u00fbnian flute of sophisticated make, found only in areas with skilled artisans, as in great cities or elven enclaves.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Shawm",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A double-reed instrument similar to an oboe or a bassoon, popular with gnomes, who have developed some bellows-powered versions.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Songhorn",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A recorder, a simple type of flute, usually carved from wood.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Tantan",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A tambourine, a popular instrument with halflings and humans south of the Dalelands.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Thelarr",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "Also known as a whistlecane, a simple and easy-to-make wind instrument cut from a reed. They are so simple, in fact, that skilled bards frequently make and give them away to children\u2014to the parents' delight or regret.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Tocken",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A hanging set of carved oval bells, usually played with a pair of light wooden hammers (or open handed). They are most common in underground cultures, where the resonant tones can carry.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Wargong",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A metal gong, traditionally made from a shield, particularly the shield of an enemy. Both goblins and dwarves make and play wargongs, their sound echoing through tunnels in the Underdark.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Yarting",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A southern instrument from Amn and Calimshan that is a Faer\u00fbnian analog to the guitar. Numerous variations have spread across the continent.\nSource: Sword Coast Adventurer's Guide p. 124"
+            },
+            {
+                "name": "Zulkoon",
+                "detail": "Instrument",
+                "type": "G",
+                "weight": "",
+                "property": "",
+                "text": "A complex pump organ that originated with the zulkirs of Thay, who use it in the casting of their spells. It is considered to have a dramatic, but sinister, sound.\nSource: Sword Coast Adventurer's Guide p. 124"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

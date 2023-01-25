@@ -1,0 +1,120 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Aid",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Animate Objects",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Antilife Shell",
+                "classes": "Cleric (Protection (UA)), Cleric (Grave (UA))"
+            },
+            {
+                "name": "Bane",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Blight",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Compelled Duel",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Creation",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "False Life",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Cleric (Forge (UA)), Cleric (Protection (UA))"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Ray of Enfeeblement",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Shield",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Slow",
+                "classes": "Cleric (Protection (UA))"
+            },
+            {
+                "name": "Vampiric Touch",
+                "classes": "Cleric (Grave (UA))"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Cleric (Forge (UA))"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Cleric (Protection (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Banishment",
+                "classes": "Ranger (Fey Wanderer (UA))"
+            },
+            {
+                "name": "Charm Person",
+                "classes": "Ranger (Fey Wanderer (UA))"
+            },
+            {
+                "name": "Dispel Magic",
+                "classes": "Ranger (Fey Wanderer (UA))"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Lightning Bolt",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Magic Missile",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Mirror Image",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Mislead",
+                "classes": "Ranger (Fey Wanderer (UA))"
+            },
+            {
+                "name": "Misty Step",
+                "classes": "Ranger (Fey Wanderer (UA))"
+            },
+            {
+                "name": "Passwall",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Shield",
+                "classes": "Artificer (Armorer (UA))"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Artificer (Armorer (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

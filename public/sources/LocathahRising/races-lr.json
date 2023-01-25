@@ -1,0 +1,52 @@
+{
+    "compendium": {
+        "race": {
+            "name": "Locathah",
+            "size": "M",
+            "speed": "30",
+            "ability": "Str 2, Dex 1",
+            "proficiency": "Athletics, Perception",
+            "spellAbility": "",
+            "trait": [
+                {
+                    "name": "Description",
+                    "text": "Source: Locathah Rising p. 24"
+                },
+                {
+                    "name": "Age",
+                    "text": "Locathah mature to adulthood by the age of 10 but have been known to live up to 80 years."
+                },
+                {
+                    "name": "Alignment",
+                    "text": "Most locathah are true neutral or have some aspect of neutrality in their alignment. They tend toward good, coming from a culture where compassion for the downtrodden is a commonality."
+                },
+                {
+                    "name": "Natural Armor",
+                    "text": "You have tough, scaly skin. When you aren't wearing armor, your AC is 12 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+                },
+                {
+                    "name": "Observant & Athletic",
+                    "text": "You have proficiency in the Athletics and Perception skills."
+                },
+                {
+                    "name": "Leviathan Will",
+                    "text": "You have advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep."
+                },
+                {
+                    "name": "Limited Amphibiousness",
+                    "text": "You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating."
+                },
+                {
+                    "name": "Size",
+                    "text": "Locathah stand between 5 and 6 feet tall and average about 150 pounds. Your size is Medium."
+                },
+                {
+                    "name": "Language",
+                    "text": "You can speak, read, and write Aquan and Common."
+                }
+            ]
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

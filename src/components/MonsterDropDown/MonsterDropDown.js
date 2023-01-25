@@ -1,25 +1,43 @@
-import React, {useState} from 'react';
-import {useNavigate} from 'react-router-dom'
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom'
+import Fuse from 'fuse.js';
 
 import './MonsterDropDown.css';
 
-export default function MonsterDropDown(props){
+export default function MonsterDropDown(props) {
+
+    let monsterIdxByName = {} 
+    props.monsterList.map((e, idx) => monsterIdxByName[e["name"]] = idx)
+
 
     const navigate = useNavigate()
 
-    function handleSelectChange(ev){
+    function handleSelectChange(ev) {
         let value = ev.target.value
-        let idx = value.match(/\d{1,3}:/)
-        idx = idx[0]
-        idx = idx.slice(0, idx.length - 1)
+        let idx = monsterIdxByName[value]
         navigate(`/monster/${idx}`)
     }
 
-    return(
+    const options = {
+        keys: ['name']
+    }
+
+    const fuse = new Fuse(props.monsterList, options)
+
+
+    const [searchValue, setSearchValue] = useState('')
+    const result = fuse.search(searchValue)
+
+    return (
         <>
-            <select onChange={(e)=> handleSelectChange(e)}>
+            <input value={searchValue} placeholder={"search"} onChange={(e) => setSearchValue(e.target.value)} type={"text"}></input>
+
+            <select onChange={(e) => handleSelectChange(e)}>
                 <option value="" disabled selected>Select</option>
-                {props.monsterList.map((m, idx) => <option>{idx}: {m.name}</option>)}
+                {searchValue === ""
+                ? props.monsterList.map((m ) => <option>{m.name}</option>)
+                : result.slice(0,10).map(r => <option>{r.item.name}</option> )
+                }
             </select>
         </>
     );

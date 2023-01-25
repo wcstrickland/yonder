@@ -1,0 +1,284 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Acid Splash",
+                "classes": "Druid"
+            },
+            {
+                "name": "Aid",
+                "classes": "Bard, Ranger"
+            },
+            {
+                "name": "Animate Dead",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Antipathy/Sympathy",
+                "classes": "Bard"
+            },
+            {
+                "name": "Augury",
+                "classes": "Druid, Wizard"
+            },
+            {
+                "name": "Aura of Life",
+                "classes": "Cleric"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Cleric"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Cleric, Druid"
+            },
+            {
+                "name": "Awaken",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Blinding Smite",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Cleric"
+            },
+            {
+                "name": "Color Spray",
+                "classes": "Bard"
+            },
+            {
+                "name": "Command",
+                "classes": "Bard"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Druid"
+            },
+            {
+                "name": "Contact Other Plane",
+                "classes": "Bard"
+            },
+            {
+                "name": "Continual Flame",
+                "classes": "Druid"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Demiplane",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Divination",
+                "classes": "Druid, Wizard"
+            },
+            {
+                "name": "Dominate Beast",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Druid"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Ranger, Wizard"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Bard, Druid"
+            },
+            {
+                "name": "Entangle",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Druid, Sorcerer"
+            },
+            {
+                "name": "Flame Blade",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Paladin"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Flesh to Stone",
+                "classes": "Druid, Sorcerer"
+            },
+            {
+                "name": "Foresight",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Gate",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Paladin"
+            },
+            {
+                "name": "Grease",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Heroes' Feast",
+                "classes": "Bard"
+            },
+            {
+                "name": "Incendiary Cloud",
+                "classes": "Druid"
+            },
+            {
+                "name": "Knock",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Magic Jar",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Mass Healing Word",
+                "classes": "Bard"
+            },
+            {
+                "name": "Maze",
+                "classes": "Bard"
+            },
+            {
+                "name": "Meld into Stone",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Mirror Image",
+                "classes": "Bard"
+            },
+            {
+                "name": "Mislead",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Modify Memory",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Bard"
+            },
+            {
+                "name": "Planar Binding",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Power Word Heal",
+                "classes": "Cleric, Druid"
+            },
+            {
+                "name": "Prayer of Healing",
+                "classes": "Paladin"
+            },
+            {
+                "name": "Prismatic Spray",
+                "classes": "Bard"
+            },
+            {
+                "name": "Prismatic Wall",
+                "classes": "Bard"
+            },
+            {
+                "name": "Project Image",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Druid, Sorcerer"
+            },
+            {
+                "name": "Rary's Telepathic Bond",
+                "classes": "Bard"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Druid, Ranger"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Shapechange",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Slow",
+                "classes": "Bard"
+            },
+            {
+                "name": "Speak with Dead",
+                "classes": "Wizard"
+            },
+            {
+                "name": "Spirit Guardians",
+                "classes": "Paladin"
+            },
+            {
+                "name": "Symbol",
+                "classes": "Druid"
+            },
+            {
+                "name": "Teleportation Circle",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Tongues",
+                "classes": "Ranger"
+            },
+            {
+                "name": "Vampiric Touch",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Paladin, Ranger"
+            },
+            {
+                "name": "Weird",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Wrathful Smite",
+                "classes": "Cleric"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Dominate Person",
+                "classes": "Wizard (Psionics (UA))"
+            },
+            {
+                "name": "Friends",
+                "classes": "Wizard (Psionics (UA))"
+            },
+            {
+                "name": "Mage Hand",
+                "classes": "Fighter (Psychic Warrior (UA)), Wizard (Psionics (UA))"
+            },
+            {
+                "name": "Message",
+                "classes": "Wizard (Psionics (UA))"
+            },
+            {
+                "name": "Scrying",
+                "classes": "Wizard (Psionics (UA))"
+            },
+            {
+                "name": "Telekinesis",
+                "classes": "Wizard (Psionics (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

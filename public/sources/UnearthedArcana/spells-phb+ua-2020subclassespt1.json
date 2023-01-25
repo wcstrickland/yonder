@@ -1,0 +1,88 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Alarm",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Augury",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Banishment",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Bigby's Hand",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Chromatic Orb",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Counterspell",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Create Food and Water",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Creation",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Fog Cloud",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Hallow",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Hold Monster",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Moonbeam",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Nondetection",
+                "classes": "Paladin (Watchers (UA))"
+            },
+            {
+                "name": "Phantasmal Force",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Polymorph",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Warlock (Noble Genie (UA))"
+            },
+            {
+                "name": "Sleep",
+                "classes": "Warlock (Noble Genie (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

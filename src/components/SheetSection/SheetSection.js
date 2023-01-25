@@ -12,7 +12,7 @@ function SheetSection(props) {
         if (toHit !== null) {
             result["toHit"] = toHit[1]
         }
-        const damRe = /\((\d{1,2})d(\d{1,2})\+?(\d{0,2})\)/g
+        const damRe = /\((\d{1,2})d(\d{1,2})\s?\+?\s?(\d{0,2})\)/g
         let damages = sectionString.matchAll(damRe)
         for (const e of damages) {
             if (e !== null) {
@@ -63,14 +63,14 @@ function SheetSection(props) {
     const subProperties = []
 
     // data that is an array (nested)
-    if (data !== undefined && data.constructor === Array) {
+    if (data !== undefined && data.constructor !== undefined && data.constructor === Array) {
         // nested so we need to recurse
         isTerminal = false
         // for every 'thing' in the nested data
         for (let i = 0; i < data.length; i++) {
             // if data is an array, but just of strings it means it is not nested data -> join strings and write to strData var
             if (data.constructor === Array && data.every(x => typeof x === 'string' || x instanceof String)) {
-                strData = data.join("-----")
+                strData = data.join(`;`)
                 // Done no recurse
                 isTerminal = true
             } else {
@@ -83,8 +83,9 @@ function SheetSection(props) {
                 valToAdd["value"] = Object.values(data[i])[1]
 
                 // check to see if the value is an array of strings if so joinem up
-                if (valToAdd["value"].constructor === Array && valToAdd["value"].every(x => typeof x === 'string' || x instanceof String)) {
-                    valToAdd["value"] = valToAdd["value"].join("----")
+                // tons of checks to deal with terminal nodes being weird hurts my eyes
+                if (valToAdd["value"] !== undefined && valToAdd["value"].constructor !== undefined && valToAdd["value"].constructor === Array && valToAdd["value"].every(x => typeof x === 'string' || x instanceof String)) {
+                    valToAdd["value"] = valToAdd["value"].join(";")
                 }
 
                 // boolean is this a data structure rather than a primitive. Just realized its never checked. afraid to remove it TODO
@@ -95,7 +96,7 @@ function SheetSection(props) {
             }
         }
         // this data is nested but its an object "yay"
-    } else if (data !== undefined && data.constructor === Object) {
+    } else if (data !== undefined && data.constructor !== undefined && data.constructor === Object) {
         // not done keep recursing
         isTerminal = false
         // make an object
@@ -103,8 +104,9 @@ function SheetSection(props) {
             // this data is the child of a parent but is an object not an array the 'property' is just the first value hopefully name 'value' is 2 hopefully text
             // this is likely to break
             "property": Object.values(data)[0],
-            "value": Object.values(data)[1],
-            "children": Object.values(data)[1].constructor === Array || Object.values(data)[1].constructor === Object
+            "value": JSON.stringify(Object.values(data)[1]),
+            // "children": Object.values(data)[1].constructor === Array || Object.values(data)[1].constructor === Object
+            "children": false
         }
         subProperties.push(valToAdd)
     }
@@ -114,22 +116,18 @@ function SheetSection(props) {
     function renderResult() {
         if (isTerminal) {
             if (strData.length > 0) {
-                console.log("strData")
-                console.log(strData)
                 return (
                     <>
                         {strData}
-                        {strData && extractDamageNumbers(JSON.stringify(strData))}
+                        {strData && extractDamageNumbers(strData)}
                     </>
                 )
             }
 
-            console.log("data")
-            console.log(data)
             return (
                 <>
                     {data}
-                    {data && extractDamageNumbers(JSON.stringify(data))}
+                    {data && extractDamageNumbers(data)}
                 </>
             )
         }

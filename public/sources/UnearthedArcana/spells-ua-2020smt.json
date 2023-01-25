@@ -1,0 +1,160 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Acid Stream",
+                "classes": "Sorcerer, Wizard",
+                "level": "1",
+                "school": "EV",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "Self (30-foot line)",
+                "components": "V, S, M (a bit of rotten food)",
+                "duration": "Concentration, up to 1 minute",
+                "text": "A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 3d4 acid damage at start of each of its turns.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 2",
+                "roll": [
+                    "3d4",
+                    "4d4",
+                    "5d4",
+                    "6d4",
+                    "7d4",
+                    "8d4",
+                    "9d4",
+                    "10d4",
+                    "11d4"
+                ]
+            },
+            {
+                "name": "Otherworldly Form",
+                "classes": "Cleric, Sorcerer, Warlock, Wizard",
+                "level": "6",
+                "school": "T",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "Self",
+                "components": "V, S, M (an object engraved with a symbol of the Outer Planes, worth at least 500 gp)",
+                "duration": "Concentration, up to 1 minute",
+                "text": "Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:\n\u2022 You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).\n\u2022 You are immune to the poisoned condition (Lower Planes) or the charmed condition (Upper Planes).\n\u2022 Spectral wings appear on your back, giving you a flying speed of 40 feet.\n\u2022 You have a +2 bonus to AC.\n\u2022 All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.\n\u2022 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 2"
+            },
+            {
+                "name": "Spirit Shroud",
+                "classes": "Cleric, Paladin, Warlock, Wizard",
+                "level": "3",
+                "school": "N",
+                "ritual": "NO",
+                "time": "1 bonus action",
+                "range": "Self",
+                "components": "V, S",
+                "duration": "Concentration, up to 1 minute",
+                "text": "You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable, and they are good or evil (your choice).\nUntil the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant if the spirits are good and necrotic if they are evil. Any creature that takes this damage can't regain hit points until the start of your next turn.\nIn addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 4th level or higher, the extra damage increases by 1d8 for each slot level above 3rd.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 2",
+                "roll": [
+                    "1d8",
+                    "2d8",
+                    "3d8",
+                    "4d8",
+                    "5d8",
+                    "6d8",
+                    "7d8"
+                ]
+            },
+            {
+                "name": "Summon Aberrant Spirit",
+                "classes": "Sorcerer, Warlock, Wizard",
+                "level": "4",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (a pickled tentacle and an eyeball in a crystal vial worth at least 400 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a spirit from the Far Realm or another alien realm of madness. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Aberrant Spirit stat block. When you cast the spell, choose Beholderkin, Slaadi, or Star Spawn. The creature physically resembles your choice, which also determines some of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 5th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 3"
+            },
+            {
+                "name": "Summon Bestial Spirit",
+                "classes": "Druid, Ranger",
+                "level": "2",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth the spirit of a beast. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Bestial Spirit stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature physically resembles an animal of your choice that is native to the chosen environment, which also determines one of the movement modes in the creature's stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 3rd level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 3"
+            },
+            {
+                "name": "Summon Celestial Spirit",
+                "classes": "Cleric, Paladin",
+                "level": "5",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (a golden reliquary worth at least 500 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a spirit from the Upper Planes. The spirit manifests physically in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the Celestial Spirit stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 6th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4"
+            },
+            {
+                "name": "Summon Elemental Spirit",
+                "classes": "Druid, Sorcerer, Wizard",
+                "level": "4",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (air, a pebble, ash, and water inside a crystal vial worth at least 400 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a spirit from the Elemental Planes. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature physically resembles a vaguely humanoid form wreathed in the chosen element, which also determines some of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 5th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 4"
+            },
+            {
+                "name": "Summon Fey Spirit",
+                "classes": "Bard, Druid, Sorcerer, Warlock, Wizard",
+                "level": "3",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (a gilded flower worth at least 300 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a spirit from the Feywild. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Fey Spirit stat block. When you cast the spell, choose a mood: Deceitful, Furious, or Joyful. The creature physically resembles a satyr, a dryad, or an elf (your choice) marked by the chosen mood, which also determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 4th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 5"
+            },
+            {
+                "name": "Summon Fiendish Spirit",
+                "classes": "Warlock, Wizard",
+                "level": "6",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (humanoid blood inside a ruby vial worth at least 600 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a fiendish spirit from the Lower Planes. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature physically resembles a fiend of the chosen type, which also determines some of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 7th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 6"
+            },
+            {
+                "name": "Summon Shadow Spirit",
+                "classes": "Sorcerer, Warlock, Wizard",
+                "level": "3",
+                "school": "C",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (tears inside a crystal vial worth at least 300 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a shadowy spirit from the Shadowfell. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature physically resembles a misshapen humanoid marked by the chosen emotion, which also determines some of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 4th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 7"
+            },
+            {
+                "name": "Summon Undead Spirit",
+                "classes": "Warlock, Wizard",
+                "level": "3",
+                "school": "N",
+                "ritual": "NO",
+                "time": "1 action",
+                "range": "90 feet",
+                "components": "V, S, M (a gilded humanoid skull worth at least 300 gp)",
+                "duration": "Concentration, up to 1 hour",
+                "text": "You call forth a restless spirit from beyond the grave. The spirit manifests physically in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The creature physically resembles a humanoid with the chosen form, which also determines some of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\nThe creature is friendly to you and your companions for the spell's duration. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys verbal commands that you issue to it (no action required by you). If you don't issue any, it defends itself but otherwise takes no action.\nAt Higher Levels:\nWhen you cast this spell using a spell slot of 4th level or higher, the creature assumes the higher level for that casting wherever it uses the spell's level in its stat block.\nSource: Unearthed Arcana: 2020 Spells And Magic Tattoos p. 7"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

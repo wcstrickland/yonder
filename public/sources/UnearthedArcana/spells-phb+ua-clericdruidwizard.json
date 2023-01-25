@@ -1,0 +1,84 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Aura of Life",
+                "classes": "Cleric (Twilight (UA)), Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Bane",
+                "classes": "Wizard (Onomancy (UA))"
+            },
+            {
+                "name": "Bless",
+                "classes": "Wizard (Onomancy (UA))"
+            },
+            {
+                "name": "Circle of Power",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Darkness",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Dream",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Faerie Fire",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Leomund's Tiny Hut",
+                "classes": "Cleric (Twilight (UA))"
+            },
+            {
+                "name": "Locate Animals or Plants",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Plant Growth",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Scorching Ray",
+                "classes": "Druid (Wildfire (UA))"
+            },
+            {
+                "name": "Sleep",
+                "classes": "Cleric (Twilight (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

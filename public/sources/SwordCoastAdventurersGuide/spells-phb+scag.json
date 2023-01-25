@@ -1,0 +1,132 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Arcane Eye",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Aura of Life",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Banishment",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Circle of Power",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Command",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Compelled Duel",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Detect Magic",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Dispel Magic",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Feign Death",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Geas",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Guardian of Faith",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Legend Lore",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Leomund's Secret Chest",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Magic Circle",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Magic Missile",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Nystul's Magic Aura",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Planar Binding",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Silence",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Spare the Dying",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Speak with Dead",
+                "classes": "Warlock (Undying)"
+            },
+            {
+                "name": "Spirit Guardians",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Teleportation Circle",
+                "classes": "Cleric (Arcana)"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Paladin (Crown)"
+            },
+            {
+                "name": "Zone of Truth",
+                "classes": "Paladin (Crown)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

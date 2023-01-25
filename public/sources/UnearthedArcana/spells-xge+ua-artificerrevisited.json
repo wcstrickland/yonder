@@ -1,0 +1,72 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Absorb Elements",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Catapult",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Catnap",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Create Bonfire",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Elemental Bane",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Flame Arrows",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Frostbite",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Magic Stone",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Pyrotechnics",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Skill Empowerment",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Skywrite",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Snare",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Thunderclap",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Tiny Servant",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Transmute Rock",
+                "classes": "Artificer (Revisited) (UA)"
+            },
+            {
+                "name": "Vitriolic Sphere",
+                "classes": "Artificer (Revisited) (UA)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

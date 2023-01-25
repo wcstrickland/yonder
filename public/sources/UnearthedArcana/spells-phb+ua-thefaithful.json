@@ -1,0 +1,48 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Arcane Eye",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Clairvoyance",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Feather Fall",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Jump",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Legend Lore",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Levitate",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Locate Object",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Passwall",
+                "classes": "Warlock (Seeker (UA))"
+            },
+            {
+                "name": "Sending",
+                "classes": "Warlock (Seeker (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

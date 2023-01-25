@@ -1,0 +1,409 @@
+{
+    "compendium": {
+        "monster": [
+            {
+                "name": "Ash Zombie",
+                "size": "M",
+                "type": "undead",
+                "alignment": "Neutral Evil",
+                "ac": "8",
+                "hp": "22 (3d8+9)",
+                "speed": "walk 20 ft.",
+                "str": "13",
+                "dex": "6",
+                "con": "16",
+                "int": "3",
+                "wis": "6",
+                "cha": "5",
+                "save": "Wis +0",
+                "skill": "",
+                "passive": "8",
+                "languages": "understands all languages it spoke in life but can't speak",
+                "cr": "1/4",
+                "resist": "",
+                "immune": "poison",
+                "vulnerable": "",
+                "conditionImmune": "poisoned",
+                "senses": "darkvision 60 ft.",
+                "trait": [
+                    {
+                        "name": "Undead Fortitude",
+                        "text": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+                    },
+                    {
+                        "name": "Ash Puff",
+                        "text": "The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a DC 10 Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save."
+                    }
+                ],
+                "action": {
+                    "name": "Slam",
+                    "text": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 4 (1d6 + 1) bludgeoning damage.",
+                    "attack": "Slam|+3|1d6+1"
+                },
+                "description": "From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.\nAsh Zombies. These zombies were created by the magical devastation when Mount Hotenow erupted thirty years ago. They use the zombie stat block, with the following additional trait.\nAsh Puff. The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a DC 10 Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save.\nSource: Lost Mine of Phandelver p. 31",
+                "environment": ""
+            },
+            {
+                "name": "Evil Mage",
+                "size": "M",
+                "type": "humanoid (human)",
+                "alignment": "Lawful Evil",
+                "ac": "12",
+                "hp": "22 (5d8)",
+                "speed": "walk 30 ft.",
+                "str": "9",
+                "dex": "14",
+                "con": "11",
+                "int": "17",
+                "wis": "12",
+                "cha": "11",
+                "save": "Int +5, Wis +3",
+                "skill": "Arcana +5, History +5",
+                "passive": "11",
+                "languages": "Common, Draconic, Dwarvish, Elvish",
+                "cr": "1",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "action": {
+                    "name": "Quarterstaff",
+                    "text": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 3 (1d8 - 1) bludgeoning damage.",
+                    "attack": "Quarterstaff|+1|1d8-1"
+                },
+                "trait": {
+                    "name": "Spellcasting",
+                    "text": [
+                        "The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:",
+                        "Cantrips (at will): light, mage hand, shocking grasp",
+                        "\u2022 1st level (4 slots): charm person, magic missile",
+                        "\u2022 2nd level (3 slots): hold person, misty step"
+                    ]
+                },
+                "slots": "4, 3",
+                "spells": "light, mage hand, shocking grasp, charm person, magic missile, hold person, misty step",
+                "description": "Evil mages (such as Iarno Albrek and Hamun Kost) hunger for arcane power and dwell in isolated places, where they can perform terrible magical experiments without interference.\nSource: Lost Mine of Phandelver p. 57, The Lost Dungeon of Rickedness: Big Rick Energy",
+                "environment": ""
+            },
+            {
+                "name": "Gundren Rockseeker",
+                "size": "M",
+                "type": "humanoid (dwarf)",
+                "alignment": "Any alignment",
+                "ac": "10",
+                "hp": "4 (1d8)",
+                "speed": "walk 25 ft.",
+                "str": "10",
+                "dex": "10",
+                "con": "10",
+                "int": "10",
+                "wis": "10",
+                "cha": "10",
+                "save": "",
+                "skill": "",
+                "passive": "10",
+                "languages": "any one language (usually Common), Dwarvish",
+                "cr": "0",
+                "resist": "poison",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 60 ft.",
+                "trait": {
+                    "name": "Dwarven Resilience",
+                    "text": "<$title_short_name$> has advantage on saving throws against poison, and has resistance against poison damage."
+                },
+                "action": {
+                    "name": "Club",
+                    "text": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.",
+                    "attack": "Club|+2|1d4"
+                },
+                "description": "Source: Lost Mine of Phandelver p. 41",
+                "environment": "arctic, desert, coastal, grassland, hill, urban, forest"
+            },
+            {
+                "name": "Mormesk the Wraith",
+                "size": "M",
+                "type": "undead",
+                "alignment": "Neutral Evil",
+                "ac": "13",
+                "hp": "45 (6d8+18)",
+                "speed": "walk 0 ft., fly 60 ft.",
+                "str": "6",
+                "dex": "16",
+                "con": "16",
+                "int": "12",
+                "wis": "14",
+                "cha": "15",
+                "save": "",
+                "skill": "",
+                "passive": "12",
+                "languages": "Common, Infernal",
+                "cr": "3",
+                "resist": "acid, cold, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered",
+                "immune": "necrotic, poison",
+                "vulnerable": "",
+                "conditionImmune": "charmed, grappled, paralyzed, petrified, poisoned, prone, restrained",
+                "senses": "darkvision 60 ft.",
+                "trait": [
+                    {
+                        "name": "Incorporeal Movement",
+                        "text": "The wraith can move through an object or another creature, but can't stop there."
+                    },
+                    {
+                        "name": "Sunlight Sensitivity",
+                        "text": "While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
+                    }
+                ],
+                "action": {
+                    "name": "Life Drain",
+                    "text": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. 16 (3d8 + 3) necrotic damage, and the target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. If this attack reduces the target's hit point maximum to 0, the target dies. This reduction to the target's hit point maximum lasts until the target finishes a long rest.",
+                    "attack": "Life Drain|+5|3d8+3"
+                },
+                "description": "A wraith is the incorporeal remnant of a particularly hateful being. Most wraiths can transform those they have slain into spectral undead servitors. Mormesk chooses not to, preferring to let the dead stay dead.\nSource: Lost Mine of Phandelver p. 59",
+                "environment": ""
+            },
+            {
+                "name": "Nezznar the Black Spider",
+                "size": "M",
+                "type": "humanoid (elf)",
+                "alignment": "Neutral Evil",
+                "ac": "11 (14 with mage armor)",
+                "hp": "27 (6d8)",
+                "speed": "walk 30 ft.",
+                "str": "9",
+                "dex": "13",
+                "con": "10",
+                "int": "16",
+                "wis": "14",
+                "cha": "13",
+                "save": "Int +5, Wis +4",
+                "skill": "Arcana +5, Perception +4, Stealth +3",
+                "passive": "14",
+                "languages": "Elvish, Undercommon",
+                "cr": "2",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 120 ft.",
+                "trait": [
+                    {
+                        "name": "Special Equipment",
+                        "text": "Nezznar has a spider staff."
+                    },
+                    {
+                        "name": "Fey Ancestry",
+                        "text": "Nezznar has advantage on saving throws against being charmed, and magic can't put him to sleep."
+                    },
+                    {
+                        "name": "Sunlight Sensitivity",
+                        "text": "Nezznar has disadvantage on attack rolls when he or his target is in sunlight."
+                    },
+                    {
+                        "name": "Innate Spellcasting",
+                        "text": [
+                            "Nezznar can innately cast the following spells, requiring no material components:",
+                            "At will: dancing lights",
+                            "1/day each: darkness, faerie fire (save DC 12)"
+                        ]
+                    },
+                    {
+                        "name": "Spellcasting",
+                        "text": [
+                            "Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:",
+                            "Cantrips (at will): mage hand, ray of frost, shocking grasp",
+                            "\u2022 1st level (4 slots): mage armor, magic missile, shield",
+                            "\u2022 2nd level (3 slots): invisibility, suggestion"
+                        ]
+                    }
+                ],
+                "action": {
+                    "name": "Spider Staff",
+                    "text": "Melee Weapon Attack: +1 to hit, reach 5 ft., one target. 2 (1d6 - 1) bludgeoning damage plus 3 (1d6) poison damage.",
+                    "attack": "Spider Staff|+1|1d6-1"
+                },
+                "slots": "4, 3",
+                "spells": "dancing lights, darkness, faerie fire, mage hand, ray of frost, shocking grasp, mage armor, magic missile, shield, invisibility, suggestion",
+                "description": "Drow (dark elves) are a devious, scheming subterranean race that worships Lolth, the Demon Queen of Spiders.\nDrow society is strictly matriarchal. Male drow are relegated to servitor roles, and while most train as warriors, a few, such as Nezznar, become skilled wizards.\nSource: Lost Mine of Phandelver p. 59",
+                "environment": ""
+            },
+            {
+                "name": "Nundro Rockseeker",
+                "size": "M",
+                "type": "humanoid (dwarf)",
+                "alignment": "Any alignment",
+                "ac": "10",
+                "hp": "4 (1d8)",
+                "speed": "walk 25 ft.",
+                "str": "10",
+                "dex": "10",
+                "con": "10",
+                "int": "10",
+                "wis": "10",
+                "cha": "10",
+                "save": "",
+                "skill": "",
+                "passive": "10",
+                "languages": "any one language (usually Common), Dwarvish",
+                "cr": "0",
+                "resist": "poison",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "darkvision 60 ft.",
+                "trait": {
+                    "name": "Dwarven Resilience",
+                    "text": "<$title_short_name$> has advantage on saving throws against poison, and has resistance against poison damage."
+                },
+                "action": {
+                    "name": "Club",
+                    "text": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. 2 (1d4) bludgeoning damage.",
+                    "attack": "Club|+2|1d4"
+                },
+                "description": "Source: Lost Mine of Phandelver p. 50",
+                "environment": "arctic, desert, coastal, grassland, hill, urban, forest"
+            },
+            {
+                "name": "Redbrand Ruffian",
+                "size": "M",
+                "type": "humanoid (human)",
+                "alignment": "Neutral Evil",
+                "ac": "14 (studded leather armor)",
+                "hp": "16 (3d8+3)",
+                "speed": "walk 30 ft.",
+                "str": "11",
+                "dex": "14",
+                "con": "12",
+                "int": "9",
+                "wis": "9",
+                "cha": "11",
+                "save": "",
+                "skill": "Intimidation +2",
+                "passive": "9",
+                "languages": "Common",
+                "cr": "1/2",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "The ruffian makes two melee attacks."
+                    },
+                    {
+                        "name": "Shortsword",
+                        "text": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage.",
+                        "attack": "Shortsword|+4|1d6+2"
+                    }
+                ],
+                "description": "Redbrand ruffians are petty thugs and ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.\nSource: Lost Mine of Phandelver p. 61",
+                "environment": ""
+            },
+            {
+                "name": "Sildar Hallwinter",
+                "size": "M",
+                "type": "humanoid (human)",
+                "alignment": "Neutral Good",
+                "ac": "16 (chain mail)",
+                "hp": "27 (5d8+5)",
+                "speed": "walk 30 ft.",
+                "str": "13",
+                "dex": "10",
+                "con": "12",
+                "int": "10",
+                "wis": "11",
+                "cha": "10",
+                "save": "Str +3, Con +3",
+                "skill": "Perception +2",
+                "passive": "12",
+                "languages": "Common",
+                "cr": "1",
+                "resist": "",
+                "immune": "",
+                "vulnerable": "",
+                "conditionImmune": "",
+                "senses": "",
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "Sildar makes two melee attacks."
+                    },
+                    {
+                        "name": "Longsword",
+                        "text": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) slashing damage.",
+                        "attack": "Longsword|+3|1d8+1"
+                    },
+                    {
+                        "name": "Heavy Crossbow",
+                        "text": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. 5 (1d10) piercing damage.",
+                        "attack": "Heavy Crossbow|+2|1d10"
+                    }
+                ],
+                "reaction": {
+                    "name": "Parry",
+                    "text": "When an attacker hits Sildar with a melee attack and Sildar can see the attacker, he can roll 1d6 and add the number rolled to his AC against the triggering attack, provided that he's wielding a melee weapon."
+                },
+                "description": "Sildar Hallwinter is a retired soldier and sellsword who hails from the city of Neverwinter. He is a loyal member of the Lords' Alliance, a political organization that unites the various free cities and towns of the North.\nSource: Lost Mine of Phandelver p. 61",
+                "environment": ""
+            },
+            {
+                "name": "Venomfang",
+                "size": "L",
+                "type": "dragon",
+                "alignment": "Lawful Evil",
+                "ac": "18 (natural armor)",
+                "hp": "136 (16d10+48)",
+                "speed": "walk 40 ft., fly 80 ft., swim 40 ft.",
+                "str": "19",
+                "dex": "12",
+                "con": "17",
+                "int": "16",
+                "wis": "13",
+                "cha": "15",
+                "save": "Dex +4, Con +6, Wis +4, Cha +5",
+                "skill": "Deception +5, Perception +7, Stealth +4",
+                "passive": "17",
+                "languages": "Common, Draconic",
+                "cr": "8",
+                "resist": "",
+                "immune": "poison",
+                "vulnerable": "",
+                "conditionImmune": "poisoned",
+                "senses": "blindsight 30 ft., darkvision 120 ft.",
+                "trait": {
+                    "name": "Amphibious",
+                    "text": "Venomfang can breathe air and water."
+                },
+                "action": [
+                    {
+                        "name": "Multiattack",
+                        "text": "Venomfang makes three attacks: one with its bite and two with its claws."
+                    },
+                    {
+                        "name": "Bite",
+                        "text": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.",
+                        "attack": "Bite|+7|2d10+4"
+                    },
+                    {
+                        "name": "Claw",
+                        "text": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage.",
+                        "attack": "Claw|+7|2d6+4"
+                    },
+                    {
+                        "name": "Poison Breath (Recharge 5-6)",
+                        "text": "Venomfang exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.",
+                        "attack": "Poison Breath (Recharge 5-6)||12d6"
+                    }
+                ],
+                "description": "Source: Lost Mine of Phandelver p. 63",
+                "environment": "forest"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

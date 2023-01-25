@@ -1,0 +1,72 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Antilife Shell",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Aura of Life",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Bane",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "False Life",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Feign Death",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Legend Lore",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Phantasmal Force",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Phantom Steed",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Silence",
+                "classes": "Warlock (Undead (UA))"
+            },
+            {
+                "name": "Speak with Dead",
+                "classes": "Warlock (Undead (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

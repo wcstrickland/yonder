@@ -1,0 +1,16 @@
+{
+    "compendium": {
+        "item": {
+            "name": "Bonecounter",
+            "detail": "Melee Weapon",
+            "type": "M",
+            "weight": "4",
+            "property": "",
+            "dmg1": "1d6",
+            "dmgType": "B",
+            "text": "This weapon is a magical +2 mace called Bonecounter. Whenever this weapon is used to destroy an undead creature, a single silver piece appears in the wielder's pocket.\nSource: Essentials Kit: Sleeping Dragon's Wake"
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

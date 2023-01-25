@@ -1,0 +1,84 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Blink",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Commune",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Warlock (Raven Queen (UA)), Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Destructive Wave",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "False Life",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Feign Death",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Ice Storm",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Shield",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Silence",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Speak with Dead",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Spiritual Weapon",
+                "classes": "Warlock (Raven Queen (UA))"
+            },
+            {
+                "name": "Staggering Smite",
+                "classes": "Warlock (Hexblade (UA))"
+            },
+            {
+                "name": "Wrathful Smite",
+                "classes": "Warlock (Hexblade (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

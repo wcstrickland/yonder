@@ -1,0 +1,48 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Commune",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Guiding Bolt",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Haste",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Paladin (Glory)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

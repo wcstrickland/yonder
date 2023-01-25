@@ -1,0 +1,664 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Acid Splash",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Aid",
+                "classes": "Artificer, Cleric (Peace), Sorcerer (Clockwork Soul), Bard, Ranger"
+            },
+            {
+                "name": "Alarm",
+                "classes": "Artificer, Paladin (Watchers), Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Alter Self",
+                "classes": "Artificer, Artificer (Alchemist)"
+            },
+            {
+                "name": "Animate Dead",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Animate Objects",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Arcane Eye",
+                "classes": "Artificer, Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "Arcane Lock",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Arms of Hadar",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Aura of Life",
+                "classes": "Cleric (Twilight), Druid (Wildfire), Cleric"
+            },
+            {
+                "name": "Aura of Purity",
+                "classes": "Artificer (Battle Smith), Cleric (Peace), Paladin (Watchers), Cleric"
+            },
+            {
+                "name": "Aura of Vitality",
+                "classes": "Artificer (Battle Smith), Cleric (Twilight), Cleric, Druid"
+            },
+            {
+                "name": "Banishing Smite",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Banishment",
+                "classes": "Paladin (Watchers)"
+            },
+            {
+                "name": "Beacon of Hope",
+                "classes": "Cleric (Peace)"
+            },
+            {
+                "name": "Bigby's Hand",
+                "classes": "Artificer, Warlock (Fathomless), Sorcerer"
+            },
+            {
+                "name": "Blight",
+                "classes": "Druid (Spores), Artificer (Alchemist)"
+            },
+            {
+                "name": "Blindness/Deafness",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Blink",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Blur",
+                "classes": "Artificer, Warlock (Genie)"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Burning Hands",
+                "classes": "Warlock (Genie), Druid (Wildfire)"
+            },
+            {
+                "name": "Calm Emotions",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Charm Person",
+                "classes": "Ranger (Fey Wanderer)"
+            },
+            {
+                "name": "Circle of Power",
+                "classes": "Cleric (Twilight)"
+            },
+            {
+                "name": "Cloudkill",
+                "classes": "Druid (Spores), Artificer (Alchemist)"
+            },
+            {
+                "name": "Command",
+                "classes": "Cleric (Order), Bard"
+            },
+            {
+                "name": "Commune",
+                "classes": "Cleric (Order), Paladin (Glory)"
+            },
+            {
+                "name": "Compulsion",
+                "classes": "Cleric (Order), Paladin (Glory)"
+            },
+            {
+                "name": "Cone of Cold",
+                "classes": "Artificer (Artillerist), Warlock (Fathomless), Warlock (Genie), Druid"
+            },
+            {
+                "name": "Confusion",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Conjure Barrage",
+                "classes": "Artificer (Battle Smith)"
+            },
+            {
+                "name": "Contagion",
+                "classes": "Druid (Spores)"
+            },
+            {
+                "name": "Continual Flame",
+                "classes": "Artificer, Druid"
+            },
+            {
+                "name": "Control Water",
+                "classes": "Warlock (Fathomless), Warlock (Genie)"
+            },
+            {
+                "name": "Counterspell",
+                "classes": "Paladin (Watchers)"
+            },
+            {
+                "name": "Create Food and Water",
+                "classes": "Artificer, Warlock (Genie)"
+            },
+            {
+                "name": "Create or Destroy Water",
+                "classes": "Warlock (Fathomless)"
+            },
+            {
+                "name": "Creation",
+                "classes": "Artificer, Warlock (Genie)"
+            },
+            {
+                "name": "Cure Wounds",
+                "classes": "Artificer, Druid (Wildfire)"
+            },
+            {
+                "name": "Dancing Lights",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Darkvision",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Death Ward",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Detect Evil and Good",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Detect Magic",
+                "classes": "Artificer, Paladin (Watchers)"
+            },
+            {
+                "name": "Detect Thoughts",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Dimension Door",
+                "classes": "Ranger (Fey Wanderer)"
+            },
+            {
+                "name": "Disguise Self",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Dispel Magic",
+                "classes": "Artificer, Ranger (Fey Wanderer), Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Dissonant Whispers",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Dominate Person",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Artificer, Druid, Ranger"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Artificer, Paladin (Glory), Ranger, Wizard"
+            },
+            {
+                "name": "Enlarge/Reduce",
+                "classes": "Artificer, Bard, Druid"
+            },
+            {
+                "name": "Evard's Black Tentacles",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Expeditious Retreat",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fabricate",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Faerie Fire",
+                "classes": "Artificer, Cleric (Twilight), Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "False Life",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Feather Fall",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fire Bolt",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fire Shield",
+                "classes": "Artificer (Battle Smith), Artificer (Armorer), Warlock (Genie), Druid (Wildfire), Druid, Sorcerer"
+            },
+            {
+                "name": "Fireball",
+                "classes": "Artificer (Artillerist), Warlock (Genie)"
+            },
+            {
+                "name": "Flame Strike",
+                "classes": "Paladin (Glory), Warlock (Genie), Druid (Wildfire)"
+            },
+            {
+                "name": "Flaming Sphere",
+                "classes": "Artificer (Alchemist), Druid (Wildfire), Sorcerer"
+            },
+            {
+                "name": "Fly",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Fog Cloud",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Freedom of Movement",
+                "classes": "Artificer, Paladin (Glory), Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Gaseous Form",
+                "classes": "Druid (Spores), Artificer (Alchemist), Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "Gentle Repose",
+                "classes": "Druid (Spores), Paladin"
+            },
+            {
+                "name": "Glyph of Warding",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Grease",
+                "classes": "Artificer, Sorcerer"
+            },
+            {
+                "name": "Greater Invisibility",
+                "classes": "Artificer (Armorer), Cleric (Twilight), Warlock (Genie)"
+            },
+            {
+                "name": "Greater Restoration",
+                "classes": "Artificer, Cleric (Peace), Sorcerer (Clockwork Soul), Ranger"
+            },
+            {
+                "name": "Guidance",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Guiding Bolt",
+                "classes": "Paladin (Glory)"
+            },
+            {
+                "name": "Gust of Wind",
+                "classes": "Warlock (Fathomless), Warlock (Genie), Ranger"
+            },
+            {
+                "name": "Haste",
+                "classes": "Artificer, Paladin (Glory)"
+            },
+            {
+                "name": "Healing Word",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Heroism",
+                "classes": "Cleric (Order), Artificer (Battle Smith), Paladin (Glory), Cleric (Peace)"
+            },
+            {
+                "name": "Hold Monster",
+                "classes": "Paladin (Watchers)"
+            },
+            {
+                "name": "Hold Person",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Hunger of Hadar",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Hypnotic Pattern",
+                "classes": "Artificer (Armorer)"
+            },
+            {
+                "name": "Ice Storm",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Identify",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Insect Plague",
+                "classes": "Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "Invisibility",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Jump",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Leomund's Secret Chest",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Leomund's Tiny Hut",
+                "classes": "Cleric (Twilight)"
+            },
+            {
+                "name": "Lesser Restoration",
+                "classes": "Artificer, Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Levitate",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Light",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Lightning Bolt",
+                "classes": "Artificer (Armorer), Warlock (Fathomless)"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Cleric (Order)"
+            },
+            {
+                "name": "Longstrider",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mage Hand",
+                "classes": "Artificer, Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "Magic Missile",
+                "classes": "Artificer (Armorer)"
+            },
+            {
+                "name": "Magic Mouth",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Artificer, Paladin (Glory), Ranger, Sorcerer"
+            },
+            {
+                "name": "Mass Cure Wounds",
+                "classes": "Artificer (Battle Smith), Druid (Wildfire)"
+            },
+            {
+                "name": "Mass Healing Word",
+                "classes": "Cleric (Order), Artificer (Alchemist), Bard"
+            },
+            {
+                "name": "Meld into Stone",
+                "classes": "Warlock (Genie), Ranger"
+            },
+            {
+                "name": "Melf's Acid Arrow",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Mending",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Message",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mirror Image",
+                "classes": "Artificer (Armorer), Bard"
+            },
+            {
+                "name": "Mislead",
+                "classes": "Cleric (Twilight), Ranger (Fey Wanderer), Warlock"
+            },
+            {
+                "name": "Misty Step",
+                "classes": "Ranger (Fey Wanderer)"
+            },
+            {
+                "name": "Moonbeam",
+                "classes": "Cleric (Twilight), Paladin (Watchers)"
+            },
+            {
+                "name": "Mordenkainen's Faithful Hound",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Mordenkainen's Private Sanctum",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Nondetection",
+                "classes": "Paladin (Watchers)"
+            },
+            {
+                "name": "Otiluke's Resilient Sphere",
+                "classes": "Artificer, Cleric (Peace)"
+            },
+            {
+                "name": "Passwall",
+                "classes": "Artificer (Armorer)"
+            },
+            {
+                "name": "Phantasmal Force",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Phantasmal Killer",
+                "classes": "Warlock (Genie), Bard"
+            },
+            {
+                "name": "Plant Growth",
+                "classes": "Druid (Wildfire)"
+            },
+            {
+                "name": "Poison Spray",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Prestidigitation",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Artificer, Paladin (Glory), Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Sorcerer (Clockwork Soul), Druid"
+            },
+            {
+                "name": "Protection from Poison",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Purify Food and Drink",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Raise Dead",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Rary's Telepathic Bond",
+                "classes": "Cleric (Peace), Sorcerer (Aberrant Mind), Bard"
+            },
+            {
+                "name": "Ray of Frost",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Ray of Sickness",
+                "classes": "Artificer (Alchemist)"
+            },
+            {
+                "name": "Resistance",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Revivify",
+                "classes": "Artificer, Druid (Wildfire), Druid, Ranger"
+            },
+            {
+                "name": "Rope Trick",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Sanctuary",
+                "classes": "Artificer, Cleric (Peace), Warlock (Genie)"
+            },
+            {
+                "name": "Scorching Ray",
+                "classes": "Artificer (Artillerist), Warlock (Genie), Druid (Wildfire)"
+            },
+            {
+                "name": "Scrying",
+                "classes": "Paladin (Watchers)"
+            },
+            {
+                "name": "See Invisibility",
+                "classes": "Artificer, Cleric (Twilight), Paladin (Watchers)"
+            },
+            {
+                "name": "Seeming",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Sending",
+                "classes": "Cleric (Peace), Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Shatter",
+                "classes": "Artificer (Artillerist), Artificer (Armorer)"
+            },
+            {
+                "name": "Shield",
+                "classes": "Artificer (Artillerist), Artificer (Battle Smith)"
+            },
+            {
+                "name": "Shocking Grasp",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Silence",
+                "classes": "Warlock (Fathomless)"
+            },
+            {
+                "name": "Sleep",
+                "classes": "Cleric (Twilight)"
+            },
+            {
+                "name": "Sleet Storm",
+                "classes": "Warlock (Fathomless), Warlock (Genie)"
+            },
+            {
+                "name": "Slow",
+                "classes": "Cleric (Order), Bard"
+            },
+            {
+                "name": "Spare the Dying",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Spider Climb",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Spike Growth",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Stone Shape",
+                "classes": "Artificer, Warlock (Genie)"
+            },
+            {
+                "name": "Stoneskin",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Telekinesis",
+                "classes": "Sorcerer (Aberrant Mind)"
+            },
+            {
+                "name": "Thorn Whip",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Thunderwave",
+                "classes": "Artificer (Artillerist), Artificer (Armorer), Warlock (Fathomless), Warlock (Genie)"
+            },
+            {
+                "name": "Wall of Fire",
+                "classes": "Artificer (Artillerist)"
+            },
+            {
+                "name": "Wall of Force",
+                "classes": "Artificer (Artillerist), Artificer (Armorer), Sorcerer (Clockwork Soul)"
+            },
+            {
+                "name": "Wall of Stone",
+                "classes": "Artificer, Warlock (Genie)"
+            },
+            {
+                "name": "Warding Bond",
+                "classes": "Artificer (Battle Smith), Cleric (Peace), Paladin"
+            },
+            {
+                "name": "Water Breathing",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Water Walk",
+                "classes": "Artificer"
+            },
+            {
+                "name": "Web",
+                "classes": "Artificer, Ranger (Swarmkeeper)"
+            },
+            {
+                "name": "Wind Wall",
+                "classes": "Artificer (Artillerist), Warlock (Genie)"
+            },
+            {
+                "name": "Wish",
+                "classes": "Warlock (Genie)"
+            },
+            {
+                "name": "Zone of Truth",
+                "classes": "Cleric (Order)"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

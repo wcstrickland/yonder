@@ -1,0 +1,53 @@
+{
+    "compendium": {
+        "monster": {
+            "name": "Wildfire Spirit (UA)",
+            "size": "S",
+            "type": "elemental",
+            "alignment": "Any Chaotic Alignment",
+            "ac": "13 (natural armor)",
+            "hp": "0",
+            "speed": "walk 20 ft., fly 30 ft.",
+            "str": "10",
+            "dex": "14",
+            "con": "14",
+            "int": "13",
+            "wis": "15",
+            "cha": "11",
+            "save": "Dex +4, Con +4, Wis +4",
+            "skill": "Nature +4",
+            "passive": "12",
+            "languages": "understands the languages you speak",
+            "cr": "",
+            "resist": "",
+            "immune": "fire",
+            "vulnerable": "",
+            "conditionImmune": "charmed, frightened, grappled, prone, restrained",
+            "senses": "darkvision 60 ft.",
+            "trait": [
+                {
+                    "name": "Hit Points",
+                    "text": "equal to the Wildfire Spirit (UA)'s Constitution modifier + your Wisdom modifier + five times your level in this class"
+                },
+                {
+                    "name": "Soul Bond",
+                    "text": "The following numbers increase by 1 when your proficiency bonus increases by 1: the spirit's skill and saving throw bonuses above, the bonuses to hit and damage of its Flame Seed, and the bonus to damage of its Fiery Teleportation."
+                }
+            ],
+            "action": [
+                {
+                    "name": "Flame Seed",
+                    "text": "Ranged Weapon Attack: +4 to hit, range 30 ft., one target you can see. 1d6 + 2 fire damage."
+                },
+                {
+                    "name": "Fiery Teleportation (Recharges after a Short or Long Rest)",
+                    "text": "The spirit and each willing creature of your choice within 5 feet of it teleport up to 30 feet to unoccupied spaces you can see. Each creature within 10 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take 1d6 + 2 fire damage."
+                }
+            ],
+            "description": "Source: Unearthed Arcana: Cleric Druid Wizard p. 3",
+            "environment": ""
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

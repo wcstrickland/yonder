@@ -1,0 +1,108 @@
+{
+    "compendium": {
+        "race": [
+            {
+                "name": "Centaur (UA)",
+                "size": "M",
+                "speed": "40",
+                "ability": "Str 2, Wis 1",
+                "proficiency": "Survival",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Unearthed Arcana: Centaur (UA)s Minotaurs p. 1"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Centaur (UA)s mature and age at about the same rate as humans."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Centaur (UA)s are inclined toward neutrality."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Your size is Medium, yet you tower over most other humanoids."
+                    },
+                    {
+                        "name": "Charge",
+                        "text": "If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon's damage dice twice and add them together. Once you use this ability, you can't use it again until you finish a short or long rest."
+                    },
+                    {
+                        "name": "Hooves",
+                        "text": "Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier."
+                    },
+                    {
+                        "name": "Equine Build",
+                        "text": "You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot. Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount."
+                    },
+                    {
+                        "name": "Survivor",
+                        "text": "You have proficiency in the Survival skill."
+                    },
+                    {
+                        "name": "Hybrid Nature",
+                        "text": "You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Sylvan."
+                    }
+                ]
+            },
+            {
+                "name": "Minotaur (UA)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Str 2, Con 1",
+                "proficiency": "Intimidation",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "In 2015, Minotaur (UA)s appeared as a playtest option in Unearthed Arcana. Here is a revised set of traits for Minotaur (UA) player characters. These traits are suitable for Minotaur (UA)s on Krynn and in other D&D worlds where these people have avoided the demonic influence of Baphomet.\nSource: Unearthed Arcana: Centaurs Minotaur (UA)s p. 2"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Minotaur (UA)s enter adulthood at around the age of 17 and can live up to 150 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most Minotaur (UA)s lean toward lawful alignments."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Minotaur (UA)s average over 6 feet in height, and they have strong, stocky builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Horns",
+                        "text": "Your horns are natural melee weapons, with which you're proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier."
+                    },
+                    {
+                        "name": "Goring Rush",
+                        "text": "Immediately after you use the Dash action on your turn and move at least as far as your speed, you can make one melee attack with your horns as a bonus action."
+                    },
+                    {
+                        "name": "Hammering Horns",
+                        "text": "Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to shove that creature with your horns using your reaction. The creature must be no more than one size larger than you and within 5 feet of you. It must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier. If it fails, you push it up to 5 feet away from you."
+                    },
+                    {
+                        "name": "Menacing",
+                        "text": "You have proficiency in the Intimidation skill."
+                    },
+                    {
+                        "name": "Hybrid Nature",
+                        "text": "You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and Minotaur (UA)."
+                    }
+                ]
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "compendium": {
+        "class": {
+            "name": "Sorcerer",
+            "autolevel": [
+                {
+                    "feature": {
+                        "name": "Sorcerous Origin: Pyromancer (PSK)",
+                        "text": [
+                            "Your innate magic manifests in fire. You are your fire, and your fire is you.",
+                            "",
+                            "Source: Plane Shift: Kaladesh p. 9"
+                        ],
+                        "_optional": "YES"
+                    },
+                    "_level": "1"
+                },
+                {
+                    "feature": {
+                        "name": "Pyromancer (PSK): Heart of Fire",
+                        "text": [
+                            "At 1st level, whenever you start casting a spell of 1st level or higher that deals fire damage, fiery magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take fire damage equal to half your sorcerer level (minimum of 1).",
+                            "",
+                            "Source: Plane Shift: Kaladesh p. 9"
+                        ],
+                        "_optional": "YES"
+                    },
+                    "_level": "1"
+                },
+                {
+                    "feature": {
+                        "name": "Pyromancer (PSK): Fire in the Veins",
+                        "text": [
+                            "At 6th level, you gain resistance to fire damage. In addition, spells you cast ignore resistance to fire damage.",
+                            "",
+                            "Source: Plane Shift: Kaladesh p. 9"
+                        ],
+                        "_optional": "YES"
+                    },
+                    "_level": "6"
+                },
+                {
+                    "feature": {
+                        "name": "Pyromancer (PSK): Pyromancer's Fury",
+                        "text": [
+                            "Starting at 14th level, when you are hit by a melee attack, you can use your reaction to deal fire damage to the attacker. The damage equals your sorcerer level, and ignores resistance to fire damage.",
+                            "",
+                            "Source: Plane Shift: Kaladesh p. 9"
+                        ],
+                        "_optional": "YES"
+                    },
+                    "_level": "14"
+                },
+                {
+                    "feature": {
+                        "name": "Pyromancer (PSK): Fiery Soul",
+                        "text": [
+                            "At 18th level, you gain immunity to fire damage. In addition, any spell or effect you create ignores resistance to fire damage and treats immunity to fire damage as resistance to fire damage.",
+                            "",
+                            "Source: Plane Shift: Kaladesh p. 9"
+                        ],
+                        "_optional": "YES"
+                    },
+                    "_level": "18"
+                }
+            ]
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

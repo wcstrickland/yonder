@@ -1,0 +1,51 @@
+{
+    "compendium": {
+        "monster": {
+            "name": "Dancing Item (UA)",
+            "size": "L",
+            "type": "construct",
+            "alignment": "Neutral",
+            "ac": "16 (natural armor)",
+            "hp": "3",
+            "speed": "walk 40 ft.",
+            "str": "18",
+            "dex": "14",
+            "con": "16",
+            "int": "4",
+            "wis": "10",
+            "cha": "6",
+            "save": "",
+            "skill": "",
+            "passive": "10",
+            "languages": "understands the languages you speak",
+            "cr": "",
+            "resist": "",
+            "immune": "poison",
+            "vulnerable": "",
+            "conditionImmune": "charmed, exhaustion, poisoned, frightened",
+            "senses": "darkvision 60 ft.",
+            "trait": [
+                {
+                    "name": "Hit Points",
+                    "text": "equal the Dancing Item (UA)'s Constitution modifier + your Charisma modifier + five times your level in this class"
+                },
+                {
+                    "name": "Endless Waltz",
+                    "text": "Immediately after the item makes a slam attack, it can take the Dodge action as a bonus action."
+                },
+                {
+                    "name": "Immutable Form",
+                    "text": "The item is immune to any spell or effect that would alter its form."
+                }
+            ],
+            "action": {
+                "name": "Force-Empowered Slam",
+                "text": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. 1d10 + your Charisma modifier force damage."
+            },
+            "description": "Source: Unearthed Arcana: 2020 Subclasses Pt2 p. 2",
+            "environment": ""
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

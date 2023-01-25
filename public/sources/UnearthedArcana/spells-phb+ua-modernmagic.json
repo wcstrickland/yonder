@@ -1,0 +1,24 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Comprehend Languages",
+                "classes": "Cleric (City (UA))"
+            },
+            {
+                "name": "Heat Metal",
+                "classes": "Cleric (City (UA))"
+            },
+            {
+                "name": "Lightning Bolt",
+                "classes": "Cleric (City (UA))"
+            },
+            {
+                "name": "Locate Creature",
+                "classes": "Cleric (City (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "compendium": {
+        "feat": [
+            {
+                "name": "Invocation: Close Quarters Shooter (UA)",
+                "prerequisite": "",
+                "text": "When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.\nSource: Unearthed Arcana: Light Dark Underdark p. 1"
+            },
+            {
+                "name": "Invocation: Tunnel Fighter (UA)",
+                "prerequisite": "",
+                "text": "As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.\nSource: Unearthed Arcana: Light Dark Underdark p. 1"
+            },
+            {
+                "name": "Maneuver: Close Quarters Shooter (UA) (UA)",
+                "prerequisite": "",
+                "text": "When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.\nSource: Unearthed Arcana: Light Dark Underdark p. 1\nSource: Unearthed Arcana: Light Dark Underdark p. 1"
+            },
+            {
+                "name": "Maneuver: Tunnel Fighter (UA) (UA)",
+                "prerequisite": "",
+                "text": "As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.\nSource: Unearthed Arcana: Light Dark Underdark p. 1\nSource: Unearthed Arcana: Light Dark Underdark p. 1"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

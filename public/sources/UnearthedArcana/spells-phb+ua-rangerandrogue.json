@@ -1,0 +1,48 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Alter Self",
+                "classes": "Ranger (Horizon Walker (UA))"
+            },
+            {
+                "name": "Banishment",
+                "classes": "Ranger (Horizon Walker (UA))"
+            },
+            {
+                "name": "Conjure Animals",
+                "classes": "Ranger (Primeval Guardian (UA))"
+            },
+            {
+                "name": "Enhance Ability",
+                "classes": "Ranger (Primeval Guardian (UA))"
+            },
+            {
+                "name": "Entangle",
+                "classes": "Ranger (Primeval Guardian (UA))"
+            },
+            {
+                "name": "Giant Insect",
+                "classes": "Ranger (Primeval Guardian (UA))"
+            },
+            {
+                "name": "Insect Plague",
+                "classes": "Ranger (Primeval Guardian (UA))"
+            },
+            {
+                "name": "Protection from Energy",
+                "classes": "Ranger (Horizon Walker (UA))"
+            },
+            {
+                "name": "Protection from Evil and Good",
+                "classes": "Ranger (Horizon Walker (UA))"
+            },
+            {
+                "name": "Teleportation Circle",
+                "classes": "Ranger (Horizon Walker (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

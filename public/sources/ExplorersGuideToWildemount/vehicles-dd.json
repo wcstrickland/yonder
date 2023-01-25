@@ -1,0 +1,52 @@
+{
+    "compendium": {
+        "monster": {
+            "name": "Stahlmaster",
+            "size": "L",
+            "type": "CREATURE",
+            "alignment": "Unaligned",
+            "ac": "16 (natural armor)",
+            "hp": "67 (9d10+18)",
+            "speed": "walk 30 ft.",
+            "str": "18",
+            "dex": "10",
+            "con": "14",
+            "int": "0",
+            "wis": "0",
+            "cha": "0",
+            "save": "",
+            "skill": "",
+            "languages": "",
+            "cr": "",
+            "resist": "",
+            "immune": "poison, psychic",
+            "vulnerable": "",
+            "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious",
+            "senses": "",
+            "trait": {
+                "name": "Pilot",
+                "text": "The Stahlmaster requires a Medium humanoid to pilot it. While inside the Stahlmaster, the pilot uses the vehicle's speed and action options and can't take reactions or use bonus actions, and the pilot has total cover. If the Stahlmaster drops to 0 hit points, the pilot is ejected from it and lands prone in an unoccupied space within 5 feet of the vehicle."
+            },
+            "action": [
+                {
+                    "name": "Multiattack",
+                    "text": "The Stahlmaster makes two melee attacks, or one melee attack and one ranged attack."
+                },
+                {
+                    "name": "Slam",
+                    "text": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. 9 (1d10 + 4) bludgeoning damage.",
+                    "attack": "Slam|+6|1d10+4"
+                },
+                {
+                    "name": "Shoulder-Mounted Crossbow",
+                    "text": "Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. 6 (1d12) piercing damage.",
+                    "attack": "Shoulder-Mounted Crossbow|+2|1d12"
+                }
+            ],
+            "description": "Source: Wildemount: Dangerous Designs p. 235",
+            "environment": ""
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

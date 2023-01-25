@@ -1,0 +1,294 @@
+{
+    "compendium": {
+        "race": [
+            {
+                "name": "Goblin (Ixalan)",
+                "size": "S",
+                "speed": "25",
+                "ability": "Dex 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 16"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Goblins mature faster than humans, reaching adulthood around age 12. They age noticeably faster, and though few goblins live to old age, the most cautious rarely live longer than 50 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most goblins are wildly chaotic, with no particular inclination toward good or evil but a strong tendency toward mischief."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Goblins average about 3 feet tall and weigh about 40 pounds. Your size is Small."
+                    },
+                    {
+                        "name": "Agile Climber",
+                        "text": "You have a climbing speed of 25 feet. You can't use your climbing speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your climbing speed if you are encumbered.)"
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign) and Goblin."
+                    }
+                ]
+            },
+            {
+                "name": "Human (Ixalan)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 11"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Humans reach adulthood in their late teens and live less than a century."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Humans tend toward no particular alignment. The best and the worst are found among them."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common and one extra language of your choice. Or, if your campaign uses the optional rules for languages found in the previous section, your national origin determines your native language: Itzocan for the Sun Empire, Coalition pidgin for the Brazen Coalition, or Vampire for the Legion of Dusk. You still speak one additional language of your choice, and Common if it exists in your campaign."
+                    }
+                ]
+            },
+            {
+                "name": "Merfolk (Ixalan) (Blue)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 1, Int 2",
+                "proficiency": "History, Nature",
+                "spellAbility": "Intelligence",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 12"
+                    },
+                    {
+                        "name": "Cantrip",
+                        "text": "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
+                    },
+                    {
+                        "name": "Lore of the Waters",
+                        "text": "You gain proficiency in the History and Nature skills."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most merfolk are neutral, living in close harmony with nature."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Merfolk are significantly taller than most humans, standing between seven and eight feet tall and averaging about 300 pounds. Your size is Medium."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Swimming",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign), Merfolk, and one additional language of your choice."
+                    }
+                ]
+            },
+            {
+                "name": "Merfolk (Ixalan) (Green)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 1, Wis 2",
+                "proficiency": "",
+                "spellAbility": "Wisdom",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 12"
+                    },
+                    {
+                        "name": "Cantrip",
+                        "text": "You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it."
+                    },
+                    {
+                        "name": "Mask of the Wild",
+                        "text": "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Merfolk mature at the same rate humans do and reach adulthood around the age of 20. They live considerably longer than humans, though, often reaching well over 100 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most merfolk are neutral, living in close harmony with nature."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Merfolk are significantly taller than most humans, standing between seven and eight feet tall and averaging about 300 pounds. Your size is Medium."
+                    },
+                    {
+                        "name": "Amphibious",
+                        "text": "You can breathe air and water."
+                    },
+                    {
+                        "name": "Swimming",
+                        "text": "You have a swimming speed of 30 feet."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign), Merfolk, and one additional language of your choice."
+                    }
+                ]
+            },
+            {
+                "name": "Orc (Ixalan)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Str 2, Con 1",
+                "proficiency": "Intimidation",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 15"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most orcs lean toward chaotic alignments, and many serve on pirate ships that encourage an inclination toward evil."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Orcs average over 6 feet in height, and they have strong, stocky builds. Your size is Medium."
+                    },
+                    {
+                        "name": "Menacing",
+                        "text": "You gain proficiency in the Intimidation skill."
+                    },
+                    {
+                        "name": "Relentless Endurance",
+                        "text": "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest."
+                    },
+                    {
+                        "name": "Savage Attacks",
+                        "text": "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign) and Orc."
+                    }
+                ]
+            },
+            {
+                "name": "Siren",
+                "size": "M",
+                "speed": "25",
+                "ability": "Cha 2",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 17"
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Most sirens lean toward chaotic alignment, cherishing the freedom and independence that comes from joining a pirate crew."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Sirens stand about 5 to 6 feet tall, but their bodies are slender and their bones partially hollow to facilitate their flight. Your size is Medium."
+                    },
+                    {
+                        "name": "Siren's Song",
+                        "text": "You know the friends cantrip and can cast it without material components."
+                    },
+                    {
+                        "name": "Flight",
+                        "text": "You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)"
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign) and Siren."
+                    }
+                ]
+            },
+            {
+                "name": "Vampire (Ixalan)",
+                "size": "M",
+                "speed": "30",
+                "ability": "Cha 2, Wis 1",
+                "proficiency": "",
+                "spellAbility": "",
+                "trait": [
+                    {
+                        "name": "Description",
+                        "text": "Source: Plane Shift: Ixalan p. 14"
+                    },
+                    {
+                        "name": "Age",
+                        "text": "Vampires don't mature and age in the same way that other races do."
+                    },
+                    {
+                        "name": "Alignment",
+                        "text": "Vampires might not have an innate tendency toward evil, but many of them end up there. Evil or not, their strict hierarchies incline them toward a lawful alignment."
+                    },
+                    {
+                        "name": "Size",
+                        "text": "Vampires are the same size and build as humans. Your size is Medium."
+                    },
+                    {
+                        "name": "Bloodthirst",
+                        "text": "You can drain blood and life energy from a willing creature, or one that is grappled by you, incapacitated, or restrained. Make a melee attack against the target. If you hit, you deal 1 piercing damage and 1d6 necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and you regain hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces it's hit point maximum to 0."
+                    },
+                    {
+                        "name": "Feast of Blood",
+                        "text": "When you drain blood with your Bloodthirst ability, you experience a surge of vitality. Your speed increases by 10 feet, and you gain advantage on Strength and Dexterity checks and saving throws for 1 minute."
+                    },
+                    {
+                        "name": "Vampiric Resistance",
+                        "text": "You have resistance to necrotic damage."
+                    },
+                    {
+                        "name": "Darkvision",
+                        "text": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                    },
+                    {
+                        "name": "Languages",
+                        "text": "You can speak, read, and write Common (if it exists in your campaign) and Vampire."
+                    }
+                ]
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

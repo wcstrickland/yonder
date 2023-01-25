@@ -1,0 +1,11 @@
+{
+    "compendium": {
+        "feat": {
+            "name": "Invocation: Arcane Gunslinger (UA)",
+            "prerequisite": "Pact of the Blade",
+            "text": "You can create a pact weapon that is a sidearm or long arm, and you can transform a magical sidearm or long arm into your pact weapon.\nSource: Unearthed Arcana: Modern Magic p. 3"
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "compendium": {
+        "race": {
+            "name": "Orc",
+            "size": "M",
+            "speed": "30",
+            "ability": "Str 2, Con 1",
+            "proficiency": "",
+            "spellAbility": "",
+            "trait": [
+                {
+                    "name": "Description",
+                    "text": "Source: Explorer's Guide to Wildemount p. 178"
+                },
+                {
+                    "name": "Age",
+                    "text": "Orcs reach adulthood at age 16, and live up to 80 years."
+                },
+                {
+                    "name": "Alignment",
+                    "text": "Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it)."
+                },
+                {
+                    "name": "Size",
+                    "text": "Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium."
+                },
+                {
+                    "name": "Darkvision",
+                    "text": "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                },
+                {
+                    "name": "Aggressive",
+                    "text": "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+                },
+                {
+                    "name": "Primal Intuition",
+                    "text": "You have proficiency in two of the following skills of your choice: Animal Handling, Insight, Intimidation, Medicine, Perception, and Survival."
+                },
+                {
+                    "name": "Powerful Build",
+                    "text": "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+                },
+                {
+                    "name": "Languages",
+                    "text": "You can speak, read, and write Common and Orc."
+                }
+            ]
+        },
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Abi-Dalzim's Horrid Wilting",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Cause Fear",
+                "classes": "Bard, Cleric"
+            },
+            {
+                "name": "Ceremony",
+                "classes": "Druid"
+            },
+            {
+                "name": "Create Homunculus",
+                "classes": "Warlock"
+            },
+            {
+                "name": "Dawn",
+                "classes": "Druid, Paladin"
+            },
+            {
+                "name": "Immolation",
+                "classes": "Druid"
+            },
+            {
+                "name": "Life Transference",
+                "classes": "Paladin, Warlock"
+            },
+            {
+                "name": "Mass Polymorph",
+                "classes": "Druid"
+            },
+            {
+                "name": "Mental Prison",
+                "classes": "Bard"
+            },
+            {
+                "name": "Mind Spike",
+                "classes": "Bard"
+            },
+            {
+                "name": "Power Word Pain",
+                "classes": "Bard"
+            },
+            {
+                "name": "Primal Savagery",
+                "classes": "Sorcerer"
+            },
+            {
+                "name": "Scatter",
+                "classes": "Bard"
+            },
+            {
+                "name": "Skill Empowerment",
+                "classes": "Cleric"
+            },
+            {
+                "name": "Tenser's Transformation",
+                "classes": "Bard"
+            },
+            {
+                "name": "Thunder Step",
+                "classes": "Druid"
+            },
+            {
+                "name": "Tiny Servant",
+                "classes": "Bard"
+            },
+            {
+                "name": "Wall of Light",
+                "classes": "Cleric"
+            },
+            {
+                "name": "Wall of Sand",
+                "classes": "Druid"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}

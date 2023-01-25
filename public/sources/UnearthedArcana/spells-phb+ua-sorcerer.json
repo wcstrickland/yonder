@@ -1,0 +1,44 @@
+{
+    "compendium": {
+        "spell": [
+            {
+                "name": "Blinding Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Branding Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Compelled Duel",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Elemental Weapon",
+                "classes": "Sorcerer (Stone (UA)), Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Magic Weapon",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Searing Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Staggering Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Thunderous Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            },
+            {
+                "name": "Wrathful Smite",
+                "classes": "Sorcerer (Stone (UA))"
+            }
+        ],
+        "_version": "5",
+        "_auto_indent": "NO"
+    }
+}
