@@ -1,7 +1,5 @@
 const {app, BrowserWindow} = require('electron')
 
-const remoteMain = require("@electron/remote/main")
-remoteMain.initialize()
 
 function createWindow(){
     const win = new BrowserWindow({
@@ -15,7 +13,6 @@ function createWindow(){
             webSecurity: false 
         }
     })
-    remoteMain.enable(win.webContents)
     // win.loadURL('http://localhost:3000')
     win.loadURL(`${app.getAppPath()}/build/index.html`)
 }

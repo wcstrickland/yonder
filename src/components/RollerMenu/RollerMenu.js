@@ -50,6 +50,7 @@ export default function RollerMenu() {
         }else{
             result += ` for a total of ${total}`
         }
+        navigator.clipboard.writeText(result)
         return result
     }
 
@@ -84,7 +85,6 @@ export default function RollerMenu() {
                 className='execute-roll' 
                 onClick={() => {
                         toggleModal(isCrit)
-                        navigator.clipboard.writeText(outCome)
                 }}
                 onContextMenu={(e)=>{
                     e.preventDefault()
@@ -98,7 +98,6 @@ export default function RollerMenu() {
                 className='execute-crit' 
                 onClick={() => {
                         toggleModal(isCrit)
-                        navigator.clipboard.writeText(outCome)
                 }}
                 onContextMenu={(e)=>{
                     e.preventDefault()

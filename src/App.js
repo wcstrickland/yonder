@@ -10,8 +10,6 @@ export default function App() {
     <Routes>
       <Route path="/" element={<MonsterSearchPage/>} />
       <Route path="/monster/:id" element={<MonsterPage/>} />
-      <Route path="/character" element={<CharSheet />} />
-      <Route path="/test" element={<CharSheet />} />
     </Routes>
   );
 }
