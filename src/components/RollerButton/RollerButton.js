@@ -19,8 +19,10 @@ export default function RollerButton(props) {
         let rolls = []
         for (let i = 0; i <= number; i++) {
             if (i == number) {
-                rolls.push(` mod (${processedMod})`)
-                total += parseInt(processedMod)
+                if(mod !==0){
+                    rolls.push(` mod (${processedMod})`)
+                    total += parseInt(processedMod)
+                }
             } else {
                 let roll = randomNumber(1, sides)
                 rolls.push(roll)
@@ -41,7 +43,7 @@ export default function RollerButton(props) {
                     
                     setOutPut(op)
                     navigator.clipboard.writeText(op)
-                }}>{number}d{sides}+{processedMod}</button>
+                }}>{number}d{sides}{mod !== "" ? `+ ${mod}`: ""}</button>
                 <input style={{ marginTop: "1em", marginBottom: "1em" }} disabled value={outPut} />
             </div>
         </>

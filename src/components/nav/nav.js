@@ -10,7 +10,9 @@ function Nav() {
                     <li style={{marginLeft : "1em"}}><strong>Yonder</strong></li>
                 </ul>
                 <ul style={{marginRight : "2em"}}>
-                    <li><Link to="/">Search</Link></li>
+                    <li><Link to="/">Monsters</Link></li>
+                    <li><Link to="/feats">Feats</Link></li>
+                    <li><Link to="/spells">Spells</Link></li>
                 </ul>
             </nav>
         </>
