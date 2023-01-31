@@ -36,7 +36,7 @@ export default function FeatDropDown(props) {
         // searchList = searchList.filter(x => {
         //     return (x.modifier !== undefined && x.modifier.__text !== undefined && x.modifier.__text.includes(stat))
         // })
-        console.log(fuse.search(stat))
+        
         searchList = fuse.search(stat)
         fuse = new Fuse(searchList, options)
     }

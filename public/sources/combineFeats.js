@@ -25,19 +25,19 @@ function nex(){
                         }
                     }
                 }catch(e){
-                    console.log(e)
+                    
                 }
             }
         }catch(e){
-            console.log(e)
+            
         }
     }
 
     fs.writeFileSync("all_feats.json", JSON.stringify({"feats": feats }), (err) =>{
         if(err){
-            console.log(err)
+            
         }else{
-            console.log("great success")
+            
         }
     })
 }

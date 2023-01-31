@@ -25,19 +25,19 @@ function nex(){
                         }
                     }
                 }catch(e){
-                    console.log(e)
+                    
                 }
             }
         }catch(e){
-            console.log(e)
+            
         }
     }
 
     fs.writeFileSync("monsters.json", JSON.stringify({"monsters": monsters }), (err) =>{
         if(err){
-            console.log(err)
+            
         }else{
-            console.log("great success")
+            
         }
     })
 }

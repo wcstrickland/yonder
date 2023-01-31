@@ -52,5 +52,5 @@ if ((process.cwd()).includes("src")) {
     //file written successfully
     })
     } else {
-        console.log("The current working directory is not 'src'")
+        
     }

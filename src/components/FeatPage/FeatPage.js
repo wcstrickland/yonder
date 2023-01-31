@@ -8,7 +8,6 @@ export default function FeatPage(){
     const { id } = useParams()
     const feats = featJson["feats"]
     const feat = feats[parseInt(id)]
-    console.log(feat)
 
     return(
         <>

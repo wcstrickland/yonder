@@ -8,7 +8,7 @@ export default function SpellPage(){
     const { id } = useParams()
     const spells = spellJson["spells"]
     const spell = spells[parseInt(id)]
-    console.log(spell)
+    
 
     return(
         <>

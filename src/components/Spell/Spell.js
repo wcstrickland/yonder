@@ -25,7 +25,7 @@ export default function Spell({ name, classes, level, school, ritual, time, rang
                 sides += char
             }
         }
-        console.log(sides)
+        
         return [parseInt(numDice), parseInt(sides)]
     }
 

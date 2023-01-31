@@ -15,7 +15,6 @@ function MonsterSheet(props){
 
     return(
         <>
-        <div>{monster.name}</div>
             {properties.map(pr => <SheetSection property={pr.property} value={pr.value} children={pr.children} />)}
         </>
     );

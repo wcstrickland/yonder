@@ -111,11 +111,27 @@ function SheetSection(props) {
         subProperties.push(valToAdd)
     }
 
+    let sizeMapping = {
+        "trait": "section-full-width",
+        "description": "section-full-width",
+        "action": "section-full-width",
+        "legendary": "section-full-width",
+        "spells": "section-two-wide",
+        "hp": "section-two-wide",
+        "conditionImmune": "section-two-wide"
+    }
+
+    let dynCssClass = props.property in sizeMapping 
+        ? sizeMapping[props.property]
+        : "section-small"
+
+    let CssForCards = ""
     // if terminal lets render the data or the str data if we needed to join an array of strings
     // else recurse child elements
     function renderResult() {
         if (isTerminal) {
             if (strData.length > 0) {
+                CssForCards = strData.length < 10 ? "small-card": "medium-card"
                 return (
                     <>
                         {strData}
@@ -124,6 +140,8 @@ function SheetSection(props) {
                 )
             }
 
+            console.log(data)
+            CssForCards = (data && data.length < 30) ? "small-card": "medium-card"
             return (
                 <>
                     {data}
@@ -133,14 +151,15 @@ function SheetSection(props) {
         }
         return subProperties.map(sp => <SheetSection property={sp.property} value={sp.value} children={sp.children} />)
     }
-
+    
     let result = renderResult()
+
 
     return (
         <>
-            <article>
-                <header>{props.property}</header>
-                {result}
+            <article className={dynCssClass} >
+                <header style={{display:"flex", justifyContent:"center"}}>{props.property}</header>
+                <div className={CssForCards}>{result}</div>
             </article>
         </>
     );

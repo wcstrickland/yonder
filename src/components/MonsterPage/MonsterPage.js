@@ -9,7 +9,7 @@ export default function MonsterPage(){
     const { id } = useParams()
     const monsters = monsterJson["monsters"]
     const monster = monsters[parseInt(id)]
-    console.log(monster)
+    
 
     return(
         <>

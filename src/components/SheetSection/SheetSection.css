@@ -1,16 +1,23 @@
+@media screen and (min-width: 600px) {
+  .section-full-width {
+    grid-column: span 3 / auto;
+  }
 
-.SheetSection{
-
-}
-.SheetSection-title{
-
-}
-
-.SheetSection-img{
-
-}
-
-.SheetSection-misc{
-
+  .section-small {
+    grid-column: span auto;
+  }
+  .section-two-wide {
+    grid-column: span 2 / auto;
+  }
 }
 
+.small-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.medium-card {
+  display: flex;
+  flex-direction: column;
+}

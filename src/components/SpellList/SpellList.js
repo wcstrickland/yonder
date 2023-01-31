@@ -5,7 +5,7 @@ import Spell from '../Spell/Spell';
 export default function SpellList(props){
     // const spells = spellJson["spells"]
     const { needParseItems, spells, goBack } = props
-    console.log(spells)
+    
 
     let parsedSpells;
     let nonParseSpells;
