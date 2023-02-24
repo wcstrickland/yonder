@@ -118,20 +118,57 @@ function SheetSection(props) {
         "legendary": "section-full-width",
         "spells": "section-two-wide",
         "hp": "section-two-wide",
+        "skill": "section-two-wide",
         "conditionImmune": "section-two-wide"
     }
 
-    let dynCssClass = props.property in sizeMapping 
+    let dynCssClass = props.property in sizeMapping
         ? sizeMapping[props.property]
         : "section-small"
 
     let CssForCards = ""
+    const abilityModifiers = {
+        "1": -5,
+        "2": -4,
+        "3": -4,
+        "4": -3,
+        "5": -3,
+        "6": -2,
+        "7": -2,
+        "8": -1,
+        "9": -1,
+        "10": 0,
+        "11": 0,
+        "12": 1,
+        "13": 1,
+        "14": 2,
+        "15": 2,
+        "16": 3,
+        "17": 3,
+        "18": 4,
+        "19": 4,
+        "20": 5,
+        "21": 5,
+        "22": 6,
+        "23": 6,
+        "24": 7,
+    }
+    const stats = ["str", "dex", "con", "wis", "cha", "int"]
+    let abilityMod = ""
+
     // if terminal lets render the data or the str data if we needed to join an array of strings
     // else recurse child elements
     function renderResult() {
         if (isTerminal) {
+            if(stats.includes(props.property)){
+                abilityMod = abilityModifiers[data]
+                if(abilityMod>=0){
+                    abilityMod = ` +${abilityMod}`
+                }
+                console.log(abilityMod)
+            }
             if (strData.length > 0) {
-                CssForCards = strData.length < 10 ? "small-card": "medium-card"
+                CssForCards = strData.length < 10 ? "small-card" : "medium-card"
                 return (
                     <>
                         {strData}
@@ -140,8 +177,7 @@ function SheetSection(props) {
                 )
             }
 
-            console.log(data)
-            CssForCards = (data && data.length < 30) ? "small-card": "medium-card"
+            CssForCards = (data && data.length < 30) ? "small-card" : "medium-card"
             return (
                 <>
                     {data}
@@ -151,15 +187,15 @@ function SheetSection(props) {
         }
         return subProperties.map(sp => <SheetSection property={sp.property} value={sp.value} children={sp.children} />)
     }
-    
+
     let result = renderResult()
 
 
     return (
         <>
             <article className={dynCssClass} >
-                <header style={{display:"flex", justifyContent:"center"}}>{props.property}</header>
-                <div className={CssForCards}>{result}</div>
+                <header style={{ display: "flex", justifyContent: "center" }}>{props.property.toUpperCase()}</header>
+                <div className={CssForCards}>{result} {abilityMod &&  abilityMod}</div>
             </article>
         </>
     );

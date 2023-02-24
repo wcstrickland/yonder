@@ -11,6 +11,7 @@ import SpellSearchPage from './components/SpellSearchPage/SpellSearchPage'
 import SpellList from './components/SpellList/SpellList';
 import ClassPage from './components/ClassPage/ClassPage';
 import ClassSearchPage from './components/ClassSearchPage/ClassSearchPage';
+import Initiative from './components/initiative/initiative';
 
 export default function App() {
   return (
@@ -25,6 +26,7 @@ export default function App() {
       <Route path="/spells" element={<SpellSearchPage/>} />
       <Route path="/allspells" element={<SpellList/>} />
       <Route path="/allfeats" element={<FeatList/>} />
+      <Route path="/initiative" element={<Initiative/>} />
     </Routes>
   );
 }

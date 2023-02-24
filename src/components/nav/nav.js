@@ -14,6 +14,7 @@ function Nav() {
                     <li><Link to="/feats">Feats</Link></li>
                     <li><Link to="/spells">Spells</Link></li>
                     <li><Link to="/classes">Classes</Link></li>
+                    <li><Link to="/initiative">initiative</Link></li>
                 </ul>
             </nav>
         </>

@@ -1,0 +1,184 @@
+dt {
+  background-color: #caad6b;
+}
+h3 {
+  padding: 0;
+  margin: 0;
+  background-color: #e0e4c0;
+  text-align: center;
+}
+table.noborder,
+td.noborder {
+  border-style: none;
+}
+.nobackground {
+  background: rgba(0, 0, 0, 0);
+}
+td {
+  border: 1px solid #caad6b;
+}
+th {
+  border: 1px solid #caad6b;
+  background-color: #caad6b;
+}
+a {
+  text-decoration: underline !important;
+  font-weight: bold !important;
+}
+
+/* For smaller table font */
+.small-font table tr td {
+  padding: 0px 0px 0px 0px;
+  font-size: 10px;
+}
+
+.small-font th {
+  font-size: 10px;
+}
+
+/* TOC Collapsable Stuff */
+
+.collapsibleList li > input + * {
+  display: none;
+}
+
+.collapsibleList li > input:checked + * {
+  display: block;
+}
+
+.collapsibleList li > input {
+  display: none;
+}
+
+ol {
+  counter-reset: li; /* Initiate a counter */
+  list-style: none; /* Remove default numbering */
+  padding: 0;
+  margin-bottom: 4em;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+ol ol {
+  margin: 0 0 0 2em;
+}
+.collapsibleList a,
+label {
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+  font-weight: bold !important;
+  position: relative;
+  display: block;
+  padding: 0.4em 0.4em 0.4em 2em;
+  *padding: 0.4em;
+  margin: 0.5em 0;
+  background: #caad6b;
+  color: #fff;
+  text-decoration: none !important;
+  border-radius: 0.3em;
+  transition: all 0.3s ease-out;
+}
+
+.collapsibleList a:before {
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: -1.3em;
+  top: 50%;
+  margin-top: -1.3em;
+  background: #581a0f;
+  color: #ffffff;
+  height: 2em;
+  width: 2em;
+  line-height: 2em;
+  border: 0.2em solid #fff;
+  text-align: center;
+  border-radius: 2em;
+  transition: all 0.3s ease-out;
+}
+/* This is for the version number in the upper right hand corner */
+.ribbon {
+  background: #581a0f;
+  border-left: 1px groove #caad6b;
+  border-right: 1px groove #caad6b;
+  border-radius: 5px 5px 0px 0px;
+  box-shadow: 5px 0 0 #581a0f, -5px 0 0 #581a0f;
+  height: 52px;
+  margin: 0 5px;
+  position: relative;
+  float: right;
+  top: 40px;
+  right: 7px;
+  width: 40px;
+  z-index: 1;
+  -webkit-filter: drop-shadow(0 2px 5px hsla(0, 0%, 0%, 0.5));
+}
+/* Uncomment to give a banner effect */
+
+.ribbon:after,
+.ribbon:before {
+  border-top: 10px solid #581a0f;
+  content: "";
+  height: 0;
+  position: absolute;
+  top: 100%;
+  width: 0;
+  z-index: 1;
+}
+.ribbon:after {
+  border-left: 27px solid transparent;
+  right: -6px;
+  z-index: 1;
+}
+.ribbon:before {
+  border-right: 27px solid transparent;
+  z-index: 1;
+  left: -6px;
+}
+/* This centers text in the banner */
+.ribbon-text {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  height: 30%;
+  width: 50%;
+  margin: -15% 0 0 -47%;
+  font-weight: bold;
+  font-size: 10px;
+  color: #f0f0f0;
+  text-align: center;
+}
+
+.behind {
+  position: relative;
+  z-index: 0;
+  padding-top: 5px;
+}
+/* Back to top option */
+
+nav {
+  position: relative;
+  z-index: 2;
+  top: 0px;
+  background: #fff;
+}
+
+.to-top,
+.to-top a,
+.to-top a:visited {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  display: block !important;
+  width: 100%;
+  text-decoration: none !important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+  color: #ffffff !important;
+  line-height: 2em;
+  text-align: center;
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+  font-weight: bold !important;
+  background: #581a0f;
+}
+body {
+  text-rendering: optimizeLegibility;
+}

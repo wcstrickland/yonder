@@ -1,0 +1,24 @@
+
+.initSection{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.initSection > input{
+    max-width: 35em;
+    margin-top: 1em;
+}
+
+.initSection-title{
+
+}
+
+.initSection-img{
+
+}
+
+.initSection-misc{
+
+}
+
