@@ -1,16 +1,26 @@
-
-.initiative{
-
-}
-.initiative-title{
-
-}
-
-.initiative-img{
-
+#participantInput{
+    max-height: 600px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 3fr 1fr;
+    gap: 20px;
 }
 
-.initiative-misc{
-
+.participantRow{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-color: rgb(73, 126, 175);
+    border-style:dotted;
+    border-width: 1px;
+    padding-left: 30px;
 }
+
+.participantRowSelected{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-color: rgb(73, 126, 175);
+    border-style:dotted;
+    border-width: 1px;
+    padding-left: 30px;
+}
+
 

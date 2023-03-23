@@ -1,100 +1,88 @@
 import React, { useState } from 'react';
 import './initiative.css';
-import InitSection from '../initSection/InitSection';
-
-
-let vals = [25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
-
-
+import Plaque from '../Plaque/Plaque';
+import {v4 as uuidv4} from 'uuid';
 
 export default function Initiative() {
-    const [isPurged, setIsPurged] = useState(false)
 
-    const [sects, setSects] = useState([
-        { "num": 25, "val": "", "id": 25 },
-        { "num": 24, "val": "", "id": 24 },
-        { "num": 23, "val": "", "id": 23 },
-        { "num": 22, "val": "", "id": 22 },
-        { "num": 21, "val": "", "id": 21 },
-        { "num": 20, "val": "", "id": 20 },
-        { "num": 19, "val": "", "id": 19 },
-        { "num": 18, "val": "", "id": 18 },
-        { "num": 17, "val": "", "id": 17 },
-        { "num": 16, "val": "", "id": 16 },
-        { "num": 15, "val": "", "id": 15 },
-        { "num": 14, "val": "", "id": 14 },
-        { "num": 13, "val": "", "id": 13 },
-        { "num": 12, "val": "", "id": 12 },
-        { "num": 11, "val": "", "id": 11 },
-        { "num": 10, "val": "", "id": 10 },
-        { "num": 9, "val": "", "id": 9 },
-        { "num": 8, "val": "", "id": 8 },
-        { "num": 7, "val": "", "id": 7 },
-        { "num": 6, "val": "", "id": 6 },
-        { "num": 5, "val": "", "id": 5 },
-        { "num": 4, "val": "", "id": 4 },
-        { "num": 3, "val": "", "id": 3 },
-        { "num": 2, "val": "", "id": 2 },
-        { "num": 1, "val": "", "id": 1 },
-        { "num": 0, "val": "", "id": 0 }
-    ])
+    const [participants, setParticipants] = useState({
+        "30" : [],
+        "29" : [],
+        "28" : [],
+        "27" : [],
+        "26" : [],
+        "25" : [],
+        "24" : [],
+        "23" : [],
+        "22" : [],
+        "21" : [],
+        "20" : [],
+        "19" : [],
+        "18" : [],
+        "17" : [],
+        "16" : [],
+        "15" : [],
+        "14" : [],
+        "13" : [],
+        "12" : [],
+        "11" : [],
+        "10" : [],
+        "9" : [],
+        "8" : [],
+        "7" : [],
+        "6" : [],
+        "5" : [],
+        "4" : [],
+        "3" : [],
+        "2" : [],
+        "1" : [],
+        "0" : [],
+        "-1" : [],
+        "-2" : []
+    })
 
-    function changeText(idx, newValue, id) {
-        let newSects = sects
-        newSects[25 - idx] = { "num": idx, "val": newValue, "id": id }
-        setSects(newSects)
+    const [inputName, setInputName] = useState("")
+    const [inputHp, setInputHp] = useState("")
+    const [inputAc, setInputAc] = useState("")
+    const [inputInit, setInputInit] = useState("")
+
+
+    function addParticipant(nme, ac, hp, init) {
+        let newParticipants = {...participants}
+        newParticipants[init].push({"name": nme, "ac": ac, "hp": hp, "init": init, "id": uuidv4()})
+        setParticipants(newParticipants)
     }
 
-    function remover(id) {
-        let newSects = sects
-        newSects = newSects.filter(s => s.id !== id)
-        setSects(newSects)
+    function removeParticipant(id, init){
+        let newParts = { ...participants }
+        newParts[init] = newParts[init].filter(p => p.id !== id)
+        setParticipants(newParts)
     }
 
-
-    function purge() {
-        if (sects.length > 0) {
-            let newSects = sects.filter(s => s.val !== "")
-            setSects(newSects)
-        }else{
-
+    function rndr(){
+        let outPut = []
+        for(let row in participants){
+            if(participants[row].length > 0){
+                outPut.push(participants[row])
+            }
         }
+        return outPut.reverse()
     }
 
-    function cycle() {
-        console.log(sects)
-        if (sects.length > 0) {
-            let newSects = sects
-            let newEnd = newSects[0]
-            newSects = newSects.slice(1, newSects.length)
-            newSects.push(newEnd)
-            setSects(newSects)
-            console.log(sects)
-        } else {
-        }
-    }
-
-    let purgedButton = <button onClick={() => { cycle() }}>Next</button>
-    let notPurgedButton = <button onClick={() => {
-        purge()
-        console.log(sects)
-        setIsPurged(true)
-    }}>Next</button>
 
     return (
         <>
             <div className='container'>
-                <article>
-                    <header>Initiative</header>
-                    {isPurged ?
-                        sects.map(s => <InitSection number={s.num} val={s.val} id={s.id} remover={remover} locked={true} changer={changeText} />)
-                        :
-                        sects.map(s => <InitSection number={s.num} val={s.val} id={s.id} remover={remover} locked={false} changer={changeText} />)
-                    }
-                    <footer>
-                        {isPurged ? purgedButton : notPurgedButton}
-                    </footer>
+                <article id="participantInput">
+                    <input type={"text"} placeholder={"hp"} onChange={(e) => setInputHp(e.target.value)} ></input>
+                    <input type={"text"} placeholder={"ac"} onChange={(e) => setInputAc(e.target.value)} ></input>
+                    <input type={"text"} placeholder={"init"} onChange={(e) => setInputInit(e.target.value)} ></input>
+                    <input id="nameInput" type={"text"} placeholder={"name"} onChange={(e) => setInputName(e.target.value)} ></input>
+                    <button onClick={() => addParticipant(inputName, inputAc, inputHp, inputInit)}> Add </button>
                 </article>
+                <div className='participantGrid'>
+                    {rndr().map(r => <div className='participantRow'>{r.map(p => <Plaque name={p.name} ac={p.ac}  hp={p.hp}  init={p.init} id={p.id} removeFunc={() => removeParticipant(p.id, p.init)}/>)}</div>)}
+                </div>
             </div>
         </>
     );

@@ -1,17 +1,18 @@
 const {app, BrowserWindow} = require('electron')
-
+const path = require('path')
 
 function createWindow(){
     const win = new BrowserWindow({
-        width: 800,
-        height: 600,
+        width: 1000,
+        height: 900,
         webPreferences: {
             plugins: true, 
             nodeIntegration: true, 
             contextIsolation: false,
             backgroundThrottling: false,
-            webSecurity: false 
-        }
+            webSecurity: false
+        },
+        icon : path.join(__dirname, '/yndr.ico')
     })
     // win.loadURL('http://localhost:3000')
     win.loadURL(`${app.getAppPath()}/build/index.html`)

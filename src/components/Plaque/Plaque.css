@@ -1,0 +1,52 @@
+.plaque{
+    max-width:310px;
+    max-height:200px;
+}
+
+.plaqueDetail{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.plaqueDetailHidden{
+    display: none;
+}
+
+#name{
+    grid-column: span 2;
+}
+#ac{
+    border-color:rgb(35, 35, 155);
+    min-width: 70px;
+}
+#init{
+    border-color:rgb(22, 83, 22);
+    min-width: 70px;
+}
+#hp{
+    border-color:rgb(158, 36, 36);
+    min-width: 70px;
+}
+#closeButton{
+    position: relative;
+    top:-120px;
+    right:-80px;
+    background-color: rgb(202, 88, 60);
+    max-width: 30px;
+    max-height: 30px;
+    border-radius: 5px;
+    padding-left:10px;
+}
+
+
+.shownStatus{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position:relative;
+    left: -30px;
+}
+
+.hiddenStatus{
+    display:none;
+}
