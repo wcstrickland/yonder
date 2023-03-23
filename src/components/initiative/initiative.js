@@ -72,7 +72,7 @@ export default function Initiative() {
 
     return (
         <>
-            <div className='container'>
+            <div className='container' style={{marginBottom:"2em"}}>
                 <article id="participantInput">
                     <input type={"text"} placeholder={"hp"} onChange={(e) => setInputHp(e.target.value)} ></input>
                     <input type={"text"} placeholder={"ac"} onChange={(e) => setInputAc(e.target.value)} ></input>

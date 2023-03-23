@@ -8,19 +8,14 @@
 .participantRow{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    border-color: rgb(73, 126, 175);
+    border-color: #202e38;
     border-style:dotted;
+    border-radius: 4px;
     border-width: 1px;
     padding-left: 30px;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
-.participantRowSelected{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    border-color: rgb(73, 126, 175);
-    border-style:dotted;
-    border-width: 1px;
-    padding-left: 30px;
-}
 
 

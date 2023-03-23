@@ -1,12 +1,19 @@
 .plaque{
     max-width:310px;
-    max-height:200px;
+    max-height:240px;
+    min-width:310px;
+    min-height:240px;
+}
+
+.charNums{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2px;
+    position: relative;
+    top: -20px;
 }
 
 .plaqueDetail{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 5px;
 }
 
 .plaqueDetailHidden{
@@ -26,17 +33,18 @@
 }
 #hp{
     border-color:rgb(158, 36, 36);
-    min-width: 70px;
 }
 #closeButton{
     position: relative;
-    top:-120px;
-    right:-80px;
+    top:-40px;
+    right:-250px;
     background-color: rgb(202, 88, 60);
     max-width: 30px;
     max-height: 30px;
+    min-width: 30px;
+    min-height: 30px;
     border-radius: 5px;
-    padding-left:10px;
+    padding-left: 10px;
 }
 
 
@@ -44,6 +52,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     position:relative;
+    top: -10px;
     left: -30px;
 }
 

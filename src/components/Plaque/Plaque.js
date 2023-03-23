@@ -18,12 +18,14 @@ export default function Plaque(props) {
     return (
         <>
             <article className='plaque' onMouseOver={handleOnMouse} onMouseOut={handleOffMouse}>
-                <div className={statusHidden ? "plaqueDetail": "plaqueDetailHidden" }>
+                <div onClick={() => props.removeFunc()} id={"closeButton"}>x</div>
+                <div className='charNums'>
                     <input id="hp" type="text" placeholder={props.hp} onChange={(e) => setHp(e.target.value)} />
                     <input id="ac" type="text" value={props.ac} />
                     <input id="init" type="text" value={props.init} />
-                    <div id="name">{props.name}</div>
-                    <div onClick={() => props.removeFunc()} id={"closeButton"}>x</div>
+                    <div className={statusHidden ? "plaqueDetail" : "plaqueDetailHidden"}>
+                        <div id="name">{props.name}</div>
+                    </div>
                 </div>
                 <ul className={statusHidden ? "hiddenStatus" : "shownStatus"}>
                     <div style={{ display: "flex" }}>
