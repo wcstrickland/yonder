@@ -1,8 +1,17 @@
 .plaque{
     max-width:310px;
-    max-height:240px;
+    max-height:270px;
     min-width:310px;
-    min-height:240px;
+    min-height:270px;
+}
+
+.hidden{
+   display: none; 
+}
+
+.showing{
+    height: 270px;
+    width: 310px;
 }
 
 .charNums{
@@ -10,7 +19,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 2px;
     position: relative;
-    top: -20px;
+    top: -25px;
 }
 
 .plaqueDetail{
@@ -21,8 +30,10 @@
 }
 
 #name{
-    grid-column: span 2;
+    position: relative;
+    top: -30px;
 }
+
 #ac{
     border-color:rgb(35, 35, 155);
     min-width: 70px;
@@ -36,8 +47,8 @@
 }
 #closeButton{
     position: relative;
-    top:-40px;
-    right:-250px;
+    top:-60px;
+    right:-235px;
     background-color: rgb(202, 88, 60);
     max-width: 30px;
     max-height: 30px;
@@ -52,10 +63,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     position:relative;
-    top: -10px;
-    left: -30px;
-}
-
-.hiddenStatus{
-    display:none;
+    top: -30px;
+    left: -20px;
 }
