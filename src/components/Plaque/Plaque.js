@@ -84,8 +84,11 @@ export default function Plaque(props) {
                                     }/>
                             </>
                         }
-                        {/* <div onClick={()=>handleSelectChange()} style={{position: "relative", top:"-40px", left:"230px"}}>X</div> */}
-                        <Link to={linkString} target="_blank" rel="noopener noreferrer" style={{position: "relative", top:"-40px", left:"230px"}}>O</Link>
+                        {props.monsterId !== null ?
+                            <Link to={linkString} target="_blank" rel="noopener noreferrer" style={{position: "relative", top:"-40px", left:"230px"}}>📋</Link>
+                            :
+                            <></>
+                        }
                     </div>
                     <div className='charNums' >
                         <input id="hp" type="text" placeholder={props.hp} onChange={(e) => setHp(e.target.value)} />

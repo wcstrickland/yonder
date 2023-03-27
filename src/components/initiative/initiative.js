@@ -55,10 +55,11 @@ export default function Initiative() {
     const [inputHp, setInputHp] = useState("")
     const [inputAc, setInputAc] = useState("")
     const [inputInit, setInputInit] = useState("")
-    const [outPutList, setOutPutList] = useState([[]])
 
 
     function addParticipant({nme, ac, hp, init, imune, monsterId} ) {
+        console.log("adding participant")
+console.log({nme, ac, hp, init, imune, monsterId})
         let conditions = {
             "frightened": false,
             "poisoned": false,
@@ -69,9 +70,10 @@ export default function Initiative() {
             "blind": false,
             "prone": false
         }
-        if(imune !== undefined){
-            for(let ea of imune){
-                delete conditions[ea]
+        if(imune !== undefined && imune !== null){
+            for(let cond in conditions){
+                if(imune.includes(cond))
+                delete conditions[cond]
             }
         }
 
