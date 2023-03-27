@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './Plaque.css';
 import { Link } from 'react-router-dom';
 import monsterJson from '../../resource/json/all_monsters.json'
+import MonsterSheet from '../MonsterSheet/MonsterSheet';
 
 
 export default function Plaque(props) {
@@ -10,6 +11,7 @@ export default function Plaque(props) {
     let monsterIdxByName = {}
     monsters.map((e, idx) => monsterIdxByName[e["name"]] = idx)
     let linkString = `/monster/${props.monsterId}`
+    const monster = monsters[props.monsterId]
 
     const [hp, setHp] = useState(props.hp)
     const [init, setInit] = useState(props.init)
@@ -20,6 +22,7 @@ export default function Plaque(props) {
     const [conditionHidden, setConditionHidden] = useState(false)
     const [modalVisible, setModalVisible] = useState(false)
     const [selectedCondition, setSelectedCondition] = useState("prone")
+
     const conditionText = {
         "frightened": ["- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within Line of Sight.",
         "- The creature can’t willingly move closer to the source of its fear."
@@ -64,6 +67,7 @@ export default function Plaque(props) {
             "ac": newValObj["ac"] || props.ac,
             "hp": newValObj["hp"] || props.hp,
             "init": newValObj["init"] || props.init,
+            "monsterId": newValObj["monsterId"] || props.monsterId,
             "id": props.id,
             "conditions": { ...conditions }
         }
@@ -77,6 +81,7 @@ export default function Plaque(props) {
             "ac": newValObj["ac"] || props.ac,
             "hp": newValObj["hp"] || props.hp,
             "init": newValObj["init"] || props.init,
+            "monsterId": newValObj["monsterId"] || props.monsterId,
             "id": props.id,
             "conditions": { ...conditions }
         }
@@ -114,6 +119,7 @@ export default function Plaque(props) {
     )
 
 
+
     if (!dead) {
         if (hp === "0") setDead(true)
     }
@@ -140,7 +146,7 @@ export default function Plaque(props) {
                                 } />
                             </>
                         }
-                        {props.monsterId !== null ?
+                        {props.monsterId !== null && props.monsterId !== undefined ?
                             <Link to={linkString} target="_blank" rel="noopener noreferrer" style={{ position: "relative", top: "-60px", left: "230px" }}>📋</Link>
                             :
                             <></>
