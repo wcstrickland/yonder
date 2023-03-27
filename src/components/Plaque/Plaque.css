@@ -3,6 +3,8 @@
     max-height:270px;
     min-width:310px;
     min-height:270px;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .hidden{

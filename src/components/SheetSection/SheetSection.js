@@ -165,7 +165,6 @@ function SheetSection(props) {
                 if(abilityMod>=0){
                     abilityMod = ` +${abilityMod}`
                 }
-                console.log(abilityMod)
             }
             if (strData.length > 0) {
                 CssForCards = strData.length < 10 ? "small-card" : "medium-card"
@@ -194,7 +193,7 @@ function SheetSection(props) {
     return (
         <>
             <article className={dynCssClass} >
-                <header style={{ display: "flex", justifyContent: "center" }}>{props.property.toUpperCase()}</header>
+                <header style={{ display: "flex", justifyContent: "center" }}>{typeof props.property === "string" && props.property.toUpperCase()}</header>
                 <div className={CssForCards}>{result} {abilityMod &&  abilityMod}</div>
             </article>
         </>

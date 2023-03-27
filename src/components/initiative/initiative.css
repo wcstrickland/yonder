@@ -6,8 +6,9 @@
 }
 
 .participantRow{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: left;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
     border-color: #202e38;
     border-style:dotted;
     border-radius: 4px;
@@ -17,5 +18,8 @@
     margin-bottom: 3px;
 }
 
+.initContainer{
+    max-width: 85%;
+}
 
 
