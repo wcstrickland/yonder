@@ -1,0 +1,29 @@
+
+.Tooltip{
+
+}
+.Tooltip-title{
+
+}
+
+.Tooltip-img{
+
+}
+
+.Tooltip-misc{
+
+}
+
+
+.tooltipHidden{
+    display: none;
+}
+.tooltipShown{
+    display: flex;
+    border: solid red 1px;
+    height: 100px;
+    width: 250px;
+    position: relative;
+    top: -50px;
+    left: -10px;
+}

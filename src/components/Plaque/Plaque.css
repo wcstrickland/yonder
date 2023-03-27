@@ -68,3 +68,17 @@
     top: -30px;
     left: -20px;
 }
+
+.conditionShown{
+    display: flex;
+}
+.conditionHidden{
+    display: none;
+}
+
+.tooltipHidden{
+    display: none;
+}
+.tooltipShown{
+    display: flex;
+}

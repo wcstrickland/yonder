@@ -10,9 +10,14 @@ export default function InitMonsterDropDown(props) {
     let monsterIdxByName = {}
     monsters.map((e, idx) => monsterIdxByName[e["name"]] = idx)
 
+    const [selectedMonster, setSelectedMonster] = useState("")
 
 
-    function handleSelectChange(ev) {
+    function handleSelectChange(value) {
+        console.log("selected Monster")
+        console.log(selectedMonster)
+        console.log("value")
+        console.log(value)
         const abilityModifiers = {
             "1": -5,
             "2": -4,
@@ -39,7 +44,9 @@ export default function InitMonsterDropDown(props) {
             "23": 6,
             "24": 7,
         }
-        let value = ev.target.value
+        if(value === ""){
+            return
+        }
         let idx = monsterIdxByName[value]
         let initRoll = (Math.floor(Math.random() * 20) + 1) + abilityModifiers[monsters[idx].dex]
         let filteredHp = []
@@ -89,7 +96,7 @@ export default function InitMonsterDropDown(props) {
     return (
         <>
 
-            <select onChange={(e) => handleSelectChange(e)}>
+            <select onChange={(e) => setSelectedMonster(e.target.value)}>
                 <option value="" disabled selected>Select</option>
                 {searchValue === ""
                     ? searchList.map((m) => <option>{m.name}</option>)
@@ -111,6 +118,7 @@ export default function InitMonsterDropDown(props) {
             </select>
 
             <input value={searchValue} placeholder={"search"} onChange={(e) => setSearchValue(e.target.value)} type={"text"}></input>
+            <button onClick={() => handleSelectChange(selectedMonster)}> Add </button>
         </>
     );
 }
