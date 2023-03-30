@@ -133,7 +133,7 @@ export default function Plaque(props) {
             {!dead
                 ?
                 <article className="plaque" >
-                    <div>
+                    <div style={{display:"flex", justifyContent: "space-between"}}>
                         {nameHidden
                             ?
                             <div id="name" onClick={() => setNameHidden(false)}>{props.name}</div>
@@ -147,7 +147,7 @@ export default function Plaque(props) {
                             </>
                         }
                         {props.monsterId !== null && props.monsterId !== undefined ?
-                            <Link to={linkString} target="_blank" rel="noopener noreferrer" style={{ position: "relative", top: "-60px", left: "230px" }}>📋</Link>
+                            <Link to={linkString} target="_blank" rel="noopener noreferrer" style={{ position: "relative", top: "-31px"}}>📋</Link>
                             :
                             <></>
                         }
@@ -167,7 +167,7 @@ export default function Plaque(props) {
                         <div id="name">{props.name}</div>
                     </div>
                     <div className='charNums'>
-                        <input id="hp" type="text" placeholder={props.hp} onChange={(e) => updatePlaque({ "hp": e.target.value })} />
+                        <input id="hp" type="text" placeholder={props.hp} onChange={(e) => setHp(e.target.value)} />
                         <input id="ac" type="text" value={props.ac} />
                         <input id="init" type="text" value={props.init} onChange={(e) => updatePlaque({ "init": e.target.value })} />
                     </div>
