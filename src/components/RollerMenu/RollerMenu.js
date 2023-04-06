@@ -5,7 +5,7 @@ import RollerDiceButton from '../RollerDiceButton/RollerDiceButton';
 export default function RollerMenu() {
 
     function randomNumber(min, max) {
-        return Math.floor(Math.random() * (max - min) + min);
+        return Math.floor(Math.random() * (max - min + 1) + 1);
     }
 
     const [d4, setD4] = useState(0)

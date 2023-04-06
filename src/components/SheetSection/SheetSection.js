@@ -25,6 +25,21 @@ function SheetSection(props) {
         return result
     }
 
+    function extractCheck(sectionString){
+        const re = /([0-9]{1,3}) *\+\s*([0-9]{1,3})|([0-9]{1,3}) *\-\s*([0-9]{1,3})/
+        let nums = sectionString.matchAll(re)
+        let mod = ""
+        for(const e of nums){
+            mod = e[2]
+        }
+        if(nums && nums.length > 0){
+            return <RollerButton sides={20} number={1} mod={mod}/>
+        }
+        else{
+            return false
+        }
+    }
+
     function extractDamageNumbers(data) {
         let returnValue = ""
         let returnList = []
@@ -162,16 +177,15 @@ function SheetSection(props) {
         if (isTerminal) {
             if(stats.includes(props.property)){
                 abilityMod = abilityModifiers[data]
-                if(abilityMod>=0){
-                    abilityMod = ` +${abilityMod}`
-                }
+                // abilityMod = <span > + {abilityMod}</span>
+                abilityMod = <RollerButton sides={20} number={1} mod={abilityMod}/>
             }
             if (strData.length > 0) {
                 CssForCards = strData.length < 10 ? "small-card" : "medium-card"
                 return (
                     <>
                         {strData}
-                        {strData && extractDamageNumbers(strData)}
+                        {strData && (extractDamageNumbers(strData))}
                     </>
                 )
             }
